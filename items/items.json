@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Medals",
+        "type": "consumable",
+        "max_quantity": 602,
+        "initial_quantity": 0,
+        "img": "images/medal_chimps2",
+        "codes": "medal"
+    }
+]
