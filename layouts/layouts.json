@@ -1,31 +1,31 @@
 {
-"tracker_right_map": {
-	"type": "container",
-	"background": "#212121",
-	"content": {
-		"type": "dock",
-		"dropshadow": true,
-		"content": [
-			{
-				"type": "dock",
-				"content": [
-					{
-						"type": "tabbed",
-						"dock": "top",
-						"tabs": [
-							{
-								"title": "Map",
-								"icon": "images/maps.png",
-								"content": {
-									"type": "map",
-									"maps": ["map"]
+	"tracker_default_map": {
+		"type": "container",
+		"background": "#212121",
+		"content": {
+			"type": "dock",
+			"dropshadow": true,
+			"content": [
+				{
+					"type": "dock",
+					"content": [
+						{
+							"type": "tabbed",
+							"dock": "top",
+							"tabs": [
+								{
+									"title": "Beginner Maps",
+									"icon": "images/medal_easy.png",
+									"content": {
+										"type": "map",
+										"maps": ["beginnermap1"]
+									}
 								}
-							}
-						]
-					}
-				]
-			}
-		]
+							]
+						}
+					]
+				}
+			]
+		}
 	}
-}
 }

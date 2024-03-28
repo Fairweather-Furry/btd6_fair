@@ -1,6 +1,7 @@
 [
     {
         "name": "Beginner",
+        "chest_unopened_img": "images/medal_chimps1.png",
         "children": [
             {
                 "name": "Monkey Meadow",
@@ -8,55 +9,55 @@
                 "sections": [
                     {
                         "name": "MM Easy",
-                        "img": "images/medal_easy.png"
+                        "chest_opened_img": "images/medal_easy.png"
                     },
                     {
                         "name": "MM Primary Only",
-                        "img": "images/medal_primary.png"
+                        "chest_opened_img": "images/medal_primary.png"
                     },
                     {
                         "name": "MM Deflation",
-                        "img": "images/medal_deflation.png"
+                        "chest_opened_img": "images/medal_deflation.png"
                     },
                     {
                         "name": "MM Medium",
-                        "img": "images/medal_medium.png"
+                        "chest_opened_img": "images/medal_medium.png"
                     },
                     {
                         "name": "MM Reverse",
-                        "img": "images/medal_reverse.png"
+                        "chest_opened_img": "images/medal_reverse.png"
                     },
                     {
                         "name": "MM Military Only",
-                        "img": "images/medal_military.png"
+                        "chest_opened_img": "images/medal_military.png"
                     },
                     {
                         "name": "MM Apopalypse",
-                        "img": "images/medal_apopalypse.png"
+                        "chest_opened_img": "images/medal_apopalypse.png"
                     },
                     {
                         "name": "MM Hard",
-                        "img": "images/medal_hard.png"
+                        "chest_opened_img": "images/medal_hard.png"
                     },
                     {
                         "name": "MM Alternate Bloon Rounds",
-                        "img": "images/medal_alternate.png"
+                        "chest_opened_img": "images/medal_alternate.png"
                     },
                     {
                         "name": "MM Magic Only",
-                        "img": "images/medal_magic.png"
+                        "chest_opened_img": "images/medal_magic.png"
                     },
                     {
                         "name": "MM Double HP MOABs",
-                        "img": "images/medal_moabs.png"
+                        "chest_opened_img": "images/medal_moabs.png"
                     },
                     {
                         "name": "MM Half Cash",
-                        "img": "images/medal_cash.png"
+                        "chest_opened_img": "images/medal_cash.png"
                     },
                     {
                         "name": "MM Impoppable",
-                        "img": "images/medal_impoppable.png"
+                        "chest_opened_img": "images/medal_impoppable.png"
                     },
                     {
                         "name": "MM Chimps",
@@ -66,7 +67,7 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "map",
+                        "map": "beginnermap1",
                         "x": 1,
                         "y": 1
                     }

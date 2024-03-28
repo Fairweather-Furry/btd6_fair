@@ -1,7 +1,7 @@
 [
     {
-        "name": "map",
-        "location_size": 20,
+        "name": "beginnermap1",
+        "location_size": 80,
         "location_border_thickness": 10,
         "img": "images/maps.png"
     }
