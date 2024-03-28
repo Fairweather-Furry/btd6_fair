@@ -4,7 +4,15 @@
         "type": "consumable",
         "max_quantity": 602,
         "initial_quantity": 0,
-        "img": "images/medal_chimps2",
+        "img": "images/medal_hard.png",
         "codes": "medal"
+    },
+    {
+        "name": "Difficulty",
+        "type": "consumable",
+        "max_quantity": 14,
+        "initial_quantity": 0,
+        "img": "images/medal_chimps2.png",
+        "codes": "op_difficulty"
     }
 ]

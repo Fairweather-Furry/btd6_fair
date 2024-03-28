@@ -1,31 +1,53 @@
 {
 	"tracker_default_map": {
 		"type": "container",
-		"background": "#212121",
-		"content": {
+		"background": "#000000",
+		"content": [
+			{
 			"type": "dock",
 			"dropshadow": true,
 			"content": [
-				{
+					{
 					"type": "dock",
-					"content": [
-						{
-							"type": "tabbed",
-							"dock": "top",
-							"tabs": [
-								{
-									"title": "Beginner Maps",
-									"icon": "images/medal_easy.png",
-									"content": {
-										"type": "map",
-										"maps": ["beginnermap1"]
+					"content": 
+						[
+							{
+								"type": "tabbed",
+								"dock": "top",
+								"tabs":
+								[
+									{
+										"title": "Beginner Maps Pg.1",
+										"icon": "images/medal_easy.png",
+										"content": {
+											"type": "map",
+											"maps": ["beginnermap1"]
+										}
 									}
+								]
+							}
+						]
+					},
+					{
+					"type": "dock",
+					"dock": "left",
+					"v_alignment": "stretch",
+					"margin": "0,0,0,0",
+					"content": 
+						[
+							{
+								"type": "group",
+								"header": "Options",
+								"dock": "top",
+								"content": {
+									"type": "layout",
+									"key": "options_list"
 								}
-							]
-						}
-					]
-				}
-			]
-		}
+							}
+						]	
+					}
+				]
+			}
+		]
 	}
 }

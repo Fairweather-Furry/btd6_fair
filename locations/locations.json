@@ -1,7 +1,7 @@
 [
     {
         "name": "Beginner",
-        "chest_unopened_img": "images/medal_chimps1.png",
+        "chest_unopened_img": "images/medal_none.png",
         "children": [
             {
                 "name": "Monkey Meadow",
@@ -61,8 +61,8 @@
                     },
                     {
                         "name": "MM Chimps",
-                        "chest_unopened_img": "images/medal_chimps1.png",
-                        "chest_opened_img": "images/medal_chimps2.png"
+                        "chest_unopened_img": "images/medal_chimps2.png",
+                        "chest_opened_img": "images/medal_chimps1.png"
                     }
                 ],
                 "map_locations": [
