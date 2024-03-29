@@ -9,6 +9,24 @@
 			"content": [
 					{
 					"type": "dock",
+					"dock": "left",
+					"v_alignment": "stretch",
+					"margin": "0,0,0,0",
+					"content": 
+						[
+							{
+								"type": "group",
+								"header": "Options",
+								"dock": "top",
+								"content": {
+									"type": "layout",
+									"key": "options_list"
+								}
+							}
+						]	
+					},
+					{
+					"type": "dock",
 					"content": 
 						[
 							{
@@ -27,24 +45,6 @@
 								]
 							}
 						]
-					},
-					{
-					"type": "dock",
-					"dock": "left",
-					"v_alignment": "stretch",
-					"margin": "0,0,0,0",
-					"content": 
-						[
-							{
-								"type": "group",
-								"header": "Options",
-								"dock": "top",
-								"content": {
-									"type": "layout",
-									"key": "options_list"
-								}
-							}
-						]	
 					}
 				]
 			}

@@ -1,5 +1,5 @@
-ScriptHost:LoadScript("scripts/autotracking/item_mapping.lua")
-ScriptHost:LoadScript("scripts/autotracking/location_mapping.lua")
+--ScriptHost:LoadScript("scripts/autotracking/item_mapping.lua")
+--ScriptHost:LoadScript("scripts/autotracking/location_mapping.lua")
 ScriptHost:LoadScript("scripts/autotracking/ap_slot.lua")
 
 CUR_INDEX = -1
@@ -73,16 +73,16 @@ function onClear(slot_data)
 	end
 
     -- Thank you @alwaysintreble on the poptracker discord for help here
---    if slot_data["difficulty"] then
---        Tracker:FindObjectForCode("op_difficulty").AcquiredCount = tonumber(slot_data["difficulty"])
---        if slot_data["difficulty"] == 14 then
---            Tracker:FindObjectForCode("op_difficulty").AcquiredCount = tonumber(slot_data["difficulty"])
---        else if slot_data["difficulty"] == 5 then
---            Tracker:FindObjectForCode("op_difficulty").AcquiredCount = tonumber(slot_data["difficulty"])
---        else if slot_data["difficulty"] == 4 then
---            Tracker:FindObjectForCode("op_difficulty").AcquiredCount = tonumber(slot_data["difficulty"])
---        end
---    end
+    if slot_data["difficulty"] then
+        Tracker:FindObjectForCode("op_difficulty").AcquiredCount = tonumber(slot_data["difficulty"])
+        if slot_data["difficulty"] == 14 then
+            Tracker:FindObjectForCode("op_difficulty").AcquiredCount = tonumber(slot_data["difficulty"])
+        else if slot_data["difficulty"] == 5 then
+            Tracker:FindObjectForCode("op_difficulty").AcquiredCount = tonumber(slot_data["difficulty"])
+        else if slot_data["difficulty"] == 4 then
+            Tracker:FindObjectForCode("op_difficulty").AcquiredCount = tonumber(slot_data["difficulty"])
+        end
+    end
 
 -- called when an item gets collected
 function onItem(index, item_id, item_name, player_number)

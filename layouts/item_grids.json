@@ -1,14 +1,15 @@
 {
     "options_list": {
         "type": "array",
-        "orientation": "vertical",
+        "orientation": "horizontal",
         "content":[
 	    	{
 	    		"type": "itemgrid",
+	    		"h_alignment": "left",
+                "item_margin": "1,1",
 	    		"item_size": "4,4",
-	    		"h_alignment": "center",
 	    		"rows": [
-	    			"op_difficulty"
+	    			["op_difficulty","medal"]
 	    		]
 	    	}
         ]
