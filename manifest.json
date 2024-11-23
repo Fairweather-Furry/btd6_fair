@@ -9,5 +9,6 @@
       "display_name": "Medals Tracker",
       "flags": ["ap"]
     }
-  }
+  },
+  "versions_url": "https://raw.githubusercontent.com/Fairweather-Furry/btd6_fair/refs/heads/main/versions.json"
 }

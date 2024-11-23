@@ -13,11 +13,13 @@
                     },
                     {
                         "name": "MM Primary Only",
-                        "chest_opened_img": "images/medal_primary.png"
+                        "chest_opened_img": "images/medal_primary.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
                     },
                     {
                         "name": "MM Deflation",
-                        "chest_opened_img": "images/medal_deflation.png"
+                        "chest_opened_img": "images/medal_deflation.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
                     },
                     {
                         "name": "MM Medium",
@@ -25,15 +27,18 @@
                     },
                     {
                         "name": "MM Reverse",
-                        "chest_opened_img": "images/medal_reverse.png"
+                        "chest_opened_img": "images/medal_reverse.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
                     },
                     {
                         "name": "MM Military Only",
-                        "chest_opened_img": "images/medal_military.png"
+                        "chest_opened_img": "images/medal_military.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
                     },
                     {
                         "name": "MM Apopalypse",
-                        "chest_opened_img": "images/medal_apopalypse.png"
+                        "chest_opened_img": "images/medal_apopalypse.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
                     },
                     {
                         "name": "MM Hard",
@@ -41,19 +46,23 @@
                     },
                     {
                         "name": "MM Alternate Bloon Rounds",
-                        "chest_opened_img": "images/medal_alternate.png"
+                        "chest_opened_img": "images/medal_alternate.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
                     },
                     {
                         "name": "MM Magic Only",
-                        "chest_opened_img": "images/medal_magic.png"
+                        "chest_opened_img": "images/medal_magic.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
                     },
                     {
                         "name": "MM Double HP MOABs",
-                        "chest_opened_img": "images/medal_moabs.png"
+                        "chest_opened_img": "images/medal_moabs.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
                     },
                     {
                         "name": "MM Half Cash",
-                        "chest_opened_img": "images/medal_cash.png"
+                        "chest_opened_img": "images/medal_cash.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
                     },
                     {
                         "name": "MM Impoppable",
@@ -62,7 +71,8 @@
                     {
                         "name": "MM Chimps",
                         "chest_unopened_img": "images/medal_chimps1.png",
-                        "chest_opened_img": "images/medal_chimps2.png"
+                        "chest_opened_img": "images/medal_chimps2.png",
+                        "visibility_rules": [ "op_difficulty_1" ]
                     }
                 ],
                 "map_locations": [
