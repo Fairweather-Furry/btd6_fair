@@ -35,12 +35,48 @@
 								"tabs":
 								[
 									{
-										"title": "Beginner Maps Pg.1",
+										"title": "Beginner Maps",
 										"icon": "images/medal_easy.png",
-										"content": {
-											"type": "map",
-											"maps": ["beginnermap1"]
-										}
+										"content":
+										[
+											{
+												"type": "tabbed",
+												"dock": "top",
+												"tabs":
+												[
+													{
+														"title": "Monkey Meadow",
+														"content":
+														[
+															{
+																"type": "map",
+																"maps": ["monkeymeadow"]
+															}
+														]
+													},
+													{
+														"title": "In The Loop",
+														"content":
+														[
+															{
+																"type": "map",
+																"maps": ["intheloop"]
+															}
+														]
+													},
+													{
+														"title": "Middle Of The Road",
+														"content":
+														[
+															{
+																"type": "map",
+																"maps": ["middleoftheroad"]
+															}
+														]
+													}
+												]
+											}
+										]
 									}
 								]
 							}

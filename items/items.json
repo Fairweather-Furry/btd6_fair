@@ -30,5 +30,20 @@
                 "inheret_codes": false
             }
         ]
+    },
+    {
+        "name": "Tutorial-MUnlock-Item",
+        "type": "toggle",
+        "codes": "Tutorial-Munlock"
+    },
+    {
+        "name": "InTheLoop-MUnlock-Item",
+        "type": "toggle",
+        "codes": "InTheLoop-Munlock"
+    },
+    {
+        "name": "MiddleOfTheRoad-MUnlock-Item",
+        "type": "toggle",
+        "codes": "MiddleOfTheRoad-Munlock"
     }
 ]

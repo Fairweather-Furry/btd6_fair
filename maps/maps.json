@@ -1,8 +1,20 @@
 [
     {
-        "name": "beginnermap1",
+        "name": "monkeymeadow",
         "location_size": 80,
         "location_border_thickness": 10,
-        "img": "images/maps.png"
+        "img": "images/monkeymeadow.png"
+    },
+    {
+        "name": "intheloop",
+        "location_size": 80,
+        "location_border_thickness": 10,
+        "img": "images/intheloop.png"
+    },
+    {
+        "name": "middleoftheroad",
+        "location_size": 100,
+        "location_border_thickness": 12,
+        "img": "images/middleoftheroad.png"
     }
 ]
