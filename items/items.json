@@ -34,16 +34,19 @@
     {
         "name": "Tutorial-MUnlock-Item",
         "type": "toggle",
+        "img": "images/monkeymeadow.png",
         "codes": "Tutorial-Munlock"
     },
     {
         "name": "InTheLoop-MUnlock-Item",
         "type": "toggle",
+        "img": "images/intheloop.png",
         "codes": "InTheLoop-Munlock"
     },
     {
         "name": "MiddleOfTheRoad-MUnlock-Item",
         "type": "toggle",
+        "img": "images/middleoftheroad.png",
         "codes": "MiddleOfTheRoad-Munlock"
     }
 ]

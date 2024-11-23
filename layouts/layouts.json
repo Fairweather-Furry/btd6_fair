@@ -1,5 +1,5 @@
 {
-	"tracker_default_map": {
+	"tracker_top_map": {
 		"type": "container",
 		"background": "#000000",
 		"content": [
@@ -21,6 +21,15 @@
 								"content": {
 									"type": "layout",
 									"key": "options_list"
+								}
+							},
+							{
+								"type": "group",
+								"header": "Map Manual Unlocks",
+								"dock": "top",
+								"content": {
+									"type": "layout",
+									"key": "map_unlocks"
 								}
 							}
 						]	

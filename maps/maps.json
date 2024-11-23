@@ -13,8 +13,8 @@
     },
     {
         "name": "middleoftheroad",
-        "location_size": 100,
-        "location_border_thickness": 12,
+        "location_size": 80,
+        "location_border_thickness": 10,
         "img": "images/middleoftheroad.png"
     }
 ]
