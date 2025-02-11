@@ -14,6 +14,7 @@
                     {
                         "name": "MM Primary Only",
                         "chest_opened_img": "images/medals/medal_primary.png",
+                        "access_rules": ["$primaryonly"],
                         "visibility_rules": [ "op_difficulty_2" ]
                     },
                     {
@@ -33,6 +34,7 @@
                     {
                         "name": "MM Military Only",
                         "chest_opened_img": "images/medals/medal_military.png",
+                        "access_rules": ["$militaryonly"],
                         "visibility_rules": [ "op_difficulty_2" ]
                     },
                     {
@@ -52,6 +54,7 @@
                     {
                         "name": "MM Magic Only",
                         "chest_opened_img": "images/medals/medal_magic.png",
+                        "access_rules": ["$magiconly"],
                         "visibility_rules": [ "op_difficulty_2" ]
                     },
                     {
@@ -94,6 +97,7 @@
                     {
                         "name": "ITL Primary Only",
                         "chest_opened_img": "images/medals/medal_primary.png",
+                        "access_rules": ["$primaryonly"],
                         "visibility_rules": [ "op_difficulty_2" ]
                     },
                     {
@@ -113,6 +117,7 @@
                     {
                         "name": "ITL Military Only",
                         "chest_opened_img": "images/medals/medal_military.png",
+                        "access_rules": ["$militaryonly"],
                         "visibility_rules": [ "op_difficulty_2" ]
                     },
                     {
@@ -132,6 +137,7 @@
                     {
                         "name": "ITL Magic Only",
                         "chest_opened_img": "images/medals/medal_magic.png",
+                        "access_rules": ["$magiconly"],
                         "visibility_rules": [ "op_difficulty_2" ]
                     },
                     {
@@ -174,6 +180,7 @@
                     {
                         "name": "MOTR Primary Only",
                         "chest_opened_img": "images/medals/medal_primary.png",
+                        "access_rules": ["$primaryonly"],
                         "visibility_rules": [ "op_difficulty_2" ]
                     },
                     {
@@ -193,6 +200,7 @@
                     {
                         "name": "MOTR Military Only",
                         "chest_opened_img": "images/medals/medal_military.png",
+                        "access_rules": ["$militaryonly"],
                         "visibility_rules": [ "op_difficulty_2" ]
                     },
                     {
@@ -212,6 +220,7 @@
                     {
                         "name": "MOTR Magic Only",
                         "chest_opened_img": "images/medals/medal_magic.png",
+                        "access_rules": ["$magiconly"],
                         "visibility_rules": [ "op_difficulty_2" ]
                     },
                     {

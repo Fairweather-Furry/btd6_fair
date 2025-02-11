@@ -25,15 +25,32 @@
 							},
 							{
 								"type": "group",
-								"header": "Map Manual Unlocks",
+								"header": "Monkey Unlocks",
 								"dock": "top",
 								"content": {
 									"type": "layout",
-									"key": "map_unlocks"
+									"key": "monkey_unlocks"
 								}
 							}
 						]	
-					},
+					},{
+						"type": "dock",
+						"dock": "bottom",
+						"h_alignment": "stretch",
+						"margin": "0,0,0,0",
+						"content": 
+							[
+								{
+									"type": "group",
+									"header": "Map Unlocks",
+									"dock": "top",
+									"content": {
+										"type": "layout",
+										"key": "map_unlocks"
+									}
+								}
+							]	
+						},
 					{
 					"type": "dock",
 					"content": 

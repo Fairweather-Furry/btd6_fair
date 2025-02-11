@@ -1,6 +1,6 @@
 [
     {
-        "name": "Medals",
+        "name": "Medals Retrieved",
         "type": "consumable",
         "max_quantity": 602,
         "initial_quantity": 0,
@@ -32,21 +32,165 @@
         ]
     },
     {
+        "name": "DartMonkey-TUnlock-Item",
+        "type": "toggle",
+        "img": "images/medals/medal_none.png",
+        "codes": "DartMonkey-TUnlock"
+    },
+    {
+        "name": "BoomerangMonkey-TUnlock-Item",
+        "type": "toggle",
+        "img": "images/medals/medal_none.png",
+        "codes": "BoomerangMonkey-TUnlock"
+    },
+    {
+        "name": "BombShooter-TUnlock-Item",
+        "type": "toggle",
+        "img": "images/medals/medal_none.png",
+        "codes": "BombShooter-TUnlock"
+    },
+    {
+        "name": "TackShooter-TUnlock-Item",
+        "type": "toggle",
+        "img": "images/medals/medal_none.png",
+        "codes": "TackShooter-TUnlock"
+    },
+    {
+        "name": "IceMonkey-TUnlock-Item",
+        "type": "toggle",
+        "img": "images/medals/medal_none.png",
+        "codes": "IceMonkey-TUnlock"
+    },
+    {
+        "name": "GlueGunner-TUnlock-Item",
+        "type": "toggle",
+        "img": "images/medals/medal_none.png",
+        "codes": "GlueGunner-TUnlock"
+    },
+    {
+        "name": "SniperMonkey-TUnlock-Item",
+        "type": "toggle",
+        "img": "images/medals/medal_none.png",
+        "codes": "SniperMonkey-TUnlock"
+    },
+    {
+        "name": "MonkeySub-TUnlock-Item",
+        "type": "toggle",
+        "img": "images/medals/medal_none.png",
+        "codes": "MonkeySub-TUnlock"
+    },
+    {
+        "name": "MonkeyBuccaneer-TUnlock-Item",
+        "type": "toggle",
+        "img": "images/medals/medal_none.png",
+        "codes": "MonkeyBuccaneer-TUnlock"
+    },
+    {
+        "name": "MonkeyAce-TUnlock-Item",
+        "type": "toggle",
+        "img": "images/medals/medal_none.png",
+        "codes": "MonkeyAce-TUnlock"
+    },
+    {
+        "name": "HeliPilot-TUnlock-Item",
+        "type": "toggle",
+        "img": "images/medals/medal_none.png",
+        "codes": "HeliPilot-TUnlock"
+    },
+    {
+        "name": "DartlingGunner-TUnlock-Item",
+        "type": "toggle",
+        "img": "images/medals/medal_none.png",
+        "codes": "DartlingGunner-TUnlock"
+    },
+    {
+        "name": "MortarMonkey-TUnlock-Item",
+        "type": "toggle",
+        "img": "images/medals/medal_none.png",
+        "codes": "MortarMonkey-TUnlock"
+    },
+    {
+        "name": "WizardMonkey-TUnlock-Item",
+        "type": "toggle",
+        "img": "images/medals/medal_none.png",
+        "codes": "WizardMonkey-TUnlock"
+    },
+    {
+        "name": "SuperMonkey-TUnlock-Item",
+        "type": "toggle",
+        "img": "images/medals/medal_none.png",
+        "codes": "SuperMonkey-TUnlock"
+    },
+    {
+        "name": "NinjaMonkey-TUnlock-Item",
+        "type": "toggle",
+        "img": "images/medals/medal_none.png",
+        "codes": "NinjaMonkey-TUnlock"
+    },
+    {
+        "name": "Alchemist-TUnlock-Item",
+        "type": "toggle",
+        "img": "images/medals/medal_none.png",
+        "codes": "Alchemist-TUnlock"
+    },
+    {
+        "name": "Druid-TUnlock-Item",
+        "type": "toggle",
+        "img": "images/medals/medal_none.png",
+        "codes": "Druid-TUnlock"
+    },
+    {
+        "name": "Mermonkey-TUnlock-Item",
+        "type": "toggle",
+        "img": "images/medals/medal_none.png",
+        "codes": "Mermonkey-TUnlock"
+    },
+    {
+        "name": "BananaFarm-TUnlock-Item",
+        "type": "toggle",
+        "img": "images/medals/medal_none.png",
+        "codes": "BananaFarm-TUnlock"
+    },
+    {
+        "name": "SpikeFactory-TUnlock-Item",
+        "type": "toggle",
+        "img": "images/medals/medal_none.png",
+        "codes": "SpikeFactory-TUnlock"
+    },
+    {
+        "name": "MonkeyVillage-TUnlock-Item",
+        "type": "toggle",
+        "img": "images/medals/medal_none.png",
+        "codes": "MonkeyVillage-TUnlock"
+    },
+    {
+        "name": "EngineerMonkey-TUnlock-Item",
+        "type": "toggle",
+        "img": "images/medals/medal_none.png",
+        "codes": "EngineerMonkey-TUnlock"
+    },
+    {
+        "name": "BeastHandler-TUnlock-Item",
+        "type": "toggle",
+        "img": "images/medals/medal_none.png",
+        "codes": "BeastHandler-TUnlock"
+    },
+    {
         "name": "Tutorial-MUnlock-Item",
         "type": "toggle",
         "img": "images/maps/monkeymeadow.png",
-        "codes": "Tutorial-Munlock"
+        "codes": "Tutorial-MUnlock"
     },
     {
         "name": "InTheLoop-MUnlock-Item",
         "type": "toggle",
         "img": "images/maps/intheloop.png",
-        "codes": "InTheLoop-Munlock"
+        "codes": "InTheLoop-MUnlock"
     },
     {
         "name": "MiddleOfTheRoad-MUnlock-Item",
         "type": "toggle",
         "img": "images/maps/middleoftheroad.png",
-        "codes": "MiddleOfTheRoad-Munlock"
+        "codes": "MiddleOfTheRoad-MUnlock"
     }
 ]
