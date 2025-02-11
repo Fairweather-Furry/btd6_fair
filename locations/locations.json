@@ -73,8 +73,7 @@
                     },
                     {
                         "name": "MM Chimps",
-                        "chest_unopened_img": "images/medals/medal_chimps1.png",
-                        "chest_opened_img": "images/medals/medal_chimps2.png",
+                        "chest_opened_img": "images/medals/medal_chimps1.png",
                         "visibility_rules": [ "op_difficulty_1" ]
                     }
                 ],
@@ -156,8 +155,7 @@
                     },
                     {
                         "name": "ITL Chimps",
-                        "chest_unopened_img": "images/medals/medal_chimps1.png",
-                        "chest_opened_img": "images/medals/medal_chimps2.png",
+                        "chest_opened_img": "images/medals/medal_chimps1.png",
                         "visibility_rules": [ "op_difficulty_1" ]
                     }
                 ],
@@ -239,8 +237,7 @@
                     },
                     {
                         "name": "MOTR Chimps",
-                        "chest_unopened_img": "images/medals/medal_chimps1.png",
-                        "chest_opened_img": "images/medals/medal_chimps2.png",
+                        "chest_opened_img": "images/medals/medal_chimps1.png",
                         "visibility_rules": [ "op_difficulty_1" ]
                     }
                 ],
