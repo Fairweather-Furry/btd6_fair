@@ -1,7 +1,7 @@
 [
     {
         "name": "Beginner",
-        "chest_unopened_img": "images/medal_none.png",
+        "chest_unopened_img": "images/medals/medal_none.png",
         "children": [
             {
                 "name": "Monkey Meadow",
@@ -9,69 +9,69 @@
                 "sections": [
                     {
                         "name": "MM Easy",
-                        "chest_opened_img": "images/medal_easy.png"
+                        "chest_opened_img": "images/medals/medal_easy.png"
                     },
                     {
                         "name": "MM Primary Only",
-                        "chest_opened_img": "images/medal_primary.png",
+                        "chest_opened_img": "images/medals/medal_primary.png",
                         "visibility_rules": [ "op_difficulty_2" ]
                     },
                     {
                         "name": "MM Deflation",
-                        "chest_opened_img": "images/medal_deflation.png",
+                        "chest_opened_img": "images/medals/medal_deflation.png",
                         "visibility_rules": [ "op_difficulty_2" ]
                     },
                     {
                         "name": "MM Medium",
-                        "chest_opened_img": "images/medal_medium.png"
+                        "chest_opened_img": "images/medals/medal_medium.png"
                     },
                     {
                         "name": "MM Reverse",
-                        "chest_opened_img": "images/medal_reverse.png",
+                        "chest_opened_img": "images/medals/medal_reverse.png",
                         "visibility_rules": [ "op_difficulty_2" ]
                     },
                     {
                         "name": "MM Military Only",
-                        "chest_opened_img": "images/medal_military.png",
+                        "chest_opened_img": "images/medals/medal_military.png",
                         "visibility_rules": [ "op_difficulty_2" ]
                     },
                     {
                         "name": "MM Apopalypse",
-                        "chest_opened_img": "images/medal_apopalypse.png",
+                        "chest_opened_img": "images/medals/medal_apopalypse.png",
                         "visibility_rules": [ "op_difficulty_2" ]
                     },
                     {
                         "name": "MM Hard",
-                        "chest_opened_img": "images/medal_hard.png"
+                        "chest_opened_img": "images/medals/medal_hard.png"
                     },
                     {
                         "name": "MM Alternate Bloon Rounds",
-                        "chest_opened_img": "images/medal_alternate.png",
+                        "chest_opened_img": "images/medals/medal_alternate.png",
                         "visibility_rules": [ "op_difficulty_2" ]
                     },
                     {
                         "name": "MM Magic Only",
-                        "chest_opened_img": "images/medal_magic.png",
+                        "chest_opened_img": "images/medals/medal_magic.png",
                         "visibility_rules": [ "op_difficulty_2" ]
                     },
                     {
                         "name": "MM Double HP MOABs",
-                        "chest_opened_img": "images/medal_moabs.png",
+                        "chest_opened_img": "images/medals/medal_moabs.png",
                         "visibility_rules": [ "op_difficulty_2" ]
                     },
                     {
                         "name": "MM Half Cash",
-                        "chest_opened_img": "images/medal_cash.png",
+                        "chest_opened_img": "images/medals/medal_cash.png",
                         "visibility_rules": [ "op_difficulty_2" ]
                     },
                     {
                         "name": "MM Impoppable",
-                        "chest_opened_img": "images/medal_impoppable.png"
+                        "chest_opened_img": "images/medals/medal_impoppable.png"
                     },
                     {
                         "name": "MM Chimps",
-                        "chest_unopened_img": "images/medal_chimps1.png",
-                        "chest_opened_img": "images/medal_chimps2.png",
+                        "chest_unopened_img": "images/medals/medal_chimps1.png",
+                        "chest_opened_img": "images/medals/medal_chimps2.png",
                         "visibility_rules": [ "op_difficulty_1" ]
                     }
                 ],
@@ -89,69 +89,69 @@
                 "sections": [
                     {
                         "name": "ITL Easy",
-                        "chest_opened_img": "images/medal_easy.png"
+                        "chest_opened_img": "images/medals/medal_easy.png"
                     },
                     {
                         "name": "ITL Primary Only",
-                        "chest_opened_img": "images/medal_primary.png",
+                        "chest_opened_img": "images/medals/medal_primary.png",
                         "visibility_rules": [ "op_difficulty_2" ]
                     },
                     {
                         "name": "ITL Deflation",
-                        "chest_opened_img": "images/medal_deflation.png",
+                        "chest_opened_img": "images/medals/medal_deflation.png",
                         "visibility_rules": [ "op_difficulty_2" ]
                     },
                     {
                         "name": "ITL Medium",
-                        "chest_opened_img": "images/medal_medium.png"
+                        "chest_opened_img": "images/medals/medal_medium.png"
                     },
                     {
                         "name": "ITL Reverse",
-                        "chest_opened_img": "images/medal_reverse.png",
+                        "chest_opened_img": "images/medals/medal_reverse.png",
                         "visibility_rules": [ "op_difficulty_2" ]
                     },
                     {
                         "name": "ITL Military Only",
-                        "chest_opened_img": "images/medal_military.png",
+                        "chest_opened_img": "images/medals/medal_military.png",
                         "visibility_rules": [ "op_difficulty_2" ]
                     },
                     {
                         "name": "ITL Apopalypse",
-                        "chest_opened_img": "images/medal_apopalypse.png",
+                        "chest_opened_img": "images/medals/medal_apopalypse.png",
                         "visibility_rules": [ "op_difficulty_2" ]
                     },
                     {
                         "name": "ITL Hard",
-                        "chest_opened_img": "images/medal_hard.png"
+                        "chest_opened_img": "images/medals/medal_hard.png"
                     },
                     {
                         "name": "ITL Alternate Bloon Rounds",
-                        "chest_opened_img": "images/medal_alternate.png",
+                        "chest_opened_img": "images/medals/medal_alternate.png",
                         "visibility_rules": [ "op_difficulty_2" ]
                     },
                     {
                         "name": "ITL Magic Only",
-                        "chest_opened_img": "images/medal_magic.png",
+                        "chest_opened_img": "images/medals/medal_magic.png",
                         "visibility_rules": [ "op_difficulty_2" ]
                     },
                     {
                         "name": "ITL Double HP MOABs",
-                        "chest_opened_img": "images/medal_moabs.png",
+                        "chest_opened_img": "images/medals/medal_moabs.png",
                         "visibility_rules": [ "op_difficulty_2" ]
                     },
                     {
                         "name": "ITL Half Cash",
-                        "chest_opened_img": "images/medal_cash.png",
+                        "chest_opened_img": "images/medals/medal_cash.png",
                         "visibility_rules": [ "op_difficulty_2" ]
                     },
                     {
                         "name": "ITL Impoppable",
-                        "chest_opened_img": "images/medal_impoppable.png"
+                        "chest_opened_img": "images/medals/medal_impoppable.png"
                     },
                     {
                         "name": "ITL Chimps",
-                        "chest_unopened_img": "images/medal_chimps1.png",
-                        "chest_opened_img": "images/medal_chimps2.png",
+                        "chest_unopened_img": "images/medals/medal_chimps1.png",
+                        "chest_opened_img": "images/medals/medal_chimps2.png",
                         "visibility_rules": [ "op_difficulty_1" ]
                     }
                 ],
@@ -169,69 +169,69 @@
                 "sections": [
                     {
                         "name": "MOTR Easy",
-                        "chest_opened_img": "images/medal_easy.png"
+                        "chest_opened_img": "images/medals/medal_easy.png"
                     },
                     {
                         "name": "MOTR Primary Only",
-                        "chest_opened_img": "images/medal_primary.png",
+                        "chest_opened_img": "images/medals/medal_primary.png",
                         "visibility_rules": [ "op_difficulty_2" ]
                     },
                     {
                         "name": "MOTR Deflation",
-                        "chest_opened_img": "images/medal_deflation.png",
+                        "chest_opened_img": "images/medals/medal_deflation.png",
                         "visibility_rules": [ "op_difficulty_2" ]
                     },
                     {
                         "name": "MOTR Medium",
-                        "chest_opened_img": "images/medal_medium.png"
+                        "chest_opened_img": "images/medals/medal_medium.png"
                     },
                     {
                         "name": "MOTR Reverse",
-                        "chest_opened_img": "images/medal_reverse.png",
+                        "chest_opened_img": "images/medals/medal_reverse.png",
                         "visibility_rules": [ "op_difficulty_2" ]
                     },
                     {
                         "name": "MOTR Military Only",
-                        "chest_opened_img": "images/medal_military.png",
+                        "chest_opened_img": "images/medals/medal_military.png",
                         "visibility_rules": [ "op_difficulty_2" ]
                     },
                     {
                         "name": "MOTR Apopalypse",
-                        "chest_opened_img": "images/medal_apopalypse.png",
+                        "chest_opened_img": "images/medals/medal_apopalypse.png",
                         "visibility_rules": [ "op_difficulty_2" ]
                     },
                     {
                         "name": "MOTR Hard",
-                        "chest_opened_img": "images/medal_hard.png"
+                        "chest_opened_img": "images/medals/medal_hard.png"
                     },
                     {
                         "name": "MOTR Alternate Bloon Rounds",
-                        "chest_opened_img": "images/medal_alternate.png",
+                        "chest_opened_img": "images/medals/medal_alternate.png",
                         "visibility_rules": [ "op_difficulty_2" ]
                     },
                     {
                         "name": "MOTR Magic Only",
-                        "chest_opened_img": "images/medal_magic.png",
+                        "chest_opened_img": "images/medals/medal_magic.png",
                         "visibility_rules": [ "op_difficulty_2" ]
                     },
                     {
                         "name": "MOTR Double HP MOABs",
-                        "chest_opened_img": "images/medal_moabs.png",
+                        "chest_opened_img": "images/medals/medal_moabs.png",
                         "visibility_rules": [ "op_difficulty_2" ]
                     },
                     {
                         "name": "MOTR Half Cash",
-                        "chest_opened_img": "images/medal_cash.png",
+                        "chest_opened_img": "images/medals/medal_cash.png",
                         "visibility_rules": [ "op_difficulty_2" ]
                     },
                     {
                         "name": "MOTR Impoppable",
-                        "chest_opened_img": "images/medal_impoppable.png"
+                        "chest_opened_img": "images/medals/medal_impoppable.png"
                     },
                     {
                         "name": "MOTR Chimps",
-                        "chest_unopened_img": "images/medal_chimps1.png",
-                        "chest_opened_img": "images/medal_chimps2.png",
+                        "chest_unopened_img": "images/medals/medal_chimps1.png",
+                        "chest_opened_img": "images/medals/medal_chimps2.png",
                         "visibility_rules": [ "op_difficulty_1" ]
                     }
                 ],

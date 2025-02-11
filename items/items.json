@@ -4,7 +4,7 @@
         "type": "consumable",
         "max_quantity": 602,
         "initial_quantity": 0,
-        "img": "images/medal_hard.png",
+        "img": "images/medals/medal_hard.png",
         "codes": "medal"
     },
     {
@@ -15,17 +15,17 @@
         "loop": true,
         "stages": [
             {
-                "img": "images/medal_impoppable.png",
+                "img": "images/medals/medal_impoppable.png",
                 "codes": "op_difficulty_0",
                 "inheret_codes": false
             },
             {
-                "img": "images/medal_chimps1.png",
+                "img": "images/medals/medal_chimps1.png",
                 "codes": "op_difficulty_1",
                 "inheret_codes": false
             },
             {
-                "img": "images/medal_chimps2.png",
+                "img": "images/medals/medal_chimps2.png",
                 "codes": "op_difficulty_2",
                 "inheret_codes": false
             }
@@ -34,19 +34,19 @@
     {
         "name": "Tutorial-MUnlock-Item",
         "type": "toggle",
-        "img": "images/monkeymeadow.png",
+        "img": "images/maps/monkeymeadow.png",
         "codes": "Tutorial-Munlock"
     },
     {
         "name": "InTheLoop-MUnlock-Item",
         "type": "toggle",
-        "img": "images/intheloop.png",
+        "img": "images/maps/intheloop.png",
         "codes": "InTheLoop-Munlock"
     },
     {
         "name": "MiddleOfTheRoad-MUnlock-Item",
         "type": "toggle",
-        "img": "images/middleoftheroad.png",
+        "img": "images/maps/middleoftheroad.png",
         "codes": "MiddleOfTheRoad-Munlock"
     }
 ]

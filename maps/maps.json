@@ -3,18 +3,18 @@
         "name": "monkeymeadow",
         "location_size": 80,
         "location_border_thickness": 10,
-        "img": "images/monkeymeadow.png"
+        "img": "images/maps/monkeymeadow.png"
     },
     {
         "name": "intheloop",
         "location_size": 80,
         "location_border_thickness": 10,
-        "img": "images/intheloop.png"
+        "img": "images/maps/intheloop.png"
     },
     {
         "name": "middleoftheroad",
         "location_size": 80,
         "location_border_thickness": 10,
-        "img": "images/middleoftheroad.png"
+        "img": "images/maps/middleoftheroad.png"
     }
 ]
