@@ -20,7 +20,7 @@ function resetLocations()
 	end
 end
 
-diffmap={[4]=1,[5]=2,[14]=3}
+diffmap={[4]=0,[5]=1,[14]=2}
 
 SLOT_CODES = {
     difficulty={
