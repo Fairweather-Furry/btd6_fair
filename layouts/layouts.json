@@ -33,24 +33,25 @@
 								}
 							}
 						]	
-					},{
-						"type": "dock",
-						"dock": "bottom",
-						"h_alignment": "stretch",
-						"margin": "0,0,0,0",
-						"content": 
-							[
-								{
-									"type": "group",
-									"header": "Map Unlocks",
-									"dock": "top",
-									"content": {
-										"type": "layout",
-										"key": "map_unlocks"
-									}
+					},
+					{
+					"type": "dock",
+					"dock": "bottom",
+					"h_alignment": "stretch",
+					"margin": "0,0,0,0",
+					"content": 
+						[
+							{
+								"type": "group",
+								"header": "Map Unlocks",
+								"dock": "top",
+								"content": {
+									"type": "layout",
+									"key": "map_unlocks"
 								}
-							]	
-						},
+							}
+						]	
+					},
 					{
 					"type": "dock",
 					"content": 
@@ -107,6 +108,69 @@
 								]
 							}
 						]
+					},
+					{
+					"type": "dock",
+					"dock": "right",
+					"h_alignment": "stretch",
+					"margin": "0,0,0,0",
+					"content": 
+						[
+							{
+								"type": "group",
+								"header": "Primary Knowledge Unlocks",
+								"dock": "top",
+								"content": {
+									"type": "layout",
+									"key": "primaryknowledge_unlocks"
+								}
+							},
+							{
+								"type": "group",
+								"header": "Military Knowledge Unlocks",
+								"dock": "top",
+								"content": {
+									"type": "layout",
+									"key": "militaryknowledge_unlocks"
+								}
+							},
+							{
+								"type": "group",
+								"header": "Magic Knowledge Unlocks",
+								"dock": "top",
+								"content": {
+									"type": "layout",
+									"key": "magicknowledge_unlocks"
+								}
+							},
+							{
+								"type": "group",
+								"header": "Support Knowledge Unlocks",
+								"dock": "top",
+								"content": {
+									"type": "layout",
+									"key": "supportknowledge_unlocks"
+								}
+							},
+							{
+								"type": "group",
+								"header": "Hero Knowledge Unlocks",
+								"dock": "top",
+								"content": {
+									"type": "layout",
+									"key": "heroknowledge_unlocks"
+								}
+							},
+							{
+								"type": "group",
+								"header": "Powers Knowledge Unlocks",
+								"dock": "top",
+								"content": {
+									"type": "layout",
+									"key": "powerknowledge_unlocks"
+								}
+							}
+						]	
 					}
 				]
 			}
