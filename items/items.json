@@ -179,6 +179,810 @@
         "codes": "BeastHandler-TUnlock"
     },
     {
+        "name": "FastTackAttacks-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/fasttackattacks.png",
+        "codes": "FastTackAttacks-KUnlock"
+    },
+    {
+        "name": "IncreasedLifespan-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/increasedlifespan.png",
+        "codes": "IncreasedLifespan-KUnlock"
+    },
+    {
+        "name": "ExtraDartPops-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/extradartspop.png",
+        "codes": "ExtraDartPops-KUnlock"
+    },
+    {
+        "name": "PoppyBlades-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/poppyblades.png",
+        "codes": "PoppyBlades-KUnlock"
+    },
+    {
+        "name": "HardTacks-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/hardtacks.png",
+        "codes": "HardTacks-KUnlock"
+    },
+    {
+        "name": "FastGlue-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/fastglue.png",
+        "codes": "FastGlue-KUnlock"
+    },
+    {
+        "name": "FraggyFrags-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/fraggyfrags.png",
+        "codes": "FraggyFrags-KUnlock"
+    },
+    {
+        "name": "CheapRangs-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/cheaprangs.png",
+        "codes": "CheapRangs-KUnlock"
+    },
+    {
+        "name": "CrossbowReach-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/crossbowreach.png",
+        "codes": "CrossbowReach-KUnlock"
+    },
+    {
+        "name": "BigInferno-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/biginferno.png",
+        "codes": "BigInferno-KUnlock"
+    },
+    {
+        "name": "IcyChill-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/icychill.png",
+        "codes": "IcyChill-KUnlock"
+    },
+    {
+        "name": "MoreSplattyGlue-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/moresplattyglue.png",
+        "codes": "MoreSplattyGlue-KUnlock"
+    },
+    {
+        "name": "BudgetClusters-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/budgetclusters.png",
+        "codes": "BudgetClusters-KUnlock"
+    },
+    {
+        "name": "ExtraBounce-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/extrabounce.png",
+        "codes": "ExtraBounce-KUnlock"
+    },
+    {
+        "name": "4And4-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/4and4.png",
+        "codes": "4And4-KUnlock"
+    },
+    {
+        "name": "ForceVsForce-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/forcevsforce.png",
+        "codes": "ForceVsForce-KUnlock"
+    },
+    {
+        "name": "RecurringRangs-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/recurringrangs.png",
+        "codes": "RecurringRangs-KUnlock"
+    },
+    {
+        "name": "SoCold-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/socold.png",
+        "codes": "SoCold-KUnlock"
+    },
+    {
+        "name": "AviationGradeGlue-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/aviationgradeglue.png",
+        "codes": "AviationGradeGlue-KUnlock"
+    },
+    {
+        "name": "HardPress-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/hardpress.png",
+        "codes": "HardPress-KUnlock"
+    },
+    {
+        "name": "MasterDoubleCross-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/masterdoublecross.png",
+        "codes": "MasterDoubleCross-KUnlock"
+    },
+    {
+        "name": "MegaMauler-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/megamauler.png",
+        "codes": "MegaMauler-KUnlock"
+    },
+    {
+        "name": "BigCryoBlast-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/bigcryoblast.png",
+        "codes": "BigCryoBlast-KUnlock"
+    },
+    {
+        "name": "Hypothermia-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/hypothermia.png",
+        "codes": "Hypothermia-KUnlock"
+    },
+    {
+        "name": "CheaperSolution-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/cheapersolution.png",
+        "codes": "CheaperSolution-KUnlock"
+    },
+    {
+        "name": "ViolentImpact-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/violentimpact.png",
+        "codes": "ViolentImpact-KUnlock"
+    },
+    {
+        "name": "LongTurbo-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/longturbo.png",
+        "codes": "LongTurbo-KUnlock"
+    },
+    {
+        "name": "ComeOnEverybody-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/comeoneverybody.png",
+        "codes": "ComeOnEverybody-KUnlock"
+    },
+    {
+        "name": "BionicAugmentation-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/bionicaugmentation.png",
+        "codes": "BionicAugmentation-KUnlock"
+    },
+    {
+        "name": "BonusGlueGunner-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/bonusgluegunner.png",
+        "codes": "BonusGlueGunner-KUnlock"
+    },
+    {
+        "name": "BonusMonkey-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/bonusmonkey.png",
+        "codes": "BonusMonkey-KUnlock"
+    },
+    {
+        "name": "MoreCash-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/morecash.png",
+        "codes": "MoreCash-KUnlock"
+    },
+    {
+        "name": "NavalUpgrades-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/navalupgrades.png",
+        "codes": "NavalUpgrades-KUnlock"
+    },
+    {
+        "name": "AirforceUpgrades-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/airforceupgrades.png",
+        "codes": "AirforceUpgrades-KUnlock"
+    },
+    {
+        "name": "EliteMilitaryTraining-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/elitemilitarytraining.png",
+        "codes": "EliteMilitaryTraining-KUnlock"
+    },
+    {
+        "name": "EmergencyUnlock-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/emergencyunlock.png",
+        "codes": "EmergencyUnlock-KUnlock"
+    },
+    {
+        "name": "BigBunch-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/bigbunch.png",
+        "codes": "BigBunch-KUnlock"
+    },
+    {
+        "name": "AcceleratedAerodarts-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/acceleratedaerodarts.png",
+        "codes": "AcceleratedAerodarts-KUnlock"
+    },
+    {
+        "name": "CeramicShock-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/ceramicshock.png",
+        "codes": "CeramicShock-KUnlock"
+    },
+    {
+        "name": "ExtraBurnyStuff-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/extraburnystuff.png",
+        "codes": "ExtraBurnyStuff-KUnlock"
+    },
+    {
+        "name": "BreakingBallistic-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/breakingballistic.png",
+        "codes": "BreakingBallistic-KUnlock"
+    },
+    {
+        "name": "FasterTakedowns-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/fastertakedowns.png",
+        "codes": "FasterTakedowns-KUnlock"
+    },
+    {
+        "name": "TargetedPineapples-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/targetedpineapples.png",
+        "codes": "TargetedPineapples-KUnlock"
+    },
+    {
+        "name": "RapidRazors-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/rapidrazors.png",
+        "codes": "RapidRazors-KUnlock"
+    },
+    {
+        "name": "CheaperMaiming-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/cheapermaiming.png",
+        "codes": "CheaperMaiming-KUnlock"
+    },
+    {
+        "name": "GorgonStorm-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/gorgonstorm.png",
+        "codes": "GorgonStorm-KUnlock"
+    },
+    {
+        "name": "QuadBurst-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/quadburst.png",
+        "codes": "QuadBurst-KUnlock"
+    },
+    {
+        "name": "TradeAgreements-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/tradeagreements.png",
+        "codes": "TradeAgreements-KUnlock"
+    },
+    {
+        "name": "GunCoolant-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/guncoolant.png",
+        "codes": "GunCoolant-KUnlock"
+    },
+    {
+        "name": "PaintStripper-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/paintstripper.png",
+        "codes": "PaintStripper-KUnlock"
+    },
+    {
+        "name": "CrossTheStreams-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/crossthestreams.png",
+        "codes": "CrossTheStreams-KUnlock"
+    },
+    {
+        "name": "ChargedChinooks-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/chargedchinooks.png",
+        "codes": "ChargedChinooks-KUnlock"
+    },
+    {
+        "name": "AeronauticSubsidy-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/aeronauticsubsidy.png",
+        "codes": "AeronauticSubsidy-KUnlock"
+    },
+    {
+        "name": "MasterDefender-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/masterdefender.png",
+        "codes": "MasterDefender-KUnlock"
+    },
+    {
+        "name": "BudgetBattery-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/budgetbattery.png",
+        "codes": "BudgetBattery-KUnlock"
+    },
+    {
+        "name": "Wingmonkey-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/wingmonkey.png",
+        "codes": "Wingmonkey-KUnlock"
+    },
+    {
+        "name": "FlankingManeuvers-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/flankingmaneuvers.png",
+        "codes": "FlankingManeuvers-KUnlock"
+    },
+    {
+        "name": "SubAdmiral-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/beneaththewaves.png",
+        "codes": "SubAdmiral-KUnlock"
+    },
+    {
+        "name": "MilitaryConscription-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/militaryconscription.png",
+        "codes": "MilitaryConscription-KUnlock"
+    },
+    {
+        "name": "DoorGunner-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/doorgunner.png",
+        "codes": "DoorGunner-KUnlock"
+    },
+    {
+        "name": "AdvancedLogistics-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/advancedlogistics.png",
+        "codes": "AdvancedLogistics-KUnlock"
+    },
+    {
+        "name": "BigBloonSabotage-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/bigbloonsabotage.png",
+        "codes": "BigBloonSabotage-KUnlock"
+    },
+    {
+        "name": "SuperRange-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/superrange.png",
+        "codes": "SuperRange-KUnlock"
+    },
+    {
+        "name": "MagicTricks-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/magictricks.png",
+        "codes": "MagicTricks-KUnlock"
+    },
+    {
+        "name": "LingeringMagic-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/lingeringmagic.png",
+        "codes": "LingeringMagic-KUnlock"
+    },
+    {
+        "name": "CheaperDoubles-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/cheaperdoubles.png",
+        "codes": "CheaperDoubles-KUnlock"
+    },
+    {
+        "name": "HeavyKnockback-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/heavyknockback.png",
+        "codes": "HeavyKnockback-KUnlock"
+    },
+    {
+        "name": "HotMagic-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/hotmagic.png",
+        "codes": "HotMagic-KUnlock"
+    },
+    {
+        "name": "SpeedyBrewing-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/speedybrewing.png",
+        "codes": "SpeedyBrewing-KUnlock"
+    },
+    {
+        "name": "MoMonkeyMoney-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/momonkeymoney.png",
+        "codes": "MoMonkeyMoney-KUnlock"
+    },
+    {
+        "name": "DiversionTactics-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/diversiontactics.png",
+        "codes": "DiversionTactics-KUnlock"
+    },
+    {
+        "name": "StrikeDownTheFalse-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/strikedownthefalse.png",
+        "codes": "StrikeDownTheFalse-KUnlock"
+    },
+    {
+        "name": "WarmOak-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/warmoak.png",
+        "codes": "WarmOak-KUnlock"
+    },
+    {
+        "name": "StrongTonic-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/strongtonic.png",
+        "codes": "StrongTonic-KUnlock"
+    },
+    {
+        "name": "XrayUltra-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/xrayultra.png",
+        "codes": "XrayUltra-KUnlock"
+    },
+    {
+        "name": "ArcaneImpale-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/arcaneimpale.png",
+        "codes": "ArcaneImpale-KUnlock"
+    },
+    {
+        "name": "AcidStability-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/acidstability.png",
+        "codes": "AcidStability-KUnlock"
+    },
+    {
+        "name": "ColdFront-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/coldfront.png",
+        "codes": "ColdFront-KUnlock"
+    },
+    {
+        "name": "FlameJet-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/flamejet.png",
+        "codes": "FlameJet-KUnlock"
+    },
+    {
+        "name": "DeadlyTranquility-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/deadlytranquility.png",
+        "codes": "DeadlyTranquility-KUnlock"
+    },
+    {
+        "name": "ThereCanBeOnlyOne-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/therecanbeonlyone.png",
+        "codes": "ThereCanBeOnlyOne-KUnlock"
+    },
+    {
+        "name": "VineRupture-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/vinerupture.png",
+        "codes": "VineRupture-KUnlock"
+    },
+    {
+        "name": "ManaShield-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/manashield.png",
+        "codes": "ManaShield-KUnlock"
+    },
+    {
+        "name": "TinyTornadoes-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/tinytornadoes.png",
+        "codes": "TinyTornadoes-KUnlock"
+    },
+    {
+        "name": "FlatPackBuildings-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/flatpackbuildings.png",
+        "codes": "FlatPackBuildings-KUnlock"
+    },
+    {
+        "name": "OneMoreSpike-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/onemorespike.png",
+        "codes": "OneMoreSpike-KUnlock"
+    },
+    {
+        "name": "InsiderTrades-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/insidertrades.png",
+        "codes": "InsiderTrades-KUnlock"
+    },
+    {
+        "name": "MoreValuableBananas-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/morevaluablebananas.png",
+        "codes": "MoreValuableBananas-KUnlock"
+    },
+    {
+        "name": "FirstLastLineOfDefense-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/firstlineofdefense.png",
+        "codes": "FirstLastLineOfDefense-KUnlock"
+    },
+    {
+        "name": "MonkeyEducation-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/monkeyeducation.png",
+        "codes": "MonkeyEducation-KUnlock"
+    },
+    {
+        "name": "BiggerBanks-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/biggerbanks.png",
+        "codes": "BiggerBanks-KUnlock"
+    },
+    {
+        "name": "FarmSubsidy-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/farmsubsidy.png",
+        "codes": "FarmSubsidy-KUnlock"
+    },
+    {
+        "name": "VigilantSentries-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/vigilantsentries.png",
+        "codes": "VigilantSentries-KUnlock"
+    },
+    {
+        "name": "VeryShreddy-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/veryshreddy.png",
+        "codes": "VeryShreddy-KUnlock"
+    },
+    {
+        "name": "BackroomDeals-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/backroomdeals.png",
+        "codes": "BackroomDeals-KUnlock"
+    },
+    {
+        "name": "InlandRevenueStreams-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/inlandrevenuestreams.png",
+        "codes": "InlandRevenueStreams-KUnlock"
+    },
+    {
+        "name": "ToArms-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/toarms.png",
+        "codes": "ToArms-KUnlock"
+    },
+    {
+        "name": "ThickerFoams-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/thickerfoams.png",
+        "codes": "ThickerFoams-KUnlock"
+    },
+    {
+        "name": "BetterSellDeals-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/betterselldeals.png",
+        "codes": "BetterSellDeals-KUnlock"
+    },
+    {
+        "name": "HiValueMines-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/hivaluemines.png",
+        "codes": "HiValueMines-KUnlock"
+    },
+    {
+        "name": "VeteranMonkeyTraining-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/veteranmonkeytraining.png",
+        "codes": "VeteranMonkeyTraining-KUnlock"
+    },
+    {
+        "name": "GlobalAbilityCooldowns-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/globalabilitycooldowns.png",
+        "codes": "GlobalAbilityCooldowns-KUnlock"
+    },
+    {
+        "name": "BigTraps-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/bigtraps.png",
+        "codes": "BigTraps-KUnlock"
+    },
+    {
+        "name": "HealthyBananas-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/healthybananas.png",
+        "codes": "HealthyBananas-KUnlock"
+    },
+    {
+        "name": "BankDeposits-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/bankdeposits.png",
+        "codes": "BankDeposits-KUnlock"
+    },
+    {
+        "name": "ParagonOfPower-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/paragonofpower.png",
+        "codes": "ParagonOfPower-KUnlock"
+    },
+    {
+        "name": "HeroicReach-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/heroicreach.png",
+        "codes": "HeroicReach-KUnlock"
+    },
+    {
+        "name": "MoreSplody-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/moresplody.png",
+        "codes": "MoreSplody-KUnlock"
+    },
+    {
+        "name": "AbilityDiscipline-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/abilitydiscipline.png",
+        "codes": "AbilityDiscipline-KUnlock"
+    },
+    {
+        "name": "HeroicVelocity-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/heroicvelocity.png",
+        "codes": "HeroicVelocity-KUnlock"
+    },
+    {
+        "name": "Scholarships-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/scholarships.png",
+        "codes": "Scholarships-KUnlock"
+    },
+    {
+        "name": "QuickHands-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/quickhands.png",
+        "codes": "QuickHands-KUnlock"
+    },
+    {
+        "name": "SelfTaughtHeroes-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/selftaughtheroes.png",
+        "codes": "SelfTaughtHeroes-KUnlock"
+    },
+    {
+        "name": "AbilityMastery-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/abilitymastery.png",
+        "codes": "AbilityMastery-KUnlock"
+    },
+    {
+        "name": "HeroFavors-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/herofavors.png",
+        "codes": "HeroFavors-KUnlock"
+    },
+    {
+        "name": "EmpoweredHeroes-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/empoweredheroes.png",
+        "codes": "EmpoweredHeroes-KUnlock"
+    },
+    {
+        "name": "BigBloonBlueprints-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/bigbloonblueprints.png",
+        "codes": "BigBloonBlueprints-KUnlock"
+    },
+    {
+        "name": "MonkeysTogetherStrong-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/monkeysstrongertogether.png",
+        "codes": "MonkeysTogetherStrong-KUnlock"
+    },
+    {
+        "name": "WeakPoint-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/weakpoint.png",
+        "codes": "WeakPoint-KUnlock"
+    },
+    {
+        "name": "BiggerCamoTrap-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/biggercamotrap.png",
+        "codes": "BiggerCamoTrap-KUnlock"
+    },
+    {
+        "name": "JustOneMore-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/justonemore.png",
+        "codes": "JustOneMore-KUnlock"
+    },
+    {
+        "name": "CheaperLakes-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/cheaperlakes.png",
+        "codes": "CheaperLakes-KUnlock"
+    },
+    {
+        "name": "MaulingMoabMines-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/maulingmoabmines.png",
+        "codes": "MaulingMoabMines-KUnlock"
+    },
+    {
+        "name": "LongerDartTime-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/longerdarttime.png",
+        "codes": "LongerDartTime-KUnlock"
+    },
+    {
+        "name": "BudgetPontoons-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/budgetpontoons.png",
+        "codes": "BudgetPontoons-KUnlock"
+    },
+    {
+        "name": "SupersizeGlueTrap-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/supersizegluetrap.png",
+        "codes": "SupersizeGlueTrap-KUnlock"
+    },
+    {
+        "name": "LongerBoosts-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/longerboosts.png",
+        "codes": "LongerBoosts-KUnlock"
+    },
+    {
+        "name": "PreGamePrep-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/pregameprep.png",
+        "codes": "PreGamePrep-KUnlock"
+    },
+    {
+        "name": "FitFarmers-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/fitfarmers.png",
+        "codes": "FitFarmers-KUnlock"
+    },
+    {
+        "name": "AmbushTech-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/ambushtech.png",
+        "codes": "AmbushTech-KUnlock"
+    },
+    {
+        "name": "BudgetCashDrops-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/budgetcash.png",
+        "codes": "BudgetCashDrops-KUnlock"
+    },
+    {
+        "name": "SupaThrive-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/supathrive.png",
+        "codes": "SupaThrive-KUnlock"
+    },
+    {
+        "name": "PowerfulMonkeyStorm-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/powerfulmonkeystorm.png",
+        "codes": "PowerfulMonkeyStorm-KUnlock"
+    },
+    {
+        "name": "GrandPrixSpree-KUnlock-Item",
+        "type": "toggle",
+        "img": "images/knowledge/grandprixspree.png",
+        "codes": "GrandPrixSpree-KUnlock"
+    },
+    {
         "name": "Tutorial-MUnlock-Item",
         "type": "toggle",
         "img": "images/maps/monkeymeadow.png",

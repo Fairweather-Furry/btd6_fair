@@ -60,9 +60,12 @@
 				"type": "itemgrid",
 				"h_alignment": "left",
 				"item_margin": "1,1",
-				"item_size": "1,1",
+				"item_size": "2,2",
 				"rows": [
-					[]
+					["FastTackAttacks-KUnlock","IncreasedLifespan-KUnlock","ExtraDartPops-KUnlock","PoppyBlades-KUnlock","HardTacks-KUnlock","FastGlue-KUnlock","FraggyFrags-KUnlock","CheapRangs-KUnlock"],
+					["CrossbowReach-KUnlock","BigInferno-KUnlock","IcyChill-KUnlock","MoreSplattyGlue-KUnlock","BudgetClusters-KUnlock","ExtraBounce-KUnlock","4And4-KUnlock","ForceVsForce-KUnlock"],
+					["RecurringRangs-KUnlock","SoCold-KUnlock","AviationGradeGlue-KUnlock","HardPress-KUnlock","MasterDoubleCross-KUnlock","MegaMauler-KUnlock","BigCryoBlast-KUnlock","Hypothermia-KUnlock"],
+					["CheaperSolution-KUnlock","ViolentImpact-KUnlock","LongTurbo-KUnlock","ComeOnEverybody-KUnlock","BionicAugmentation-KUnlock","BonusGlueGunner-KUnlock","BonusMonkey-KUnlock","MoreCash-KUnlock"]
 				]
 			}
 		]
@@ -75,9 +78,12 @@
 				"type": "itemgrid",
 				"h_alignment": "left",
 				"item_margin": "1,1",
-				"item_size": "1,1",
+				"item_size": "2,2",
 				"rows": [
-					[]
+					["NavalUpgrades-KUnlock","AirforceUpgrades-KUnlock","EliteMilitaryTraining-KUnlock","EmergencyUnlock-KUnlock","BigBunch-KUnlock","AcceleratedAerodarts-KUnlock","CeramicShock-KUnlock","ExtraBurnyStuff-KUnlock"],
+					["BreakingBallistic-KUnlock","FasterTakedowns-KUnlock","TargetedPineapples-KUnlock","RapidRazors-KUnlock","CheaperMaiming-KUnlock","GorgonStorm-KUnlock","QuadBurst-KUnlock","TradeAgreements-KUnlock"],
+					["GunCoolant-KUnlock","PaintStripper-KUnlock","CrossTheStreams-KUnlock","ChargedChinooks-KUnlock","AeronauticSubsidy-KUnlock","MasterDefender-KUnlock","BudgetBattery-KUnlock","Wingmonkey-KUnlock"],
+					["FlankingManeuvers-KUnlock","SubAdmiral-KUnlock","MilitaryConscription-KUnlock","DoorGunner-KUnlock","AdvancedLogistics-KUnlock","BigBloonSabotage-KUnlock"]
 				]
 			}
 		]
@@ -90,9 +96,11 @@
 				"type": "itemgrid",
 				"h_alignment": "left",
 				"item_margin": "1,1",
-				"item_size": "1,1",
+				"item_size": "2,2",
 				"rows": [
-					[]
+					["SuperRange-KUnlock","MagicTricks-KUnlock","LingeringMagic-KUnlock","CheaperDoubles-KUnlock","HeavyKnockback-KUnlock","HotMagic-KUnlock","SpeedyBrewing-KUnlock","MoMonkeyMoney-KUnlock"],
+					["DiversionTactics-KUnlock","StrikeDownTheFalse-KUnlock","WarmOak-KUnlock","StrongTonic-KUnlock","XrayUltra-KUnlock","ArcaneImpale-KUnlock","AcidStability-KUnlock","ColdFront-KUnlock"],
+					["FlameJet-KUnlock","DeadlyTranquility-KUnlock","ThereCanBeOnlyOne-KUnlock","VineRupture-KUnlock","ManaShield-KUnlock","TinyTornadoes-KUnlock"]
 				]
 			}
 		]
@@ -105,9 +113,11 @@
 				"type": "itemgrid",
 				"h_alignment": "left",
 				"item_margin": "1,1",
-				"item_size": "1,1",
+				"item_size": "2,2",
 				"rows": [
-					[]
+					["FlatPackBuildings-KUnlock","OneMoreSpike-KUnlock","InsiderTrades-KUnlock","MoreValuableBananas-KUnlock","FirstLastLineOfDefense-KUnlock","MonkeyEducation-KUnlock","BiggerBanks-KUnlock","FarmSubsidy-KUnlock"],
+					["VigilantSentries-KUnlock","VeryShreddy-KUnlock","BackroomDeals-KUnlock","InlandRevenueStreams-KUnlock","ToArms-KUnlock","ThickerFoams-KUnlock","BetterSellDeals-KUnlock","HiValueMines-KUnlock"],
+					["VeteranMonkeyTraining-KUnlock","GlobalAbilityCooldowns-KUnlock","BigTraps-KUnlock","HealthyBananas-KUnlock","BankDeposits-KUnlock","ParagonOfPower-KUnlock"]
 				]
 			}
 		]
@@ -120,9 +130,10 @@
 				"type": "itemgrid",
 				"h_alignment": "left",
 				"item_margin": "1,1",
-				"item_size": "1,1",
+				"item_size": "2,2",
 				"rows": [
-					[]
+					["HeroicReach-KUnlock","MoreSplody-KUnlock","AbilityDiscipline-KUnlock","HeroicVelocity-KUnlock","Scholarships-KUnlock","QuickHands-KUnlock","SelfTaughtHeroes-KUnlock","AbilityMastery-KUnlock"],
+					["HeroFavors-KUnlock","EmpoweredHeroes-KUnlock","BigBloonBlueprints-KUnlock","MonkeysTogetherStrong-KUnlock","WeakPoint-KUnlock"]
 				]
 			}
 		]
@@ -135,9 +146,10 @@
 				"type": "itemgrid",
 				"h_alignment": "left",
 				"item_margin": "1,1",
-				"item_size": "1,1",
+				"item_size": "2,2",
 				"rows": [
-					[]
+					["BiggerCamoTrap-KUnlock","JustOneMore-KUnlock","CheaperLakes-KUnlock","MaulingMoabMines-KUnlock","LongerDartTime-KUnlock","BudgetPontoons-KUnlock","SupersizeGlueTrap-KUnlock","LongerBoosts-KUnlock"],
+					["PreGamePrep-KUnlock","FitFarmers-KUnlock","AmbushTech-KUnlock","BudgetCashDrops-KUnlock","SupaThrive-KUnlock","PowerfulMonkeyStorm-KUnlock","GrandPrixSpree-KUnlock"]
 				]
 			}
 		]
