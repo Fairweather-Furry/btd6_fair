@@ -31,6 +31,15 @@
 									"type": "layout",
 									"key": "monkey_unlocks"
 								}
+							},
+							{
+								"type": "group",
+								"header": "Hero Unlocks",
+								"dock": "top",
+								"content": {
+									"type": "layout",
+									"key": "hero_unlocks"
+								}
 							}
 						]	
 					},
@@ -72,32 +81,32 @@
 												"tabs":
 												[
 													{
-														"title": "Monkey Meadow",
+														"title": "Page 1",
 														"content":
 														[
 															{
 																"type": "map",
-																"maps": ["monkeymeadow"]
+																"maps": ["beginnerpg1"]
 															}
 														]
 													},
 													{
-														"title": "In The Loop",
+														"title": "Page 2",
 														"content":
 														[
 															{
 																"type": "map",
-																"maps": ["intheloop"]
+																"maps": ["beginnerpg2"]
 															}
 														]
 													},
 													{
-														"title": "Middle Of The Road",
+														"title": "Page 3",
 														"content":
 														[
 															{
 																"type": "map",
-																"maps": ["middleoftheroad"]
+																"maps": ["beginnerpg3"]
 															}
 														]
 													}
@@ -116,6 +125,15 @@
 					"margin": "0,0,0,0",
 					"content": 
 						[
+							{
+								"type": "group",
+								"header": "Medals, Money, Knowledge",
+								"dock": "top",
+								"content": {
+									"type": "layout",
+									"key": "money_points"
+								}
+							},
 							{
 								"type": "group",
 								"header": "Primary Knowledge Unlocks",

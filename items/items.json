@@ -2,7 +2,6 @@
     {
         "name": "Medals Retrieved",
         "type": "consumable",
-        "max_quantity": 602,
         "initial_quantity": 0,
         "img": "images/medals/medal_easy.png",
         "codes": "medal"
@@ -33,6 +32,20 @@
                 "inheret_codes": false
             }
         ]
+    },
+    {
+        "name": "Monkey Money",
+        "type": "consumable",
+        "initial_quantity": 0,
+        "img": "images/monkeymoney.png",
+        "codes": "money"
+    },
+    {
+        "name": "Monkey Knowledge Points",
+        "type": "consumable",
+        "initial_quantity": 0,
+        "img": "images/knowledgepoints.png",
+        "codes": "knowledge"
     },
     {
         "name": "DartMonkey-TUnlock-Item",
@@ -177,6 +190,102 @@
         "type": "toggle",
         "img": "images/monkeys/beasthandler.png",
         "codes": "BeastHandler-TUnlock"
+    },
+    {
+        "name": "Quincy-HUnlock-Item",
+        "type": "toggle",
+        "img": "images/monkeys/quincy.png",
+        "codes": "Quincy-HUnlock"
+    },
+    {
+        "name": "Gwendolin-HUnlock-Item",
+        "type": "toggle",
+        "img": "images/monkeys/gwendolin.png",
+        "codes": "Gwendolin-HUnlock"
+    },
+    {
+        "name": "StrikerJones-HUnlock-Item",
+        "type": "toggle",
+        "img": "images/monkeys/strikerjones.png",
+        "codes": "StrikerJones-HUnlock"
+    },
+    {
+        "name": "ObynGreenfoot-HUnlock-Item",
+        "type": "toggle",
+        "img": "images/monkeys/obyngreenfoot.png",
+        "codes": "ObynGreenfoot-HUnlock"
+    },
+    {
+        "name": "Rosalia-HUnlock-Item",
+        "type": "toggle",
+        "img": "images/monkeys/rosalia.png",
+        "codes": "Rosalia-HUnlock"
+    },
+    {
+        "name": "CaptainChurchill-HUnlock-Item",
+        "type": "toggle",
+        "img": "images/monkeys/captainchurchill.png",
+        "codes": "CaptainChurchill-HUnlock"
+    },
+    {
+        "name": "Benjamin-HUnlock-Item",
+        "type": "toggle",
+        "img": "images/monkeys/benjamin.png",
+        "codes": "Benjamin-HUnlock"
+    },
+    {
+        "name": "PatFusty-HUnlock-Item",
+        "type": "toggle",
+        "img": "images/monkeys/patfusty.png",
+        "codes": "PatFusty-HUnlock"
+    },
+    {
+        "name": "Ezili-HUnlock-Item",
+        "type": "toggle",
+        "img": "images/monkeys/ezili.png",
+        "codes": "Ezili-HUnlock"
+    },
+    {
+        "name": "Adora-HUnlock-Item",
+        "type": "toggle",
+        "img": "images/monkeys/adora.png",
+        "codes": "Adora-HUnlock"
+    },
+    {
+        "name": "Etienne-HUnlock-Item",
+        "type": "toggle",
+        "img": "images/monkeys/etienne.png",
+        "codes": "Etienne-HUnlock"
+    },
+    {
+        "name": "Sauda-HUnlock-Item",
+        "type": "toggle",
+        "img": "images/monkeys/sauda.png",
+        "codes": "Sauda-HUnlock"
+    },
+    {
+        "name": "AdmiralBrickell-HUnlock-Item",
+        "type": "toggle",
+        "img": "images/monkeys/admiralbrickell.png",
+        "codes": "AdmiralBrickell-HUnlock"
+    },
+    {
+        "name": "Psi-HUnlock-Item",
+        "type": "toggle",
+        "img": "images/monkeys/psi.png",
+        "codes": "Psi-HUnlock"
+    },
+    {
+        "name": "Geraldo-HUnlock-Item",
+        "type": "toggle",
+        "img": "images/monkeys/geraldo.png",
+        "codes": "Geraldo-HUnlock"
+    },
+    {
+        "name": "Corvus-HUnlock-Item",
+        "type": "toggle",
+        "img": "images/monkeys/corvus.png",
+        "codes": "Corvus-HUnlock"
     },
     {
         "name": "FastTackAttacks-KUnlock-Item",
@@ -999,5 +1108,125 @@
         "type": "toggle",
         "img": "images/maps/middleoftheroad.png",
         "codes": "MiddleOfTheRoad-MUnlock"
+    },
+    {
+        "name": "Tinkerton-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/tinkerton.png",
+        "codes": "Tinkerton-MUnlock"
+    },
+    {
+        "name": "TreeStump-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/treestump.png",
+        "codes": "TreeStump-MUnlock"
+    },
+    {
+        "name": "TownCenter-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/towncenter.png",
+        "codes": "TownCenter-MUnlock"
+    },
+    {
+        "name": "OneTwoTree-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/onetwotree.png",
+        "codes": "OneTwoTree-MUnlock"
+    },
+    {
+        "name": "Scrapyard-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/scrapyard.png",
+        "codes": "Scrapyard-MUnlock"
+    },
+    {
+        "name": "TheCabin-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/thecabin.png",
+        "codes": "TheCabin-MUnlock"
+    },
+    {
+        "name": "Resort-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/resort.png",
+        "codes": "Resort-MUnlock"
+    },
+    {
+        "name": "Skates-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/skates.png",
+        "codes": "Skates-MUnlock"
+    },
+    {
+        "name": "LotusIsland-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/lotusisland.png",
+        "codes": "LotusIsland-MUnlock"
+    },
+    {
+        "name": "CandyFalls-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/candyfalls.png",
+        "codes": "CandyFalls-MUnlock"
+    },
+    {
+        "name": "WinterPark-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/winterpark.png",
+        "codes": "WinterPark-MUnlock"
+    },
+    {
+        "name": "Carved-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/carved.png",
+        "codes": "Carved-MUnlock"
+    },
+    {
+        "name": "ParkPath-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/parkpath.png",
+        "codes": "ParkPath-MUnlock"
+    },
+    {
+        "name": "AlpineRun-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/alpinerun.png",
+        "codes": "AlpineRun-MUnlock"
+    },
+    {
+        "name": "FrozenOver-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/frozenover.png",
+        "codes": "FrozenOver-MUnlock"
+    },
+    {
+        "name": "Cubism-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/cubism.png",
+        "codes": "Cubism-MUnlock"
+    },
+    {
+        "name": "FourCircles-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/fourcircles.png",
+        "codes": "FourCircles-MUnlock"
+    },
+    {
+        "name": "Hedge-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/hedge.png",
+        "codes": "Hedge-MUnlock"
+    },
+    {
+        "name": "EndOfTheRoad-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/endoftheroad.png",
+        "codes": "EndOfTheRoad-MUnlock"
+    },
+    {
+        "name": "Logs-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/logs.png",
+        "codes": "Logs-MUnlock"
     }
 ]

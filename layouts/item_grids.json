@@ -9,7 +9,22 @@
                 "item_margin": "1,1",
 	    		"item_size": "4,4",
 	    		"rows": [
-	    			["op_difficulty","medal"]
+	    			["op_difficulty"]
+	    		]
+	    	}
+        ]
+    },
+    "money_points": {
+        "type": "array",
+        "orientation": "horizontal",
+        "content":[
+	    	{
+	    		"type": "itemgrid",
+	    		"h_alignment": "left",
+                "item_margin": "1,1",
+	    		"item_size": "4,4",
+	    		"rows": [
+	    			["medal","money","knowledge"]
 	    		]
 	    	}
         ]
@@ -22,10 +37,9 @@
 				"type": "itemgrid",
 				"h_alignment": "left",
 				"item_margin": "1,1",
-				"item_size": "4,4",
+				"item_size": "3,3",
 				"rows": [
-					["Tutorial-MUnlock","InTheLoop-MUnlock","MiddleOfTheRoad-MUnlock"],
-					[]
+					["Tutorial-MUnlock","InTheLoop-MUnlock","MiddleOfTheRoad-MUnlock","Tinkerton-MUnlock","TreeStump-MUnlock","TownCenter-MUnlock","OneTwoTree-MUnlock","Scrapyard-MUnlock","TheCabin-MUnlock","Resort-MUnlock","Skates-MUnlock","LotusIsland-MUnlock","CandyFalls-MUnlock","WinterPark-MUnlock","Carved-MUnlock","ParkPath-MUnlock","AlpineRun-MUnlock","FrozenOver-MUnlock","Cubism-MUnlock","FourCircles-MUnlock","Hedge-MUnlock","EndOfTheRoad-MUnlock","Logs-MUnlock"]
 				]
 			}
 		]
@@ -48,6 +62,26 @@
 					["NinjaMonkey-TUnlock","Alchemist-TUnlock","Druid-TUnlock"],
 					["Mermonkey-TUnlock","BananaFarm-TUnlock","SpikeFactory-TUnlock"],
 					["MonkeyVillage-TUnlock","EngineerMonkey-TUnlock","BeastHandler-TUnlock"]
+				]
+			}
+		]
+	},
+	"hero_unlocks": {
+		"type": "array",
+		"orientation": "horizontal",
+		"content": [
+			{
+				"type": "itemgrid",
+				"h_alignment": "left",
+				"item_margin": "1,1",
+				"item_size": "4,4",
+				"rows": [
+					["Quincy-HUnlock","Gwendolin-HUnlock","StrikerJones-HUnlock"],
+					["ObynGreenfoot-HUnlock","Rosalia-HUnlock","CaptainChurchill-HUnlock"],
+					["Benjamin-HUnlock","PatFusty-HUnlock","Ezili-HUnlock"],
+					["Adora-HUnlock","Etienne-HUnlock","Sauda-HUnlock"],
+					["AdmiralBrickell-HUnlock","Psi-HUnlock","Geraldo-HUnlock"],
+					["Corvus-HUnlock"]
 				]
 			}
 		]

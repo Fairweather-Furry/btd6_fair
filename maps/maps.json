@@ -1,20 +1,14 @@
 [
     {
-        "name": "monkeymeadow",
-        "location_size": 80,
-        "location_border_thickness": 10,
-        "img": "images/maps/monkeymeadow.png"
+        "name": "beginnerpg1",
+        "img": "images/maps/beginnerpg1.png"
     },
     {
-        "name": "intheloop",
-        "location_size": 80,
-        "location_border_thickness": 10,
-        "img": "images/maps/intheloop.png"
+        "name": "beginnerpg2",
+        "img": "images/maps/beginnerpg2.png"
     },
     {
-        "name": "middleoftheroad",
-        "location_size": 80,
-        "location_border_thickness": 10,
-        "img": "images/maps/middleoftheroad.png"
+        "name": "beginnerpg3",
+        "img": "images/maps/beginnerpg3.png"
     }
 ]

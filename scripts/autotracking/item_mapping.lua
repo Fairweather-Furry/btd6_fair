@@ -1,3 +1,4 @@
 ITEM_MAPPING = {
-    [0xEC0000] = {"medal","consumable"}
+    [1] = {"medal","consumable"}, --Medals
+    [2] = {"money","consumable"} --Monkey Money
 }
