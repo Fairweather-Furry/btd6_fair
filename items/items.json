@@ -41,13 +41,6 @@
         "codes": "money"
     },
     {
-        "name": "Monkey Knowledge Points",
-        "type": "consumable",
-        "initial_quantity": 0,
-        "img": "images/knowledgepoints.png",
-        "codes": "knowledge"
-    },
-    {
         "name": "DartMonkey-TUnlock-Item",
         "type": "toggle",
         "img": "images/monkeys/dartmonkey.png",
@@ -1468,5 +1461,77 @@
         "type": "toggle",
         "img": "images/maps/underground.png",
         "codes": "Underground-MUnlock"
+    },
+    {
+        "name": "GlacialTrail-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/glacialtrail.png",
+        "codes": "GlacialTrail-MUnlock"
+    },
+    {
+        "name": "DarkDungeons-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/darkdungeons.png",
+        "codes": "DarkDungeons-MUnlock"
+    },
+    {
+        "name": "Sanctuary-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/sanctuary.png",
+        "codes": "Sanctuary-MUnlock"
+    },
+    {
+        "name": "Ravine-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/ravine.png",
+        "codes": "Ravine-MUnlock"
+    },
+    {
+        "name": "FloodedValley-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/floodedvalley.png",
+        "codes": "FloodedValley-MUnlock"
+    },
+    {
+        "name": "Infernal-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/infernal.png",
+        "codes": "Infernal-MUnlock"
+    },
+    {
+        "name": "BloodyPuddles-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/bloodypuddles.png",
+        "codes": "BloodyPuddles-MUnlock"
+    },
+    {
+        "name": "Workshop-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/workshop.png",
+        "codes": "Workshop-MUnlock"
+    },
+    {
+        "name": "Quad-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/quad.png",
+        "codes": "Quad-MUnlock"
+    },
+    {
+        "name": "DarkCastle-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/darkcastle.png",
+        "codes": "DarkCastle-MUnlock"
+    },
+    {
+        "name": "MuddyPuddles-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/muddypuddles.png",
+        "codes": "MuddyPuddles-MUnlock"
+    },
+    {
+        "name": "Ouch-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/ouch.png",
+        "codes": "Ouch-MUnlock"
     }
 ]

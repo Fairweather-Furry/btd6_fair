@@ -191,6 +191,40 @@
 												]
 											}
 										]
+									},
+									{
+										"title": "Expert Maps",
+										"icon": "images/medals/medal_impoppable.png",
+										"content":
+										[
+											{
+												"type": "tabbed",
+												"dock": "top",
+												"tabs":
+												[
+													{
+														"title": "Page 1",
+														"content":
+														[
+															{
+																"type": "map",
+																"maps": ["expertpg1"]
+															}
+														]
+													},
+													{
+														"title": "Page 2",
+														"content":
+														[
+															{
+																"type": "map",
+																"maps": ["expertpg2"]
+															}
+														]
+													}
+												]
+											}
+										]
 									}
 								]
 							}
