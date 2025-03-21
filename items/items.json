@@ -1228,5 +1228,143 @@
         "type": "toggle",
         "img": "images/maps/logs.png",
         "codes": "Logs-MUnlock"
+    },
+    {
+        "name": "LuminousCove-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/luminouscove.png",
+        "codes": "LuminousCove-MUnlock"
+    },
+    {
+        "name": "SulfurSprings-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/sulfursprings.png",
+        "codes": "SulfurSprings-MUnlock"
+    },
+    {
+        "name": "WaterPark-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/waterpark.png",
+        "codes": "WaterPark-MUnlock"
+    },
+    {
+        "name": "Polyphemus-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/polyphemus.png",
+        "codes": "Polyphemus-MUnlock"
+    },
+    {
+        "name": "CoveredGarden-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/coveredgarden.png",
+        "codes": "CoveredGarden-MUnlock"
+    },
+    {
+        "name": "Quarry-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/quarry.png",
+        "codes": "Quarry-MUnlock"
+    },
+    {
+        "name": "QuietStreet-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/quietstreet.png",
+        "codes": "QuietStreet-MUnlock"
+    },
+    {
+        "name": "BloonariusPrime-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/bloonariusprime.png",
+        "codes": "BloonariusPrime-MUnlock"
+    },
+    {
+        "name": "Balance-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/balance.png",
+        "codes": "Balance-MUnlock"
+    },
+    {
+        "name": "Encrypted-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/encrypted.png",
+        "codes": "Encrypted-MUnlock"
+    },
+    {
+        "name": "Bazaar-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/bazaar.png",
+        "codes": "Bazaar-MUnlock"
+    },
+    {
+        "name": "AdorasTemple-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/adorastemple.png",
+        "codes": "AdorasTemple-MUnlock"
+    },
+    {
+        "name": "SpringSpring-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/springspring.png",
+        "codes": "SpringSpring-MUnlock"
+    },
+    {
+        "name": "KartsNDarts-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/kartsndarts.png",
+        "codes": "KartsNDarts-MUnlock"
+    },
+    {
+        "name": "MoonLanding-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/moonlanding.png",
+        "codes": "MoonLanding-MUnlock"
+    },
+    {
+        "name": "Haunted-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/haunted.png",
+        "codes": "Haunted-MUnlock"
+    },
+    {
+        "name": "Downstream-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/downstream.png",
+        "codes": "Downstream-MUnlock"
+    },
+    {
+        "name": "FiringRange-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/firingrange.png",
+        "codes": "FiringRange-MUnlock"
+    },
+    {
+        "name": "Cracked-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/cracked.png",
+        "codes": "Cracked-MUnlock"
+    },
+    {
+        "name": "Streambed-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/streambed.png",
+        "codes": "Streambed-MUnlock"
+    },
+    {
+        "name": "Chutes-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/chutes.png",
+        "codes": "Chutes-MUnlock"
+    },
+    {
+        "name": "Rake-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/rake.png",
+        "codes": "Rake-MUnlock"
+    },
+    {
+        "name": "SpiceIslands-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/spiceislands.png",
+        "codes": "SpiceIslands-MUnlock"
     }
 ]

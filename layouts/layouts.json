@@ -113,6 +113,50 @@
 												]
 											}
 										]
+									},
+									{
+										"title": "Intermediate Maps",
+										"icon": "images/medals/medal_medium.png",
+										"content":
+										[
+											{
+												"type": "tabbed",
+												"dock": "top",
+												"tabs":
+												[
+													{
+														"title": "Page 1",
+														"content":
+														[
+															{
+																"type": "map",
+																"maps": ["intermediatepg1"]
+															}
+														]
+													},
+													{
+														"title": "Page 2",
+														"content":
+														[
+															{
+																"type": "map",
+																"maps": ["intermediatepg2"]
+															}
+														]
+													},
+													{
+														"title": "Page 3",
+														"content":
+														[
+															{
+																"type": "map",
+																"maps": ["intermediatepg3"]
+															}
+														]
+													}
+												]
+											}
+										]
 									}
 								]
 							}

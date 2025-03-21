@@ -10,5 +10,17 @@
     {
         "name": "beginnerpg3",
         "img": "images/maps/beginnerpg3.png"
+    },
+    {
+        "name": "intermediatepg1",
+        "img": "images/maps/intermediatepg1.png"
+    },
+    {
+        "name": "intermediatepg2",
+        "img": "images/maps/intermediatepg2.png"
+    },
+    {
+        "name": "intermediatepg3",
+        "img": "images/maps/intermediatepg3.png"
     }
 ]
