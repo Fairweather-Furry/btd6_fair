@@ -22,5 +22,13 @@
     {
         "name": "intermediatepg3",
         "img": "images/maps/intermediatepg3.png"
+    },
+    {
+        "name": "advancedpg1",
+        "img": "images/maps/advancedpg1.png"
+    },
+    {
+        "name": "advancedpg2",
+        "img": "images/maps/advancedpg2.png"
     }
 ]

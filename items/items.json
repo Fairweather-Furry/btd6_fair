@@ -1366,5 +1366,107 @@
         "type": "toggle",
         "img": "images/maps/spiceislands.png",
         "codes": "SpiceIslands-MUnlock"
+    },
+    {
+        "name": "CastleRevenge-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/castlerevenge.png",
+        "codes": "CastleRevenge-MUnlock"
+    },
+    {
+        "name": "DarkPath-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/darkpath.png",
+        "codes": "DarkPath-MUnlock"
+    },
+    {
+        "name": "Erosion-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/erosion.png",
+        "codes": "Erosion-MUnlock"
+    },
+    {
+        "name": "MidnightMansion-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/midnightmansion.png",
+        "codes": "MidnightMansion-MUnlock"
+    },
+    {
+        "name": "SunkenColumns-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/sunkencolumns.png",
+        "codes": "SunkenColumns-MUnlock"
+    },
+    {
+        "name": "XFactor-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/xfactor.png",
+        "codes": "XFactor-MUnlock"
+    },
+    {
+        "name": "Mesa-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/mesa.png",
+        "codes": "Mesa-MUnlock"
+    },
+    {
+        "name": "Geared-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/geared.png",
+        "codes": "Geared-MUnlock"
+    },
+    {
+        "name": "Spillway-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/spillway.png",
+        "codes": "Spillway-MUnlock"
+    },
+    {
+        "name": "Cargo-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/cargo.png",
+        "codes": "Cargo-MUnlock"
+    },
+    {
+        "name": "PatsPond-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/patspond.png",
+        "codes": "PatsPond-MUnlock"
+    },
+    {
+        "name": "Peninsula-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/peninsula.png",
+        "codes": "Peninsula-MUnlock"
+    },
+    {
+        "name": "HighFinance-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/highfinance.png",
+        "codes": "HighFinance-MUnlock"
+    },
+    {
+        "name": "AnotherBrick-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/anotherbrick.png",
+        "codes": "AnotherBrick-MUnlock"
+    },
+    {
+        "name": "OffTheCoast-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/offthecoast.png",
+        "codes": "OffTheCoast-MUnlock"
+    },
+    {
+        "name": "Cornfield-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/cornfield.png",
+        "codes": "Cornfield-MUnlock"
+    },
+    {
+        "name": "Underground-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/underground.png",
+        "codes": "Underground-MUnlock"
     }
 ]

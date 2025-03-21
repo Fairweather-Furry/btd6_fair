@@ -3782,5 +3782,1405 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "Advanced",
+        "chest_unopened_img": "images/medals/medal_none.png",
+        "children": [
+            {
+                "name": "Castle Revenge",
+                "access_rules": [ "CastleRevenge-MUnlock" ],
+                "sections": [
+                    {
+                        "name": "Easy",
+                        "chest_opened_img": "images/medals/medal_easy.png"
+                    },
+                    {
+                        "name": "Primary Only",
+                        "chest_opened_img": "images/medals/medal_primary.png",
+                        "access_rules": ["$primaryonly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Deflation",
+                        "chest_opened_img": "images/medals/medal_deflation.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Medium",
+                        "chest_opened_img": "images/medals/medal_medium.png"
+                    },
+                    {
+                        "name": "Reverse",
+                        "chest_opened_img": "images/medals/medal_reverse.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Military Only",
+                        "chest_opened_img": "images/medals/medal_military.png",
+                        "access_rules": ["$militaryonly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Apopalypse",
+                        "chest_opened_img": "images/medals/medal_apopalypse.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Hard",
+                        "chest_opened_img": "images/medals/medal_hard.png"
+                    },
+                    {
+                        "name": "Alternate Bloon Rounds",
+                        "chest_opened_img": "images/medals/medal_alternate.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Magic Only",
+                        "chest_opened_img": "images/medals/medal_magic.png",
+                        "access_rules": ["$magiconly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Double HP MOABs",
+                        "chest_opened_img": "images/medals/medal_moabs.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Half Cash",
+                        "chest_opened_img": "images/medals/medal_cash.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Impoppable",
+                        "chest_opened_img": "images/medals/medal_impoppable.png"
+                    },
+                    {
+                        "name": "Chimps",
+                        "chest_opened_img": "images/medals/medal_chimps1.png",
+                        "visibility_rules": [ "op_difficulty_1" ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "advancedpg1",
+                        "x": 0,
+                        "y": 0
+                    }
+                ]
+            },
+            {
+                "name": "Dark Path",
+                "access_rules": [ "DarkPath-MUnlock" ],
+                "sections": [
+                    {
+                        "name": "Easy",
+                        "chest_opened_img": "images/medals/medal_easy.png"
+                    },
+                    {
+                        "name": "Primary Only",
+                        "chest_opened_img": "images/medals/medal_primary.png",
+                        "access_rules": ["$primaryonly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Deflation",
+                        "chest_opened_img": "images/medals/medal_deflation.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Medium",
+                        "chest_opened_img": "images/medals/medal_medium.png"
+                    },
+                    {
+                        "name": "Reverse",
+                        "chest_opened_img": "images/medals/medal_reverse.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Military Only",
+                        "chest_opened_img": "images/medals/medal_military.png",
+                        "access_rules": ["$militaryonly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Apopalypse",
+                        "chest_opened_img": "images/medals/medal_apopalypse.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Hard",
+                        "chest_opened_img": "images/medals/medal_hard.png"
+                    },
+                    {
+                        "name": "Alternate Bloon Rounds",
+                        "chest_opened_img": "images/medals/medal_alternate.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Magic Only",
+                        "chest_opened_img": "images/medals/medal_magic.png",
+                        "access_rules": ["$magiconly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Double HP MOABs",
+                        "chest_opened_img": "images/medals/medal_moabs.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Half Cash",
+                        "chest_opened_img": "images/medals/medal_cash.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Impoppable",
+                        "chest_opened_img": "images/medals/medal_impoppable.png"
+                    },
+                    {
+                        "name": "Chimps",
+                        "chest_opened_img": "images/medals/medal_chimps1.png",
+                        "visibility_rules": [ "op_difficulty_1" ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "advancedpg1",
+                        "x": 850,
+                        "y": 0
+                    }
+                ]
+            },
+            {
+                "name": "Erosion",
+                "access_rules": [ "Erosion-MUnlock" ],
+                "sections": [
+                    {
+                        "name": "Easy",
+                        "chest_opened_img": "images/medals/medal_easy.png"
+                    },
+                    {
+                        "name": "Primary Only",
+                        "chest_opened_img": "images/medals/medal_primary.png",
+                        "access_rules": ["$primaryonly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Deflation",
+                        "chest_opened_img": "images/medals/medal_deflation.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Medium",
+                        "chest_opened_img": "images/medals/medal_medium.png"
+                    },
+                    {
+                        "name": "Reverse",
+                        "chest_opened_img": "images/medals/medal_reverse.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Military Only",
+                        "chest_opened_img": "images/medals/medal_military.png",
+                        "access_rules": ["$militaryonly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Apopalypse",
+                        "chest_opened_img": "images/medals/medal_apopalypse.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Hard",
+                        "chest_opened_img": "images/medals/medal_hard.png"
+                    },
+                    {
+                        "name": "Alternate Bloon Rounds",
+                        "chest_opened_img": "images/medals/medal_alternate.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Magic Only",
+                        "chest_opened_img": "images/medals/medal_magic.png",
+                        "access_rules": ["$magiconly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Double HP MOABs",
+                        "chest_opened_img": "images/medals/medal_moabs.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Half Cash",
+                        "chest_opened_img": "images/medals/medal_cash.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Impoppable",
+                        "chest_opened_img": "images/medals/medal_impoppable.png"
+                    },
+                    {
+                        "name": "Chimps",
+                        "chest_opened_img": "images/medals/medal_chimps1.png",
+                        "visibility_rules": [ "op_difficulty_1" ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "advancedpg1",
+                        "x": 1675,
+                        "y": 0
+                    }
+                ]
+            },
+            {
+                "name": "Midnight Mansion",
+                "access_rules": [ "MidnightMansion-MUnlock" ],
+                "sections": [
+                    {
+                        "name": "Easy",
+                        "chest_opened_img": "images/medals/medal_easy.png"
+                    },
+                    {
+                        "name": "Primary Only",
+                        "chest_opened_img": "images/medals/medal_primary.png",
+                        "access_rules": ["$primaryonly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Deflation",
+                        "chest_opened_img": "images/medals/medal_deflation.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Medium",
+                        "chest_opened_img": "images/medals/medal_medium.png"
+                    },
+                    {
+                        "name": "Reverse",
+                        "chest_opened_img": "images/medals/medal_reverse.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Military Only",
+                        "chest_opened_img": "images/medals/medal_military.png",
+                        "access_rules": ["$militaryonly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Apopalypse",
+                        "chest_opened_img": "images/medals/medal_apopalypse.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Hard",
+                        "chest_opened_img": "images/medals/medal_hard.png"
+                    },
+                    {
+                        "name": "Alternate Bloon Rounds",
+                        "chest_opened_img": "images/medals/medal_alternate.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Magic Only",
+                        "chest_opened_img": "images/medals/medal_magic.png",
+                        "access_rules": ["$magiconly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Double HP MOABs",
+                        "chest_opened_img": "images/medals/medal_moabs.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Half Cash",
+                        "chest_opened_img": "images/medals/medal_cash.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Impoppable",
+                        "chest_opened_img": "images/medals/medal_impoppable.png"
+                    },
+                    {
+                        "name": "Chimps",
+                        "chest_opened_img": "images/medals/medal_chimps1.png",
+                        "visibility_rules": [ "op_difficulty_1" ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "advancedpg1",
+                        "x": 0,
+                        "y": 555
+                    }
+                ]
+            },
+            {
+                "name": "Sunken Columns",
+                "access_rules": [ "SunkenColumns-MUnlock" ],
+                "sections": [
+                    {
+                        "name": "Easy",
+                        "chest_opened_img": "images/medals/medal_easy.png"
+                    },
+                    {
+                        "name": "Primary Only",
+                        "chest_opened_img": "images/medals/medal_primary.png",
+                        "access_rules": ["$primaryonly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Deflation",
+                        "chest_opened_img": "images/medals/medal_deflation.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Medium",
+                        "chest_opened_img": "images/medals/medal_medium.png"
+                    },
+                    {
+                        "name": "Reverse",
+                        "chest_opened_img": "images/medals/medal_reverse.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Military Only",
+                        "chest_opened_img": "images/medals/medal_military.png",
+                        "access_rules": ["$militaryonly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Apopalypse",
+                        "chest_opened_img": "images/medals/medal_apopalypse.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Hard",
+                        "chest_opened_img": "images/medals/medal_hard.png"
+                    },
+                    {
+                        "name": "Alternate Bloon Rounds",
+                        "chest_opened_img": "images/medals/medal_alternate.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Magic Only",
+                        "chest_opened_img": "images/medals/medal_magic.png",
+                        "access_rules": ["$magiconly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Double HP MOABs",
+                        "chest_opened_img": "images/medals/medal_moabs.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Half Cash",
+                        "chest_opened_img": "images/medals/medal_cash.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Impoppable",
+                        "chest_opened_img": "images/medals/medal_impoppable.png"
+                    },
+                    {
+                        "name": "Chimps",
+                        "chest_opened_img": "images/medals/medal_chimps1.png",
+                        "visibility_rules": [ "op_difficulty_1" ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "advancedpg1",
+                        "x": 850,
+                        "y": 555
+                    }
+                ]
+            },
+            {
+                "name": "XFactor",
+                "access_rules": [ "XFactor-MUnlock" ],
+                "sections": [
+                    {
+                        "name": "Easy",
+                        "chest_opened_img": "images/medals/medal_easy.png"
+                    },
+                    {
+                        "name": "Primary Only",
+                        "chest_opened_img": "images/medals/medal_primary.png",
+                        "access_rules": ["$primaryonly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Deflation",
+                        "chest_opened_img": "images/medals/medal_deflation.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Medium",
+                        "chest_opened_img": "images/medals/medal_medium.png"
+                    },
+                    {
+                        "name": "Reverse",
+                        "chest_opened_img": "images/medals/medal_reverse.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Military Only",
+                        "chest_opened_img": "images/medals/medal_military.png",
+                        "access_rules": ["$militaryonly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Apopalypse",
+                        "chest_opened_img": "images/medals/medal_apopalypse.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Hard",
+                        "chest_opened_img": "images/medals/medal_hard.png"
+                    },
+                    {
+                        "name": "Alternate Bloon Rounds",
+                        "chest_opened_img": "images/medals/medal_alternate.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Magic Only",
+                        "chest_opened_img": "images/medals/medal_magic.png",
+                        "access_rules": ["$magiconly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Double HP MOABs",
+                        "chest_opened_img": "images/medals/medal_moabs.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Half Cash",
+                        "chest_opened_img": "images/medals/medal_cash.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Impoppable",
+                        "chest_opened_img": "images/medals/medal_impoppable.png"
+                    },
+                    {
+                        "name": "Chimps",
+                        "chest_opened_img": "images/medals/medal_chimps1.png",
+                        "visibility_rules": [ "op_difficulty_1" ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "advancedpg1",
+                        "x": 1675,
+                        "y": 555
+                    }
+                ]
+            },
+            {
+                "name": "Mesa",
+                "access_rules": [ "Mesa-MUnlock" ],
+                "sections": [
+                    {
+                        "name": "Easy",
+                        "chest_opened_img": "images/medals/medal_easy.png"
+                    },
+                    {
+                        "name": "Primary Only",
+                        "chest_opened_img": "images/medals/medal_primary.png",
+                        "access_rules": ["$primaryonly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Deflation",
+                        "chest_opened_img": "images/medals/medal_deflation.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Medium",
+                        "chest_opened_img": "images/medals/medal_medium.png"
+                    },
+                    {
+                        "name": "Reverse",
+                        "chest_opened_img": "images/medals/medal_reverse.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Military Only",
+                        "chest_opened_img": "images/medals/medal_military.png",
+                        "access_rules": ["$militaryonly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Apopalypse",
+                        "chest_opened_img": "images/medals/medal_apopalypse.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Hard",
+                        "chest_opened_img": "images/medals/medal_hard.png"
+                    },
+                    {
+                        "name": "Alternate Bloon Rounds",
+                        "chest_opened_img": "images/medals/medal_alternate.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Magic Only",
+                        "chest_opened_img": "images/medals/medal_magic.png",
+                        "access_rules": ["$magiconly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Double HP MOABs",
+                        "chest_opened_img": "images/medals/medal_moabs.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Half Cash",
+                        "chest_opened_img": "images/medals/medal_cash.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Impoppable",
+                        "chest_opened_img": "images/medals/medal_impoppable.png"
+                    },
+                    {
+                        "name": "Chimps",
+                        "chest_opened_img": "images/medals/medal_chimps1.png",
+                        "visibility_rules": [ "op_difficulty_1" ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "advancedpg1",
+                        "x": 0,
+                        "y": 1090
+                    }
+                ]
+            },
+            {
+                "name": "Geared",
+                "access_rules": [ "Geared-MUnlock" ],
+                "sections": [
+                    {
+                        "name": "Easy",
+                        "chest_opened_img": "images/medals/medal_easy.png"
+                    },
+                    {
+                        "name": "Primary Only",
+                        "chest_opened_img": "images/medals/medal_primary.png",
+                        "access_rules": ["$primaryonly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Deflation",
+                        "chest_opened_img": "images/medals/medal_deflation.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Medium",
+                        "chest_opened_img": "images/medals/medal_medium.png"
+                    },
+                    {
+                        "name": "Reverse",
+                        "chest_opened_img": "images/medals/medal_reverse.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Military Only",
+                        "chest_opened_img": "images/medals/medal_military.png",
+                        "access_rules": ["$militaryonly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Apopalypse",
+                        "chest_opened_img": "images/medals/medal_apopalypse.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Hard",
+                        "chest_opened_img": "images/medals/medal_hard.png"
+                    },
+                    {
+                        "name": "Alternate Bloon Rounds",
+                        "chest_opened_img": "images/medals/medal_alternate.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Magic Only",
+                        "chest_opened_img": "images/medals/medal_magic.png",
+                        "access_rules": ["$magiconly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Double HP MOABs",
+                        "chest_opened_img": "images/medals/medal_moabs.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Half Cash",
+                        "chest_opened_img": "images/medals/medal_cash.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Impoppable",
+                        "chest_opened_img": "images/medals/medal_impoppable.png"
+                    },
+                    {
+                        "name": "Chimps",
+                        "chest_opened_img": "images/medals/medal_chimps1.png",
+                        "visibility_rules": [ "op_difficulty_1" ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "advancedpg1",
+                        "x": 850,
+                        "y": 1090
+                    }
+                ]
+            },
+            {
+                "name": "Spillway",
+                "access_rules": [ "Spillway-MUnlock" ],
+                "sections": [
+                    {
+                        "name": "Easy",
+                        "chest_opened_img": "images/medals/medal_easy.png"
+                    },
+                    {
+                        "name": "Primary Only",
+                        "chest_opened_img": "images/medals/medal_primary.png",
+                        "access_rules": ["$primaryonly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Deflation",
+                        "chest_opened_img": "images/medals/medal_deflation.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Medium",
+                        "chest_opened_img": "images/medals/medal_medium.png"
+                    },
+                    {
+                        "name": "Reverse",
+                        "chest_opened_img": "images/medals/medal_reverse.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Military Only",
+                        "chest_opened_img": "images/medals/medal_military.png",
+                        "access_rules": ["$militaryonly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Apopalypse",
+                        "chest_opened_img": "images/medals/medal_apopalypse.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Hard",
+                        "chest_opened_img": "images/medals/medal_hard.png"
+                    },
+                    {
+                        "name": "Alternate Bloon Rounds",
+                        "chest_opened_img": "images/medals/medal_alternate.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Magic Only",
+                        "chest_opened_img": "images/medals/medal_magic.png",
+                        "access_rules": ["$magiconly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Double HP MOABs",
+                        "chest_opened_img": "images/medals/medal_moabs.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Half Cash",
+                        "chest_opened_img": "images/medals/medal_cash.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Impoppable",
+                        "chest_opened_img": "images/medals/medal_impoppable.png"
+                    },
+                    {
+                        "name": "Chimps",
+                        "chest_opened_img": "images/medals/medal_chimps1.png",
+                        "visibility_rules": [ "op_difficulty_1" ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "advancedpg1",
+                        "x": 1675,
+                        "y": 1090
+                    }
+                ]
+            },
+            {
+                "name": "Cargo",
+                "access_rules": [ "Cargo-MUnlock" ],
+                "sections": [
+                    {
+                        "name": "Easy",
+                        "chest_opened_img": "images/medals/medal_easy.png"
+                    },
+                    {
+                        "name": "Primary Only",
+                        "chest_opened_img": "images/medals/medal_primary.png",
+                        "access_rules": ["$primaryonly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Deflation",
+                        "chest_opened_img": "images/medals/medal_deflation.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Medium",
+                        "chest_opened_img": "images/medals/medal_medium.png"
+                    },
+                    {
+                        "name": "Reverse",
+                        "chest_opened_img": "images/medals/medal_reverse.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Military Only",
+                        "chest_opened_img": "images/medals/medal_military.png",
+                        "access_rules": ["$militaryonly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Apopalypse",
+                        "chest_opened_img": "images/medals/medal_apopalypse.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Hard",
+                        "chest_opened_img": "images/medals/medal_hard.png"
+                    },
+                    {
+                        "name": "Alternate Bloon Rounds",
+                        "chest_opened_img": "images/medals/medal_alternate.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Magic Only",
+                        "chest_opened_img": "images/medals/medal_magic.png",
+                        "access_rules": ["$magiconly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Double HP MOABs",
+                        "chest_opened_img": "images/medals/medal_moabs.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Half Cash",
+                        "chest_opened_img": "images/medals/medal_cash.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Impoppable",
+                        "chest_opened_img": "images/medals/medal_impoppable.png"
+                    },
+                    {
+                        "name": "Chimps",
+                        "chest_opened_img": "images/medals/medal_chimps1.png",
+                        "visibility_rules": [ "op_difficulty_1" ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "advancedpg2",
+                        "x": 0,
+                        "y": 0
+                    }
+                ]
+            },
+            {
+                "name": "Pat's Pond",
+                "access_rules": [ "PatsPond-MUnlock" ],
+                "sections": [
+                    {
+                        "name": "Easy",
+                        "chest_opened_img": "images/medals/medal_easy.png"
+                    },
+                    {
+                        "name": "Primary Only",
+                        "chest_opened_img": "images/medals/medal_primary.png",
+                        "access_rules": ["$primaryonly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Deflation",
+                        "chest_opened_img": "images/medals/medal_deflation.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Medium",
+                        "chest_opened_img": "images/medals/medal_medium.png"
+                    },
+                    {
+                        "name": "Reverse",
+                        "chest_opened_img": "images/medals/medal_reverse.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Military Only",
+                        "chest_opened_img": "images/medals/medal_military.png",
+                        "access_rules": ["$militaryonly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Apopalypse",
+                        "chest_opened_img": "images/medals/medal_apopalypse.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Hard",
+                        "chest_opened_img": "images/medals/medal_hard.png"
+                    },
+                    {
+                        "name": "Alternate Bloon Rounds",
+                        "chest_opened_img": "images/medals/medal_alternate.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Magic Only",
+                        "chest_opened_img": "images/medals/medal_magic.png",
+                        "access_rules": ["$magiconly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Double HP MOABs",
+                        "chest_opened_img": "images/medals/medal_moabs.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Half Cash",
+                        "chest_opened_img": "images/medals/medal_cash.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Impoppable",
+                        "chest_opened_img": "images/medals/medal_impoppable.png"
+                    },
+                    {
+                        "name": "Chimps",
+                        "chest_opened_img": "images/medals/medal_chimps1.png",
+                        "visibility_rules": [ "op_difficulty_1" ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "advancedpg2",
+                        "x": 850,
+                        "y": 0
+                    }
+                ]
+            },
+            {
+                "name": "Peninsula",
+                "access_rules": [ "Peninsula-MUnlock" ],
+                "sections": [
+                    {
+                        "name": "Easy",
+                        "chest_opened_img": "images/medals/medal_easy.png"
+                    },
+                    {
+                        "name": "Primary Only",
+                        "chest_opened_img": "images/medals/medal_primary.png",
+                        "access_rules": ["$primaryonly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Deflation",
+                        "chest_opened_img": "images/medals/medal_deflation.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Medium",
+                        "chest_opened_img": "images/medals/medal_medium.png"
+                    },
+                    {
+                        "name": "Reverse",
+                        "chest_opened_img": "images/medals/medal_reverse.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Military Only",
+                        "chest_opened_img": "images/medals/medal_military.png",
+                        "access_rules": ["$militaryonly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Apopalypse",
+                        "chest_opened_img": "images/medals/medal_apopalypse.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Hard",
+                        "chest_opened_img": "images/medals/medal_hard.png"
+                    },
+                    {
+                        "name": "Alternate Bloon Rounds",
+                        "chest_opened_img": "images/medals/medal_alternate.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Magic Only",
+                        "chest_opened_img": "images/medals/medal_magic.png",
+                        "access_rules": ["$magiconly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Double HP MOABs",
+                        "chest_opened_img": "images/medals/medal_moabs.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Half Cash",
+                        "chest_opened_img": "images/medals/medal_cash.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Impoppable",
+                        "chest_opened_img": "images/medals/medal_impoppable.png"
+                    },
+                    {
+                        "name": "Chimps",
+                        "chest_opened_img": "images/medals/medal_chimps1.png",
+                        "visibility_rules": [ "op_difficulty_1" ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "advancedpg2",
+                        "x": 1675,
+                        "y": 0
+                    }
+                ]
+            },
+            {
+                "name": "High Finance",
+                "access_rules": [ "HighFinance-MUnlock" ],
+                "sections": [
+                    {
+                        "name": "Easy",
+                        "chest_opened_img": "images/medals/medal_easy.png"
+                    },
+                    {
+                        "name": "Primary Only",
+                        "chest_opened_img": "images/medals/medal_primary.png",
+                        "access_rules": ["$primaryonly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Deflation",
+                        "chest_opened_img": "images/medals/medal_deflation.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Medium",
+                        "chest_opened_img": "images/medals/medal_medium.png"
+                    },
+                    {
+                        "name": "Reverse",
+                        "chest_opened_img": "images/medals/medal_reverse.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Military Only",
+                        "chest_opened_img": "images/medals/medal_military.png",
+                        "access_rules": ["$militaryonly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Apopalypse",
+                        "chest_opened_img": "images/medals/medal_apopalypse.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Hard",
+                        "chest_opened_img": "images/medals/medal_hard.png"
+                    },
+                    {
+                        "name": "Alternate Bloon Rounds",
+                        "chest_opened_img": "images/medals/medal_alternate.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Magic Only",
+                        "chest_opened_img": "images/medals/medal_magic.png",
+                        "access_rules": ["$magiconly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Double HP MOABs",
+                        "chest_opened_img": "images/medals/medal_moabs.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Half Cash",
+                        "chest_opened_img": "images/medals/medal_cash.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Impoppable",
+                        "chest_opened_img": "images/medals/medal_impoppable.png"
+                    },
+                    {
+                        "name": "Chimps",
+                        "chest_opened_img": "images/medals/medal_chimps1.png",
+                        "visibility_rules": [ "op_difficulty_1" ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "advancedpg2",
+                        "x": 0,
+                        "y": 555
+                    }
+                ]
+            },
+            {
+                "name": "Another Brick",
+                "access_rules": [ "AnotherBrick-MUnlock" ],
+                "sections": [
+                    {
+                        "name": "Easy",
+                        "chest_opened_img": "images/medals/medal_easy.png"
+                    },
+                    {
+                        "name": "Primary Only",
+                        "chest_opened_img": "images/medals/medal_primary.png",
+                        "access_rules": ["$primaryonly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Deflation",
+                        "chest_opened_img": "images/medals/medal_deflation.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Medium",
+                        "chest_opened_img": "images/medals/medal_medium.png"
+                    },
+                    {
+                        "name": "Reverse",
+                        "chest_opened_img": "images/medals/medal_reverse.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Military Only",
+                        "chest_opened_img": "images/medals/medal_military.png",
+                        "access_rules": ["$militaryonly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Apopalypse",
+                        "chest_opened_img": "images/medals/medal_apopalypse.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Hard",
+                        "chest_opened_img": "images/medals/medal_hard.png"
+                    },
+                    {
+                        "name": "Alternate Bloon Rounds",
+                        "chest_opened_img": "images/medals/medal_alternate.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Magic Only",
+                        "chest_opened_img": "images/medals/medal_magic.png",
+                        "access_rules": ["$magiconly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Double HP MOABs",
+                        "chest_opened_img": "images/medals/medal_moabs.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Half Cash",
+                        "chest_opened_img": "images/medals/medal_cash.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Impoppable",
+                        "chest_opened_img": "images/medals/medal_impoppable.png"
+                    },
+                    {
+                        "name": "Chimps",
+                        "chest_opened_img": "images/medals/medal_chimps1.png",
+                        "visibility_rules": [ "op_difficulty_1" ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "advancedpg2",
+                        "x": 850,
+                        "y": 555
+                    }
+                ]
+            },
+            {
+                "name": "Off The Coast",
+                "access_rules": [ "OffTheCoast-MUnlock" ],
+                "sections": [
+                    {
+                        "name": "Easy",
+                        "chest_opened_img": "images/medals/medal_easy.png"
+                    },
+                    {
+                        "name": "Primary Only",
+                        "chest_opened_img": "images/medals/medal_primary.png",
+                        "access_rules": ["$primaryonly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Deflation",
+                        "chest_opened_img": "images/medals/medal_deflation.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Medium",
+                        "chest_opened_img": "images/medals/medal_medium.png"
+                    },
+                    {
+                        "name": "Reverse",
+                        "chest_opened_img": "images/medals/medal_reverse.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Military Only",
+                        "chest_opened_img": "images/medals/medal_military.png",
+                        "access_rules": ["$militaryonly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Apopalypse",
+                        "chest_opened_img": "images/medals/medal_apopalypse.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Hard",
+                        "chest_opened_img": "images/medals/medal_hard.png"
+                    },
+                    {
+                        "name": "Alternate Bloon Rounds",
+                        "chest_opened_img": "images/medals/medal_alternate.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Magic Only",
+                        "chest_opened_img": "images/medals/medal_magic.png",
+                        "access_rules": ["$magiconly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Double HP MOABs",
+                        "chest_opened_img": "images/medals/medal_moabs.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Half Cash",
+                        "chest_opened_img": "images/medals/medal_cash.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Impoppable",
+                        "chest_opened_img": "images/medals/medal_impoppable.png"
+                    },
+                    {
+                        "name": "Chimps",
+                        "chest_opened_img": "images/medals/medal_chimps1.png",
+                        "visibility_rules": [ "op_difficulty_1" ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "advancedpg2",
+                        "x": 1675,
+                        "y": 555
+                    }
+                ]
+            },
+            {
+                "name": "Cornfield",
+                "access_rules": [ "Cornfield-MUnlock" ],
+                "sections": [
+                    {
+                        "name": "Easy",
+                        "chest_opened_img": "images/medals/medal_easy.png"
+                    },
+                    {
+                        "name": "Primary Only",
+                        "chest_opened_img": "images/medals/medal_primary.png",
+                        "access_rules": ["$primaryonly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Deflation",
+                        "chest_opened_img": "images/medals/medal_deflation.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Medium",
+                        "chest_opened_img": "images/medals/medal_medium.png"
+                    },
+                    {
+                        "name": "Reverse",
+                        "chest_opened_img": "images/medals/medal_reverse.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Military Only",
+                        "chest_opened_img": "images/medals/medal_military.png",
+                        "access_rules": ["$militaryonly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Apopalypse",
+                        "chest_opened_img": "images/medals/medal_apopalypse.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Hard",
+                        "chest_opened_img": "images/medals/medal_hard.png"
+                    },
+                    {
+                        "name": "Alternate Bloon Rounds",
+                        "chest_opened_img": "images/medals/medal_alternate.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Magic Only",
+                        "chest_opened_img": "images/medals/medal_magic.png",
+                        "access_rules": ["$magiconly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Double HP MOABs",
+                        "chest_opened_img": "images/medals/medal_moabs.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Half Cash",
+                        "chest_opened_img": "images/medals/medal_cash.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Impoppable",
+                        "chest_opened_img": "images/medals/medal_impoppable.png"
+                    },
+                    {
+                        "name": "Chimps",
+                        "chest_opened_img": "images/medals/medal_chimps1.png",
+                        "visibility_rules": [ "op_difficulty_1" ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "advancedpg2",
+                        "x": 0,
+                        "y": 1090
+                    }
+                ]
+            },
+            {
+                "name": "Underground",
+                "access_rules": [ "Underground-MUnlock" ],
+                "sections": [
+                    {
+                        "name": "Easy",
+                        "chest_opened_img": "images/medals/medal_easy.png"
+                    },
+                    {
+                        "name": "Primary Only",
+                        "chest_opened_img": "images/medals/medal_primary.png",
+                        "access_rules": ["$primaryonly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Deflation",
+                        "chest_opened_img": "images/medals/medal_deflation.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Medium",
+                        "chest_opened_img": "images/medals/medal_medium.png"
+                    },
+                    {
+                        "name": "Reverse",
+                        "chest_opened_img": "images/medals/medal_reverse.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Military Only",
+                        "chest_opened_img": "images/medals/medal_military.png",
+                        "access_rules": ["$militaryonly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Apopalypse",
+                        "chest_opened_img": "images/medals/medal_apopalypse.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Hard",
+                        "chest_opened_img": "images/medals/medal_hard.png"
+                    },
+                    {
+                        "name": "Alternate Bloon Rounds",
+                        "chest_opened_img": "images/medals/medal_alternate.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Magic Only",
+                        "chest_opened_img": "images/medals/medal_magic.png",
+                        "access_rules": ["$magiconly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Double HP MOABs",
+                        "chest_opened_img": "images/medals/medal_moabs.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Half Cash",
+                        "chest_opened_img": "images/medals/medal_cash.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Impoppable",
+                        "chest_opened_img": "images/medals/medal_impoppable.png"
+                    },
+                    {
+                        "name": "Chimps",
+                        "chest_opened_img": "images/medals/medal_chimps1.png",
+                        "visibility_rules": [ "op_difficulty_1" ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "advancedpg2",
+                        "x": 850,
+                        "y": 1090
+                    }
+                ]
+            }
+        ]
     }
 ]

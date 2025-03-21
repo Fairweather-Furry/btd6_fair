@@ -157,6 +157,40 @@
 												]
 											}
 										]
+									},
+									{
+										"title": "Advanced Maps",
+										"icon": "images/medals/medal_hard.png",
+										"content":
+										[
+											{
+												"type": "tabbed",
+												"dock": "top",
+												"tabs":
+												[
+													{
+														"title": "Page 1",
+														"content":
+														[
+															{
+																"type": "map",
+																"maps": ["advancedpg1"]
+															}
+														]
+													},
+													{
+														"title": "Page 2",
+														"content":
+														[
+															{
+																"type": "map",
+																"maps": ["advancedpg2"]
+															}
+														]
+													}
+												]
+											}
+										]
 									}
 								]
 							}
