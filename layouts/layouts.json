@@ -225,6 +225,80 @@
 												]
 											}
 										]
+									},
+									{
+										"title": "Knowledge Trees",
+										"icon": "images/knowledgepoints.png",
+										"content":
+										[
+											{
+												"type": "tabbed",
+												"dock": "top",
+												"tabs":
+												[
+													{
+														"title": "Primary",
+														"content":
+														[
+															{
+																"type": "map",
+																"maps": ["primaryktree"]
+															}
+														]
+													},
+													{
+														"title": "Military",
+														"content":
+														[
+															{
+																"type": "map",
+																"maps": ["militaryktree"]
+															}
+														]
+													},
+													{
+														"title": "Magic",
+														"content":
+														[
+															{
+																"type": "map",
+																"maps": ["magicktree"]
+															}
+														]
+													},
+													{
+														"title": "Support",
+														"content":
+														[
+															{
+																"type": "map",
+																"maps": ["supportktree"]
+															}
+														]
+													},
+													{
+														"title": "Hero",
+														"content":
+														[
+															{
+																"type": "map",
+																"maps": ["heroktree"]
+															}
+														]
+													},
+													{
+														"title": "Powers",
+														"content":
+														[
+															{
+																"type": "map",
+																"maps": ["powerktree"]
+															}
+														]
+													}
+												]
+											}
+										]
 									}
 								]
 							}

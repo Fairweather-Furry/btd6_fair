@@ -38,5 +38,29 @@
     {
         "name": "expertpg2",
         "img": "images/maps/expertpg2.png"
+    },
+    {
+        "name": "primaryktree",
+        "img": "images/primarytree.png"
+    },
+    {
+        "name": "militaryktree",
+        "img": "images/militarytree.png"
+    },
+    {
+        "name": "magicktree",
+        "img": "images/magictree.png"
+    },
+    {
+        "name": "supportktree",
+        "img": "images/supporttree.png"
+    },
+    {
+        "name": "heroktree",
+        "img": "images/herotree.png"
+    },
+    {
+        "name": "powerktree",
+        "img": "images/powertree.png"
     }
 ]
