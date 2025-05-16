@@ -100,9 +100,9 @@
 				"item_size": "2,2",
 				"rows": [
 					["FastTackAttacks-KUnlock","IncreasedLifespan-KUnlock","ExtraDartPops-KUnlock","PoppyBlades-KUnlock","HardTacks-KUnlock","FastGlue-KUnlock","FraggyFrags-KUnlock","CheapRangs-KUnlock"],
-					["CrossbowReach-KUnlock","BigInferno-KUnlock","IcyChill-KUnlock","MoreSplattyGlue-KUnlock","BudgetClusters-KUnlock","ExtraBounce-KUnlock","4And4-KUnlock","ForceVsForce-KUnlock"],
-					["RecurringRangs-KUnlock","SoCold-KUnlock","AviationGradeGlue-KUnlock","HardPress-KUnlock","MasterDoubleCross-KUnlock","MegaMauler-KUnlock","BigCryoBlast-KUnlock","Hypothermia-KUnlock"],
-					["CheaperSolution-KUnlock","ViolentImpact-KUnlock","LongTurbo-KUnlock","ComeOnEverybody-KUnlock","BionicAugmentation-KUnlock","BonusGlueGunner-KUnlock","BonusMonkey-KUnlock","MoreCash-KUnlock"]
+					["CrossbowReach-KUnlock","BigInferno-KUnlock","IcyChill-KUnlock","MoreSplattyGlue-KUnlock","BudgetClusters-KUnlock","RecurringRangs-KUnlock","ExtraBounce-KUnlock","4And4-KUnlock"],
+					["ForceVsForce-KUnlock","SoCold-KUnlock","AviationGradeGlue-KUnlock","MegaMauler-KUnlock","HardPress-KUnlock","MasterDoubleCross-KUnlock","BigCryoBlast-KUnlock","Hypothermia-KUnlock"],
+					["CheaperSolution-KUnlock","ViolentImpact-KUnlock","BionicAugmentation-KUnlock","LongTurbo-KUnlock","ComeOnEverybody-KUnlock","BonusGlueGunner-KUnlock","MoreCash-KUnlock","BonusMonkey-KUnlock"]
 				]
 			}
 		]

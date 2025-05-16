@@ -6172,5 +6172,524 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "Primary Knowledge Tree",
+        "chest_unopened_img": "images/knowledgepointsgray.png",
+        "chest_opened_img": "images/knowledgepoints.png",
+        "children": [
+            {
+                "name": "Fast Tack Attacks",
+                "access_rules": ["FastTackAttacks-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Fast Tack Attacks"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "primaryktree",
+                        "x": 230,
+                        "y": 55
+                    }
+                ]
+            },
+            {
+                "name": "Increased Lifespan",
+                "access_rules": ["IncreasedLifespan-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Increased Lifespan"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "primaryktree",
+                        "x": 434,
+                        "y": 55
+                    }
+                ]
+            },
+            {
+                "name": "Extra Dart Pops",
+                "access_rules": ["ExtraDartPops-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Extra Dart Pops"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "primaryktree",
+                        "x": 570,
+                        "y": 55
+                    }
+                ]
+            },
+            {
+                "name": "Poppy Blades",
+                "access_rules": ["PoppyBlades-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Poppy Blades"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "primaryktree",
+                        "x": 163,
+                        "y": 130
+                    }
+                ]
+            },
+            {
+                "name": "Hard Tacks",
+                "access_rules": ["HardTacks-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Hard Tacks"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "primaryktree",
+                        "x": 230,
+                        "y": 130
+                    }
+                ]
+            },
+            {
+                "name": "Fast Glue",
+                "access_rules": ["FastGlue-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Fast Glue"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "primaryktree",
+                        "x": 298,
+                        "y": 130
+                    }
+                ]
+            },
+            {
+                "name": "Fraggy Frags",
+                "access_rules": ["FraggyFrags-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Fraggy Frags"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "primaryktree",
+                        "x": 366,
+                        "y": 130
+                    }
+                ]
+            },
+            {
+                "name": "Cheap Rangs",
+                "access_rules": ["CheapRangs-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Cheap Rangs"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "primaryktree",
+                        "x": 503,
+                        "y": 130
+                    }
+                ]
+            },
+            {
+                "name": "Crossbow Reach",
+                "access_rules": ["CrossbowReach-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Crossbow Reach"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "primaryktree",
+                        "x": 570,
+                        "y": 130
+                    }
+                ]
+            },
+            {
+                "name": "Big Inferno",
+                "access_rules": ["BigInferno-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Big Inferno"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "primaryktree",
+                        "x": 163,
+                        "y": 200
+                    }
+                ]
+            },
+            {
+                "name": "Icy Chill",
+                "access_rules": ["IcyChill-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Icy Chill"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "primaryktree",
+                        "x": 230,
+                        "y": 200
+                    }
+                ]
+            },
+            {
+                "name": "More Splatty Glue",
+                "access_rules": ["MoreSplattyGlue-KUnlock"],
+                "sections": [
+                    {
+                        "name": "More Splatty Glue"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "primaryktree",
+                        "x": 298,
+                        "y": 200
+                    }
+                ]
+            },
+            {
+                "name": "Budget Clusters",
+                "access_rules": ["BudgetClusters-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Budget Clusters"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "primaryktree",
+                        "x": 366,
+                        "y": 200
+                    }
+                ]
+            },
+            {
+                "name": "Recurring Rangs",
+                "access_rules": ["RecurringRangs-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Recurring Rangs"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "primaryktree",
+                        "x": 434,
+                        "y": 200
+                    }
+                ]
+            },
+            {
+                "name": "Extra Bounce",
+                "access_rules": ["ExtraBounce-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Extra Bounce"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "primaryktree",
+                        "x": 503,
+                        "y": 200
+                    }
+                ]
+            },
+            {
+                "name": "4 And 4",
+                "access_rules": ["4And4-KUnlock"],
+                "sections": [
+                    {
+                        "name": "4 And 4"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "primaryktree",
+                        "x": 570,
+                        "y": 200
+                    }
+                ]
+            },
+            {
+                "name": "Force Vs Force",
+                "access_rules": ["ForceVsForce-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Force Vs Force"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "primaryktree",
+                        "x": 640,
+                        "y": 200
+                    }
+                ]
+            },
+            {
+                "name": "So Cold",
+                "access_rules": ["SoCold-KUnlock"],
+                "sections": [
+                    {
+                        "name": "So Cold"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "primaryktree",
+                        "x": 230,
+                        "y": 274
+                    }
+                ]
+            },
+            {
+                "name": "Aviation Grade Glue",
+                "access_rules": ["AviationGradeGlue-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Aviation Grade Glue"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "primaryktree",
+                        "x": 298,
+                        "y": 274
+                    }
+                ]
+            },
+            {
+                "name": "Mega Mauler",
+                "access_rules": ["MegaMauler-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Mega Mauler"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "primaryktree",
+                        "x": 434,
+                        "y": 274
+                    }
+                ]
+            },
+            {
+                "name": "Hard Press",
+                "access_rules": ["HardPress-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Hard Press"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "primaryktree",
+                        "x": 503,
+                        "y": 274
+                    }
+                ]
+            },
+            {
+                "name": "Master Double Cross",
+                "access_rules": ["MasterDoubleCross-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Master Double Cross"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "primaryktree",
+                        "x": 570,
+                        "y": 274
+                    }
+                ]
+            },
+            {
+                "name": "Big Cryo Blast",
+                "access_rules": ["BigCryoBlast-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Big Cryo Blast"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "primaryktree",
+                        "x": 163,
+                        "y": 345
+                    }
+                ]
+            },
+            {
+                "name": "Hypothermia",
+                "access_rules": ["Hypothermia-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Hypothermia"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "primaryktree",
+                        "x": 230,
+                        "y": 345
+                    }
+                ]
+            },
+            {
+                "name": "Cheaper Solution",
+                "access_rules": ["CheaperSolution-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Cheaper Solution"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "primaryktree",
+                        "x": 298,
+                        "y": 345
+                    }
+                ]
+            },
+            {
+                "name": "Violent Impact",
+                "access_rules": ["ViolentImpact-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Violent Impact"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "primaryktree",
+                        "x": 366,
+                        "y": 345
+                    }
+                ]
+            },
+            {
+                "name": "Bionic Augmentation",
+                "access_rules": ["BionicAugmentation-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Bionic Augmentation"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "primaryktree",
+                        "x": 434,
+                        "y": 345
+                    }
+                ]
+            },
+            {
+                "name": "Long Turbo",
+                "access_rules": ["LongTurbo-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Long Turbo"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "primaryktree",
+                        "x": 503,
+                        "y": 345
+                    }
+                ]
+            },
+            {
+                "name": "Come On Everybody",
+                "access_rules": ["ComeOnEverybody-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Come On Everybody"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "primaryktree",
+                        "x": 570,
+                        "y": 345
+                    }
+                ]
+            },
+            {
+                "name": "Bonus Glue Gunner",
+                "access_rules": ["BonusGlueGunner-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Bonus Glue Gunner"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "primaryktree",
+                        "x": 298,
+                        "y": 420
+                    }
+                ]
+            },
+            {
+                "name": "More Cash",
+                "access_rules": ["MoreCash-KUnlock"],
+                "sections": [
+                    {
+                        "name": "More Cash"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "primaryktree",
+                        "x": 434,
+                        "y": 420
+                    }
+                ]
+            },
+            {
+                "name": "Bonus Monkey",
+                "access_rules": ["BonusMonkey-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Bonus Monkey"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "primaryktree",
+                        "x": 570,
+                        "y": 420
+                    }
+                ]
+            }
+        ]
     }
 ]

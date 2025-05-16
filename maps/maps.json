@@ -41,26 +41,38 @@
     },
     {
         "name": "primaryktree",
-        "img": "images/primarytree.png"
+        "img": "images/primarytree.png",
+        "location_size": 30,
+        "location_border_thickness": 4
     },
     {
         "name": "militaryktree",
-        "img": "images/militarytree.png"
+        "img": "images/militarytree.png",
+        "location_size": 30,
+        "location_border_thickness": 4
     },
     {
         "name": "magicktree",
-        "img": "images/magictree.png"
+        "img": "images/magictree.png",
+        "location_size": 30,
+        "location_border_thickness": 4
     },
     {
         "name": "supportktree",
-        "img": "images/supporttree.png"
+        "img": "images/supporttree.png",
+        "location_size": 30,
+        "location_border_thickness": 4
     },
     {
         "name": "heroktree",
-        "img": "images/herotree.png"
+        "img": "images/herotree.png",
+        "location_size": 30,
+        "location_border_thickness": 4
     },
     {
         "name": "powerktree",
-        "img": "images/powertree.png"
+        "img": "images/powertree.png",
+        "location_size": 30,
+        "location_border_thickness": 4
     }
 ]
