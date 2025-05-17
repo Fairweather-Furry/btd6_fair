@@ -39,10 +39,19 @@
 				"item_margin": "1,1",
 				"item_size": "3,3",
 				"rows": [
-					["Tutorial-MUnlock","InTheLoop-MUnlock","MiddleOfTheRoad-MUnlock","Tinkerton-MUnlock","TreeStump-MUnlock","TownCenter-MUnlock","OneTwoTree-MUnlock","Scrapyard-MUnlock","TheCabin-MUnlock","Resort-MUnlock","Skates-MUnlock","LotusIsland-MUnlock","CandyFalls-MUnlock","WinterPark-MUnlock","Carved-MUnlock","ParkPath-MUnlock","AlpineRun-MUnlock","FrozenOver-MUnlock","Cubism-MUnlock","FourCircles-MUnlock","Hedge-MUnlock","EndOfTheRoad-MUnlock","Logs-MUnlock"],
-					["LuminousCove-MUnlock","SulfurSprings-MUnlock","WaterPark-MUnlock","Polyphemus-MUnlock","CoveredGarden-MUnlock","Quarry-MUnlock","QuietStreet-MUnlock","BloonariusPrime-MUnlock","Balance-MUnlock","Encrypted-MUnlock","Bazaar-MUnlock","AdorasTemple-MUnlock","SpringSpring-MUnlock","KartsNDarts-MUnlock","MoonLanding-MUnlock","Haunted-MUnlock","Downstream-MUnlock","FiringRange-MUnlock","Cracked-MUnlock","Streambed-MUnlock","Chutes-MUnlock","Rake-MUnlock","SpiceIslands-MUnlock"],
-					["CastleRevenge-MUnlock","DarkPath-MUnlock","Erosion-MUnlock","MidnightMansion-MUnlock","SunkenColumns-MUnlock","XFactor-MUnlock","Mesa-MUnlock","Geared-MUnlock","Spillway-MUnlock","Cargo-MUnlock","PatsPond-MUnlock","Peninsula-MUnlock","HighFinance-MUnlock","AnotherBrick-MUnlock","OffTheCoast-MUnlock","Cornfield-MUnlock","Underground-MUnlock"],
-					["GlacialTrail-MUnlock","DarkDungeons-MUnlock","Sanctuary-MUnlock","Ravine-MUnlock","FloodedValley-MUnlock","Infernal-MUnlock","BloodyPuddles-MUnlock","Workshop-MUnlock","Quad-MUnlock","DarkCastle-MUnlock","MuddyPuddles-MUnlock","Ouch-MUnlock"]
+					["Tutorial-MUnlock","InTheLoop-MUnlock","MiddleOfTheRoad-MUnlock","Tinkerton-MUnlock","TreeStump-MUnlock","TownCenter-MUnlock"],
+					["OneTwoTree-MUnlock","Scrapyard-MUnlock","TheCabin-MUnlock","Resort-MUnlock","Skates-MUnlock","LotusIsland-MUnlock"],
+					["CandyFalls-MUnlock","WinterPark-MUnlock","Carved-MUnlock","ParkPath-MUnlock","AlpineRun-MUnlock","FrozenOver-MUnlock"],
+					["Cubism-MUnlock","FourCircles-MUnlock","Hedge-MUnlock","EndOfTheRoad-MUnlock","Logs-MUnlock","LuminousCove-MUnlock"],
+					["SulfurSprings-MUnlock","WaterPark-MUnlock","Polyphemus-MUnlock","CoveredGarden-MUnlock","Quarry-MUnlock","QuietStreet-MUnlock"],
+					["BloonariusPrime-MUnlock","Balance-MUnlock","Encrypted-MUnlock","Bazaar-MUnlock","AdorasTemple-MUnlock","SpringSpring-MUnlock"],
+					["KartsNDarts-MUnlock","MoonLanding-MUnlock","Haunted-MUnlock","Downstream-MUnlock","FiringRange-MUnlock","Cracked-MUnlock"],
+					["Streambed-MUnlock","Chutes-MUnlock","Rake-MUnlock","SpiceIslands-MUnlock","CastleRevenge-MUnlock","DarkPath-MUnlock"],
+					["Erosion-MUnlock","MidnightMansion-MUnlock","SunkenColumns-MUnlock","XFactor-MUnlock","Mesa-MUnlock","Geared-MUnlock"],
+					["Spillway-MUnlock","Cargo-MUnlock","PatsPond-MUnlock","Peninsula-MUnlock","HighFinance-MUnlock","AnotherBrick-MUnlock"],
+					["OffTheCoast-MUnlock","Cornfield-MUnlock","Underground-MUnlock","GlacialTrail-MUnlock","DarkDungeons-MUnlock","Sanctuary-MUnlock"],
+					["Ravine-MUnlock","FloodedValley-MUnlock","Infernal-MUnlock","BloodyPuddles-MUnlock","Workshop-MUnlock","Quad-MUnlock"],
+					["DarkCastle-MUnlock","MuddyPuddles-MUnlock","Ouch-MUnlock"]
 				]
 			}
 		]
@@ -57,14 +66,12 @@
 				"item_margin": "1,1",
 				"item_size": "4,4",
 				"rows": [
-					["DartMonkey-TUnlock","BoomerangMonkey-TUnlock","BombShooter-TUnlock"],
-					["TackShooter-TUnlock","IceMonkey-TUnlock","GlueGunner-TUnlock"],
-					["SniperMonkey-TUnlock","MonkeySub-TUnlock","MonkeyBuccaneer-TUnlock"],
-					["MonkeyAce-TUnlock","HeliPilot-TUnlock","DartlingGunner-TUnlock"],
-					["MortarMonkey-TUnlock","WizardMonkey-TUnlock","SuperMonkey-TUnlock"],
-					["NinjaMonkey-TUnlock","Alchemist-TUnlock","Druid-TUnlock"],
-					["Mermonkey-TUnlock","BananaFarm-TUnlock","SpikeFactory-TUnlock"],
-					["MonkeyVillage-TUnlock","EngineerMonkey-TUnlock","BeastHandler-TUnlock"]
+					["DartMonkey-TUnlock","BoomerangMonkey-TUnlock","BombShooter-TUnlock","TackShooter-TUnlock"],
+					["IceMonkey-TUnlock","GlueGunner-TUnlock","SniperMonkey-TUnlock","MonkeySub-TUnlock"],
+					["MonkeyBuccaneer-TUnlock","MonkeyAce-TUnlock","HeliPilot-TUnlock","DartlingGunner-TUnlock"],
+					["MortarMonkey-TUnlock","WizardMonkey-TUnlock","SuperMonkey-TUnlock","NinjaMonkey-TUnlock"],
+					["Alchemist-TUnlock","Druid-TUnlock","Mermonkey-TUnlock","BananaFarm-TUnlock"],
+					["SpikeFactory-TUnlock","MonkeyVillage-TUnlock","EngineerMonkey-TUnlock","BeastHandler-TUnlock"]
 				]
 			}
 		]
@@ -79,12 +86,10 @@
 				"item_margin": "1,1",
 				"item_size": "4,4",
 				"rows": [
-					["Quincy-HUnlock","Gwendolin-HUnlock","StrikerJones-HUnlock"],
-					["ObynGreenfoot-HUnlock","Rosalia-HUnlock","CaptainChurchill-HUnlock"],
-					["Benjamin-HUnlock","PatFusty-HUnlock","Ezili-HUnlock"],
-					["Adora-HUnlock","Etienne-HUnlock","Sauda-HUnlock"],
-					["AdmiralBrickell-HUnlock","Psi-HUnlock","Geraldo-HUnlock"],
-					["Corvus-HUnlock"]
+					["Quincy-HUnlock","Gwendolin-HUnlock","StrikerJones-HUnlock","ObynGreenfoot-HUnlock"],
+					["Rosalia-HUnlock","CaptainChurchill-HUnlock","Benjamin-HUnlock","PatFusty-HUnlock"],
+					["Ezili-HUnlock","Adora-HUnlock","Etienne-HUnlock","Sauda-HUnlock"],
+					["AdmiralBrickell-HUnlock","Psi-HUnlock","Geraldo-HUnlock","Corvus-HUnlock"]
 				]
 			}
 		]
@@ -135,9 +140,9 @@
 				"item_margin": "1,1",
 				"item_size": "2,2",
 				"rows": [
-					["SuperRange-KUnlock","MagicTricks-KUnlock","LingeringMagic-KUnlock","CheaperDoubles-KUnlock","HeavyKnockback-KUnlock","HotMagic-KUnlock","SpeedyBrewing-KUnlock","MoMonkeyMoney-KUnlock"],
-					["DiversionTactics-KUnlock","StrikeDownTheFalse-KUnlock","WarmOak-KUnlock","StrongTonic-KUnlock","XrayUltra-KUnlock","ArcaneImpale-KUnlock","AcidStability-KUnlock","ColdFront-KUnlock"],
-					["FlameJet-KUnlock","DeadlyTranquility-KUnlock","ThereCanBeOnlyOne-KUnlock","VineRupture-KUnlock","ManaShield-KUnlock","TinyTornadoes-KUnlock"]
+					["SuperRange-KUnlock","LingeringMagic-KUnlock","MagicTricks-KUnlock","CheaperDoubles-KUnlock","HeavyKnockback-KUnlock","HotMagic-KUnlock","SpeedyBrewing-KUnlock","MoMonkeyMoney-KUnlock"],
+					["DiversionTactics-KUnlock","StrikeDownTheFalse-KUnlock","WarmOak-KUnlock","FlameJet-KUnlock","StrongTonic-KUnlock","XrayUltra-KUnlock","ColdFront-KUnlock","ArcaneImpale-KUnlock"],
+					["AcidStability-KUnlock","DeadlyTranquility-KUnlock","ThereCanBeOnlyOne-KUnlock","VineRupture-KUnlock","TinyTornadoes-KUnlock","ManaShield-KUnlock"]
 				]
 			}
 		]

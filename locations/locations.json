@@ -7178,5 +7178,364 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "Magic Knowledge Tree",
+        "chest_unopened_img": "images/knowledgepointsgray.png",
+        "chest_opened_img": "images/knowledgepoints.png",
+        "children": [
+            {
+                "name": "Super Range",
+                "access_rules": ["SuperRange-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Super Range"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "magicktree",
+                        "x": 230,
+                        "y": 55
+                    }
+                ]
+            },
+            {
+                "name": "Lingering Magic",
+                "access_rules": ["LingeringMagic-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Lingering Magic"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "magicktree",
+                        "x": 434,
+                        "y": 55
+                    }
+                ]
+            },
+            {
+                "name": "Magic Tricks",
+                "access_rules": ["MagicTricks-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Magic Tricks"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "magicktree",
+                        "x": 570,
+                        "y": 55
+                    }
+                ]
+            },
+            {
+                "name": "Cheaper Doubles",
+                "access_rules": ["CheaperDoubles-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Cheaper Doubles"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "magicktree",
+                        "x": 162,
+                        "y": 128
+                    }
+                ]
+            },
+            {
+                "name": "Heavy Knockback",
+                "access_rules": ["HeavyKnockback-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Heavy Knockback"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "magicktree",
+                        "x": 230,
+                        "y": 128
+                    }
+                ]
+            },
+            {
+                "name": "Hot Magic",
+                "access_rules": ["HotMagic-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Hot Magic"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "magicktree",
+                        "x": 434,
+                        "y": 128
+                    }
+                ]
+            },
+            {
+                "name": "Speedy Brewing",
+                "access_rules": ["SpeedyBrewing-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Speedy Brewing"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "magicktree",
+                        "x": 570,
+                        "y": 128
+                    }
+                ]
+            },
+            {
+                "name": "Mo' Monkey Money",
+                "access_rules": ["MoMonkeyMoney-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Mo' Monkey Money"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "magicktree",
+                        "x": 636,
+                        "y": 128
+                    }
+                ]
+            },
+            {
+                "name": "Diversion Tactics",
+                "access_rules": ["DiversionTactics-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Diversion Tactics"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "magicktree",
+                        "x": 162,
+                        "y": 202
+                    }
+                ]
+            },
+            {
+                "name": "Strike Down The False",
+                "access_rules": ["StrikeDownTheFalse-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Strike Down The False"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "magicktree",
+                        "x": 230,
+                        "y": 202
+                    }
+                ]
+            },
+            {
+                "name": "Warm Oak",
+                "access_rules": ["WarmOak-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Warm Oak"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "magicktree",
+                        "x": 366,
+                        "y": 202
+                    }
+                ]
+            },
+            {
+                "name": "Flame Jet",
+                "access_rules": ["FlameJet-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Flame Jet"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "magicktree",
+                        "x": 502,
+                        "y": 202
+                    }
+                ]
+            },
+            {
+                "name": "Strong Tonic",
+                "access_rules": ["StrongTonic-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Strong Tonic"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "magicktree",
+                        "x": 570,
+                        "y": 202
+                    }
+                ]
+            },
+            {
+                "name": "X-Ray Ultra",
+                "access_rules": ["XrayUltra-KUnlock"],
+                "sections": [
+                    {
+                        "name": "X-Ray Ultra"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "magicktree",
+                        "x": 230,
+                        "y": 275
+                    }
+                ]
+            },
+            {
+                "name": "Cold Front",
+                "access_rules": ["ColdFront-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Cold Front"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "magicktree",
+                        "x": 366,
+                        "y": 275
+                    }
+                ]
+            },
+            {
+                "name": "Arcane Impale",
+                "access_rules": ["ArcaneImpale-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Arcane Impale"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "magicktree",
+                        "x": 502,
+                        "y": 275
+                    }
+                ]
+            },
+            {
+                "name": "Acid Stability",
+                "access_rules": ["AcidStability-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Acid Stability"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "magicktree",
+                        "x": 570,
+                        "y": 275
+                    }
+                ]
+            },
+            {
+                "name": "Deadly Tranquility",
+                "access_rules": ["DeadlyTranquility-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Deadly Tranquility"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "magicktree",
+                        "x": 162,
+                        "y": 346
+                    }
+                ]
+            },
+            {
+                "name": "There Can Be Only One",
+                "access_rules": ["ThereCanBeOnlyOne-KUnlock"],
+                "sections": [
+                    {
+                        "name": "There Can Be Only One"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "magicktree",
+                        "x": 230,
+                        "y": 346
+                    }
+                ]
+            },
+            {
+                "name": "Vine Rupture",
+                "access_rules": ["VineRupture-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Vine Rupture"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "magicktree",
+                        "x": 366,
+                        "y": 346
+                    }
+                ]
+            },
+            {
+                "name": "Tiny Tornadoes",
+                "access_rules": ["TinyTornadoes-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Tiny Tornadoes"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "magicktree",
+                        "x": 366,
+                        "y": 420
+                    }
+                ]
+            },
+            {
+                "name": "Mana Shield",
+                "access_rules": ["ManaShield-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Mana Shield"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "magicktree",
+                        "x": 502,
+                        "y": 420
+                    }
+                ]
+            }
+        ]
     }
 ]

@@ -74,5 +74,9 @@
         "img": "images/powertree.png",
         "location_size": 30,
         "location_border_thickness": 4
+    },
+    {
+        "name": "heropg",
+        "img": "images/heropage.png"
     }
 ]

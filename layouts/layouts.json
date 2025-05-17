@@ -9,60 +9,6 @@
 			"content": [
 					{
 					"type": "dock",
-					"dock": "left",
-					"v_alignment": "stretch",
-					"margin": "0,0,0,0",
-					"content": 
-						[
-							{
-								"type": "group",
-								"header": "Options",
-								"dock": "top",
-								"content": {
-									"type": "layout",
-									"key": "options_list"
-								}
-							},
-							{
-								"type": "group",
-								"header": "Monkey Unlocks",
-								"dock": "top",
-								"content": {
-									"type": "layout",
-									"key": "monkey_unlocks"
-								}
-							},
-							{
-								"type": "group",
-								"header": "Hero Unlocks",
-								"dock": "top",
-								"content": {
-									"type": "layout",
-									"key": "hero_unlocks"
-								}
-							}
-						]	
-					},
-					{
-					"type": "dock",
-					"dock": "bottom",
-					"h_alignment": "stretch",
-					"margin": "0,0,0,0",
-					"content": 
-						[
-							{
-								"type": "group",
-								"header": "Map Unlocks",
-								"dock": "top",
-								"content": {
-									"type": "layout",
-									"key": "map_unlocks"
-								}
-							}
-						]	
-					},
-					{
-					"type": "dock",
 					"content": 
 						[
 							{
@@ -299,6 +245,30 @@
 												]
 											}
 										]
+									},
+									{
+										"title": "Other Locations",
+										"icon": "images/monkeys/dartmonkey.png",
+										"content":
+										[
+											{
+												"type": "tabbed",
+												"dock": "top",
+												"tabs":
+												[
+													{
+														"title": "Heroes",
+														"content":
+														[
+															{
+																"type": "map",
+																"maps": ["heropg"]
+															}
+														]
+													}
+												]
+											}
+										]
 									}
 								]
 							}
@@ -306,73 +276,137 @@
 					},
 					{
 					"type": "dock",
-					"dock": "right",
+					"dock": "left",
 					"h_alignment": "stretch",
 					"margin": "0,0,0,0",
 					"content": 
 						[
 							{
-								"type": "group",
-								"header": "Medals, Money, Knowledge",
+								"type": "tabbed",
 								"dock": "top",
-								"content": {
-									"type": "layout",
-									"key": "money_points"
-								}
-							},
-							{
-								"type": "group",
-								"header": "Primary Knowledge Unlocks",
-								"dock": "top",
-								"content": {
-									"type": "layout",
-									"key": "primaryknowledge_unlocks"
-								}
-							},
-							{
-								"type": "group",
-								"header": "Military Knowledge Unlocks",
-								"dock": "top",
-								"content": {
-									"type": "layout",
-									"key": "militaryknowledge_unlocks"
-								}
-							},
-							{
-								"type": "group",
-								"header": "Magic Knowledge Unlocks",
-								"dock": "top",
-								"content": {
-									"type": "layout",
-									"key": "magicknowledge_unlocks"
-								}
-							},
-							{
-								"type": "group",
-								"header": "Support Knowledge Unlocks",
-								"dock": "top",
-								"content": {
-									"type": "layout",
-									"key": "supportknowledge_unlocks"
-								}
-							},
-							{
-								"type": "group",
-								"header": "Hero Knowledge Unlocks",
-								"dock": "top",
-								"content": {
-									"type": "layout",
-									"key": "heroknowledge_unlocks"
-								}
-							},
-							{
-								"type": "group",
-								"header": "Powers Knowledge Unlocks",
-								"dock": "top",
-								"content": {
-									"type": "layout",
-									"key": "powerknowledge_unlocks"
-								}
+								"tabs":[
+									{
+										"title": "Medals",
+										"content":
+										[
+											{
+												"dock": "top",
+												"type": "layout",
+												"key": "money_points"
+											}
+										]
+									},
+									{
+										"title": "Options",
+										"content":
+										[
+											{
+												"dock": "top",
+												"type": "layout",
+												"key": "options_list"
+											}
+										]
+									},
+									{
+										"title": "Maps",
+										"content": 
+											[
+												{
+													"dock": "top",
+													"type": "layout",
+													"key": "map_unlocks"
+												}
+											]	
+									},
+									{
+										"title": "Monkeys",
+										"content": 
+											[
+												{
+													"dock": "top",
+													"type": "layout",
+													"key": "monkey_unlocks"
+												}
+											]	
+									},
+									{
+										"title": "Heroes",
+										"content": 
+											[
+												{
+													"dock": "top",
+													"type": "layout",
+													"key": "hero_unlocks"
+												}
+											]	
+									},
+									{
+										"title": "Primary Knowledge",
+										"content":
+										[
+											{
+												"dock": "top",
+												"type": "layout",
+												"key": "primaryknowledge_unlocks"
+											}
+										]
+									},
+									{
+										"title": "Military Knowledge",
+										"content":
+										[
+											{
+												"dock": "top",
+												"type": "layout",
+												"key": "militaryknowledge_unlocks"
+											}
+										]
+									},
+									{
+										"title": "Magic Knowledge",
+										"content":
+										[
+											{
+												"dock": "top",
+												"type": "layout",
+												"key": "magicknowledge_unlocks"
+											}
+										]
+									},
+									{
+										"title": "Support Knowledge",
+										"content":
+										[
+											{
+												"dock": "top",
+												"type": "layout",
+												"key": "supportknowledge_unlocks"
+											}
+										]
+									},
+									{
+										"title": "Heroes Knowledge",
+										"content":
+										[
+											{
+												"dock": "top",
+												"type": "layout",
+												"key": "heroknowledge_unlocks"
+											}
+										]
+									},
+									{
+										"title": "Powers Knowledge",
+										"content":
+										[
+											{
+												"dock": "top",
+												"type": "layout",
+												"key": "powerknowledge_unlocks"
+											}
+										]
+									}
+								]
 							}
 						]	
 					}
