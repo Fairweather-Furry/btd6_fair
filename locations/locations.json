@@ -6691,5 +6691,492 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "Military Knowledge Tree",
+        "chest_unopened_img": "images/knowledgepointsgray.png",
+        "chest_opened_img": "images/knowledgepoints.png",
+        "children": [
+            {
+                "name": "Naval Upgrades",
+                "access_rules": ["NavalUpgrades-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Naval Upgrades"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "militaryktree",
+                        "x": 196,
+                        "y": 55
+                    }
+                ]
+            },
+            {
+                "name": "Airforce Upgrades",
+                "access_rules": ["AirforceUpgrades-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Airforce Upgrades"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "militaryktree",
+                        "x": 400,
+                        "y": 55
+                    }
+                ]
+            },
+            {
+                "name": "Elite Military Training",
+                "access_rules": ["EliteMilitaryTraining-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Elite Military Training"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "militaryktree",
+                        "x": 502,
+                        "y": 55
+                    }
+                ]
+            },
+            {
+                "name": "Emergency Unlock",
+                "access_rules": ["EmergencyUnlock-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Emergency Unlock"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "militaryktree",
+                        "x": 638,
+                        "y": 55
+                    }
+                ]
+            },
+            {
+                "name": "Big Bunch",
+                "access_rules": ["BigBunch-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Big Bunch"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "militaryktree",
+                        "x": 230,
+                        "y": 128
+                    }
+                ]
+            },
+            {
+                "name": "Accelerated Aerodarts",
+                "access_rules": ["AcceleratedAerodarts-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Accelerated Aerodarts"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "militaryktree",
+                        "x": 366,
+                        "y": 128
+                    }
+                ]
+            },
+            {
+                "name": "Ceramic Shock",
+                "access_rules": ["CeramicShock-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Ceramic Shock"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "militaryktree",
+                        "x": 570,
+                        "y": 128
+                    }
+                ]
+            },
+            {
+                "name": "Breaking Ballistic",
+                "access_rules": ["BreakingBallistic-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Breaking Ballistic"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "militaryktree",
+                        "x": 162,
+                        "y": 200
+                    }
+                ]
+            },
+            {
+                "name": "Faster Takedowns",
+                "access_rules": ["FasterTakedowns-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Faster Takedowns"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "militaryktree",
+                        "x": 230,
+                        "y": 200
+                    }
+                ]
+            },
+            {
+                "name": "Targeted Pineapples",
+                "access_rules": ["TargetedPineapples-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Targeted Pineapples"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "militaryktree",
+                        "x": 366,
+                        "y": 200
+                    }
+                ]
+            },
+            {
+                "name": "Rapid Razors",
+                "access_rules": ["RapidRazors-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Rapid Razors"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "militaryktree",
+                        "x": 434,
+                        "y": 200
+                    }
+                ]
+            },
+            {
+                "name": "Extra Burny Stuff",
+                "access_rules": ["ExtraBurnyStuff-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Extra Burny Stuff"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "militaryktree",
+                        "x": 502,
+                        "y": 200
+                    }
+                ]
+            },
+            {
+                "name": "Cheaper Maiming",
+                "access_rules": ["CheaperMaiming-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Cheaper Maiming"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "militaryktree",
+                        "x": 570,
+                        "y": 200
+                    }
+                ]
+            },
+            {
+                "name": "Gorgon Storm",
+                "access_rules": ["GorgonStorm-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Gorgon Storm"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "militaryktree",
+                        "x": 638,
+                        "y": 200
+                    }
+                ]
+            },
+            {
+                "name": "Quad Burst",
+                "access_rules": ["QuadBurst-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Quad Burst"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "militaryktree",
+                        "x": 162,
+                        "y": 274
+                    }
+                ]
+            },
+            {
+                "name": "Trade Agreements",
+                "access_rules": ["TradeAgreements-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Trade Agreements"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "militaryktree",
+                        "x": 230,
+                        "y": 274
+                    }
+                ]
+            },
+            {
+                "name": "Gun Coolant",
+                "access_rules": ["GunCoolant-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Gun Coolant"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "militaryktree",
+                        "x": 366,
+                        "y": 274
+                    }
+                ]
+            },
+            {
+                "name": "Paint Stripper",
+                "access_rules": ["PaintStripper-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Paint Stripper"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "militaryktree",
+                        "x": 502,
+                        "y": 274
+                    }
+                ]
+            },
+            {
+                "name": "Cross The Streams",
+                "access_rules": ["CrossTheStreams-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Cross The Streams"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "militaryktree",
+                        "x": 638,
+                        "y": 274
+                    }
+                ]
+            },
+            {
+                "name": "Flanking Maneuvers",
+                "access_rules": ["FlankingManeuvers-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Flanking Maneuvers"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "militaryktree",
+                        "x": 162,
+                        "y": 346
+                    }
+                ]
+            },
+            {
+                "name": "Wingmonkey",
+                "access_rules": ["Wingmonkey-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Wingmonkey"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "militaryktree",
+                        "x": 298,
+                        "y": 346
+                    }
+                ]
+            },
+            {
+                "name": "Aeronautic Subsidy",
+                "access_rules": ["AeronauticSubsidy-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Aeronautic Subsidy"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "militaryktree",
+                        "x": 366,
+                        "y": 346
+                    }
+                ]
+            },
+            {
+                "name": "Charged Chinooks",
+                "access_rules": ["ChargedChinooks-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Charged Chinooks"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "militaryktree",
+                        "x": 434,
+                        "y": 346
+                    }
+                ]
+            },
+            {
+                "name": "Budget Battery",
+                "access_rules": ["BudgetBattery-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Budget Battery"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "militaryktree",
+                        "x": 502,
+                        "y": 346
+                    }
+                ]
+            },
+            {
+                "name": "Master Defender",
+                "access_rules": ["MasterDefender-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Master Defender"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "militaryktree",
+                        "x": 570,
+                        "y": 346
+                    }
+                ]
+            },
+            {
+                "name": "Sub Admiral",
+                "access_rules": ["SubAdmiral-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Sub Admiral"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "militaryktree",
+                        "x": 163,
+                        "y": 420
+                    }
+                ]
+            },
+            {
+                "name": "Military Conscription",
+                "access_rules": ["MilitaryConscription-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Military Conscription"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "militaryktree",
+                        "x": 230,
+                        "y": 420
+                    }
+                ]
+            },
+            {
+                "name": "Advanced Logistics",
+                "access_rules": ["AdvancedLogistics-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Advanced Logistics"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "militaryktree",
+                        "x": 366,
+                        "y": 420
+                    }
+                ]
+            },
+            {
+                "name": "Door Gunner",
+                "access_rules": ["DoorGunner-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Door Gunner"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "militaryktree",
+                        "x": 434,
+                        "y": 420
+                    }
+                ]
+            },
+            {
+                "name": "Big Bloon Sabotage",
+                "access_rules": ["BigBloonSabotage-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Big Bloon Sabotage"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "militaryktree",
+                        "x": 400,
+                        "y": 488
+                    }
+                ]
+            }
+        ]
     }
 ]

@@ -117,10 +117,10 @@
 				"item_margin": "1,1",
 				"item_size": "2,2",
 				"rows": [
-					["NavalUpgrades-KUnlock","AirforceUpgrades-KUnlock","EliteMilitaryTraining-KUnlock","EmergencyUnlock-KUnlock","BigBunch-KUnlock","AcceleratedAerodarts-KUnlock","CeramicShock-KUnlock","ExtraBurnyStuff-KUnlock"],
-					["BreakingBallistic-KUnlock","FasterTakedowns-KUnlock","TargetedPineapples-KUnlock","RapidRazors-KUnlock","CheaperMaiming-KUnlock","GorgonStorm-KUnlock","QuadBurst-KUnlock","TradeAgreements-KUnlock"],
-					["GunCoolant-KUnlock","PaintStripper-KUnlock","CrossTheStreams-KUnlock","ChargedChinooks-KUnlock","AeronauticSubsidy-KUnlock","MasterDefender-KUnlock","BudgetBattery-KUnlock","Wingmonkey-KUnlock"],
-					["FlankingManeuvers-KUnlock","SubAdmiral-KUnlock","MilitaryConscription-KUnlock","DoorGunner-KUnlock","AdvancedLogistics-KUnlock","BigBloonSabotage-KUnlock"]
+					["NavalUpgrades-KUnlock","AirforceUpgrades-KUnlock","EliteMilitaryTraining-KUnlock","EmergencyUnlock-KUnlock","BigBunch-KUnlock","AcceleratedAerodarts-KUnlock","CeramicShock-KUnlock","BreakingBallistic-KUnlock"],
+					["FasterTakedowns-KUnlock","TargetedPineapples-KUnlock","RapidRazors-KUnlock","ExtraBurnyStuff-KUnlock","CheaperMaiming-KUnlock","GorgonStorm-KUnlock","QuadBurst-KUnlock","TradeAgreements-KUnlock"],
+					["GunCoolant-KUnlock","PaintStripper-KUnlock","CrossTheStreams-KUnlock","FlankingManeuvers-KUnlock","Wingmonkey-KUnlock","AeronauticSubsidy-KUnlock","ChargedChinooks-KUnlock","BudgetBattery-KUnlock"],
+					["MasterDefender-KUnlock","SubAdmiral-KUnlock","MilitaryConscription-KUnlock","AdvancedLogistics-KUnlock","DoorGunner-KUnlock","BigBloonSabotage-KUnlock"]
 				]
 			}
 		]
