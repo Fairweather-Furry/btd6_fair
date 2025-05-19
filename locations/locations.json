@@ -7537,5 +7537,364 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "Support Knowledge Tree",
+        "chest_unopened_img": "images/knowledgepointsgray.png",
+        "chest_opened_img": "images/knowledgepoints.png",
+        "children": [
+            {
+                "name": "Flat Pack Buildings",
+                "access_rules": ["FlatPackBuildings-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Flat Pack Buildings"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "supportktree",
+                        "x": 252,
+                        "y": 56
+                    }
+                ]
+            },
+            {
+                "name": "One More Spike",
+                "access_rules": ["OneMoreSpike-KUnlock"],
+                "sections": [
+                    {
+                        "name": "One More Spike"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "supportktree",
+                        "x": 388,
+                        "y": 56
+                    }
+                ]
+            },
+            {
+                "name": "Insider Trades",
+                "access_rules": ["InsiderTrades-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Insider Trades"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "supportktree",
+                        "x": 218,
+                        "y": 126
+                    }
+                ]
+            },
+            {
+                "name": "More Valuable Bananas",
+                "access_rules": ["MoreValuableBananas-KUnlock"],
+                "sections": [
+                    {
+                        "name": "More Valuable Bananas"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "supportktree",
+                        "x": 286,
+                        "y": 126
+                    }
+                ]
+            },
+            {
+                "name": "First Last Line of Defense",
+                "access_rules": ["FirstLastLineOfDefense-KUnlock"],
+                "sections": [
+                    {
+                        "name": "First Last Line of Defense"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "supportktree",
+                        "x": 422,
+                        "y": 126
+                    }
+                ]
+            },
+            {
+                "name": "Bigger Banks",
+                "access_rules": ["BiggerBanks-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Bigger Banks"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "supportktree",
+                        "x": 218,
+                        "y": 200
+                    }
+                ]
+            },
+            {
+                "name": "Farm Subsidy",
+                "access_rules": ["FarmSubsidy-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Farm Subsidy"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "supportktree",
+                        "x": 286,
+                        "y": 200
+                    }
+                ]
+            },
+            {
+                "name": "Vigilant Sentries",
+                "access_rules": ["VigilantSentries-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Vigilant Sentries"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "supportktree",
+                        "x": 354,
+                        "y": 200
+                    }
+                ]
+            },
+            {
+                "name": "Monkey Education",
+                "access_rules": ["MonkeyEducation-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Monkey Education"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "supportktree",
+                        "x": 553,
+                        "y": 200
+                    }
+                ]
+            },
+            {
+                "name": "Backroom Deals",
+                "access_rules": ["BackroomDeals-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Backroom Deals"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "supportktree",
+                        "x": 218,
+                        "y": 274
+                    }
+                ]
+            },
+            {
+                "name": "Inland Revenue Streams",
+                "access_rules": ["InlandRevenueStreams-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Inland Revenue Streams"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "supportktree",
+                        "x": 286,
+                        "y": 274
+                    }
+                ]
+            },
+            {
+                "name": "Thicker Foams",
+                "access_rules": ["ThickerFoams-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Thicker Foams"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "supportktree",
+                        "x": 354,
+                        "y": 274
+                    }
+                ]
+            },
+            {
+                "name": "Very Shreddy",
+                "access_rules": ["VeryShreddy-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Very Shreddy"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "supportktree",
+                        "x": 422,
+                        "y": 274
+                    }
+                ]
+            },
+            {
+                "name": "To ARMS!",
+                "access_rules": ["ToArms-KUnlock"],
+                "sections": [
+                    {
+                        "name": "To ARMS!"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "supportktree",
+                        "x": 553,
+                        "y": 274
+                    }
+                ]
+            },
+            {
+                "name": "Better Sell Deals",
+                "access_rules": ["BetterSellDeals-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Better Sell Deals"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "supportktree",
+                        "x": 218,
+                        "y": 346
+                    }
+                ]
+            },
+            {
+                "name": "Healthy Bananas",
+                "access_rules": ["HealthyBananas-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Healthy Bananas"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "supportktree",
+                        "x": 286,
+                        "y": 346
+                    }
+                ]
+            },
+            {
+                "name": "Big Traps",
+                "access_rules": ["BigTraps-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Big Traps"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "supportktree",
+                        "x": 354,
+                        "y": 346
+                    }
+                ]
+            },
+            {
+                "name": "Hi-Value Mines",
+                "access_rules": ["HiValueMines-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Hi-Value Mines"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "supportktree",
+                        "x": 422,
+                        "y": 346
+                    }
+                ]
+            },
+            {
+                "name": "Veteran Monkey Training",
+                "access_rules": ["VeteranMonkeyTraining-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Veteran Monkey Training"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "supportktree",
+                        "x": 485,
+                        "y": 346
+                    }
+                ]
+            },
+            {
+                "name": "Global Ability Cooldowns",
+                "access_rules": ["GlobalAbilityCooldowns-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Global Ability Cooldowns"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "supportktree",
+                        "x": 620,
+                        "y": 346
+                    }
+                ]
+            },
+            {
+                "name": "Bank Deposits",
+                "access_rules": ["BankDeposits-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Bank Deposits"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "supportktree",
+                        "x": 218,
+                        "y": 420
+                    }
+                ]
+            },
+            {
+                "name": "Paragon of Power",
+                "access_rules": ["ParagonOfPower-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Paragon of Power"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "supportktree",
+                        "x": 485,
+                        "y": 420
+                    }
+                ]
+            }
+        ]
     }
 ]

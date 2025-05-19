@@ -226,9 +226,9 @@
 				"item_margin": "1,1",
 				"item_size": "2,2",
 				"rows": [
-					["FlatPackBuildings-KUnlock","OneMoreSpike-KUnlock","InsiderTrades-KUnlock","MoreValuableBananas-KUnlock","FirstLastLineOfDefense-KUnlock","MonkeyEducation-KUnlock","BiggerBanks-KUnlock","FarmSubsidy-KUnlock"],
-					["VigilantSentries-KUnlock","VeryShreddy-KUnlock","BackroomDeals-KUnlock","InlandRevenueStreams-KUnlock","ToArms-KUnlock","ThickerFoams-KUnlock","BetterSellDeals-KUnlock","HiValueMines-KUnlock"],
-					["VeteranMonkeyTraining-KUnlock","GlobalAbilityCooldowns-KUnlock","BigTraps-KUnlock","HealthyBananas-KUnlock","BankDeposits-KUnlock","ParagonOfPower-KUnlock"]
+					["FlatPackBuildings-KUnlock","OneMoreSpike-KUnlock","InsiderTrades-KUnlock","MoreValuableBananas-KUnlock","FirstLastLineOfDefense-KUnlock","BiggerBanks-KUnlock","FarmSubsidy-KUnlock","VigilantSentries-KUnlock"],
+					["MonkeyEducation-KUnlock","BackroomDeals-KUnlock","InlandRevenueStreams-KUnlock","ThickerFoams-KUnlock","VeryShreddy-KUnlock","ToArms-KUnlock","BetterSellDeals-KUnlock","HealthyBananas-KUnlock"],
+					["BigTraps-KUnlock","HiValueMines-KUnlock","VeteranMonkeyTraining-KUnlock","GlobalAbilityCooldowns-KUnlock","BankDeposits-KUnlock","ParagonOfPower-KUnlock"]
 				]
 			}
 		]
