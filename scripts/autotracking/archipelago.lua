@@ -1,5 +1,5 @@
---ScriptHost:LoadScript("scripts/autotracking/item_mapping.lua")
---ScriptHost:LoadScript("scripts/autotracking/location_mapping.lua")
+ScriptHost:LoadScript("scripts/autotracking/item_mapping.lua")
+ScriptHost:LoadScript("scripts/autotracking/location_mapping.lua")
 ScriptHost:LoadScript("scripts/autotracking/ap_slot.lua")
 
 CUR_INDEX = -1
@@ -71,6 +71,7 @@ function onClear(slot_data)
 			Tracker:FindObjectForCode(SLOT_CODES[k].code).CurrentStage = SLOT_CODES[k].mapping[v]
 		end
 	end
+end
 
 -- called when an item gets collected
 function onItem(index, item_id, item_name, player_number)

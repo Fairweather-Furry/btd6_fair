@@ -1,0 +1,16 @@
+LOCATION_MAPPING = {
+    [1] = {"@Beginner/Monkey Meadow (Tutorial)/Easy"},
+    [2] = {"@Beginner/Monkey Meadow (Tutorial)/Primary Only"},
+    [3] = {"@Beginner/Monkey Meadow (Tutorial)/Deflation"},
+    [4] = {"@Beginner/Monkey Meadow (Tutorial)/Medium"},
+    [5] = {"@Beginner/Monkey Meadow (Tutorial)/Reverse"},
+    [6] = {"@Beginner/Monkey Meadow (Tutorial)/Military Only"},
+    [7] = {"@Beginner/Monkey Meadow (Tutorial)/Apopalypse"},
+    [8] = {"@Beginner/Monkey Meadow (Tutorial)/Hard"},
+    [9] = {"@Beginner/Monkey Meadow (Tutorial)/Alternate Bloon Rounds"},
+    [10] = {"@Beginner/Monkey Meadow (Tutorial)/Magic Only"},
+    [11] = {"@Beginner/Monkey Meadow (Tutorial)/Double HP MOABs"},
+    [12] = {"@Beginner/Monkey Meadow (Tutorial)/Half Cash"},
+    [13] = {"@Beginner/Monkey Meadow (Tutorial)/Impoppable"},
+    [14] = {"@Beginner/Monkey Meadow (Tutorial)/Chimps"},
+}
