@@ -9,7 +9,7 @@ function has(item, amount)
 end
 
 function primaryonly()
-  if has("DartMonkey-TUnlock") or has("BoomerangMonkey-TUnlock") or has("BombShooter-TUnlock") or has("TackShooter-TUnlock") or has("IceMonkey-TUnlock") or has("GlueGunner-TUnlock") then
+  if (has("DartMonkey-TUnlock") or has("BoomerangMonkey-TUnlock") or has("BombShooter-TUnlock") or has("TackShooter-TUnlock") or has("IceMonkey-TUnlock") or has("GlueGunner-TUnlock")) then
     return 1
   else
     return 0
@@ -17,7 +17,7 @@ function primaryonly()
 end
 
 function militaryonly()
-  if has("SniperMonkey-TUnlock") or has("MonkeySub-TUnlock") or has("MonkeyBuccaneer-TUnlock") or has("MonkeyAce-TUnlock") or has("HeliPilot-TUnlock") or has("DartlingGunner-TUnlock") or has("MortarMonkey-TUnlock") then
+  if (has("SniperMonkey-TUnlock") or has("MonkeySub-TUnlock") or has("MonkeyBuccaneer-TUnlock") or has("MonkeyAce-TUnlock") or has("HeliPilot-TUnlock") or has("DartlingGunner-TUnlock") or has("MortarMonkey-TUnlock")) then
     return 1
   else
     return 0
@@ -25,7 +25,7 @@ function militaryonly()
 end
 
 function magiconly()
-  if has("WizardMonkey-TUnlock") or has("SuperMonkey-TUnlock") or has("NinjaMonkey-TUnlock") or has("Alchemist-TUnlock") or has("Druid-TUnlock") or has("Mermonkey-TUnlock") then
+  if (has("WizardMonkey-TUnlock") or has("SuperMonkey-TUnlock") or has("NinjaMonkey-TUnlock") or has("Alchemist-TUnlock") or has("Druid-TUnlock") or has("Mermonkey-TUnlock")) then
     return 1
   else
     return 0

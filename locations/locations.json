@@ -7896,5 +7896,467 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "Hero Knowledge Tree",
+        "chest_unopened_img": "images/knowledgepointsgray.png",
+        "chest_opened_img": "images/knowledgepoints.png",
+        "children": [
+            {
+                "name": "Heroic Reach",
+                "access_rules": ["HeroicReach-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Heroic Reach"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "heroktree",
+                        "x": 264,
+                        "y": 52
+                    }
+                ]
+            },
+            {
+                "name": "More 'Splody",
+                "access_rules": ["MoreSplody-KUnlock"],
+                "sections": [
+                    {
+                        "name": "More 'Splody"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "heroktree",
+                        "x": 400,
+                        "y": 52
+                    }
+                ]
+            },
+            {
+                "name": "Ability Discipline",
+                "access_rules": ["AbilityDiscipline-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Ability Discipline"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "heroktree",
+                        "x": 536,
+                        "y": 52
+                    }
+                ]
+            },
+            {
+                "name": "Heroic Velocity",
+                "access_rules": ["HeroicVelocity-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Heroic Velocity"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "heroktree",
+                        "x": 264,
+                        "y": 128
+                    }
+                ]
+            },
+            {
+                "name": "Scholarships",
+                "access_rules": ["Scholarships-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Scholarships"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "heroktree",
+                        "x": 400,
+                        "y": 128
+                    }
+                ]
+            },
+            {
+                "name": "Quick Hands",
+                "access_rules": ["QuickHands-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Quick Hands"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "heroktree",
+                        "x": 264,
+                        "y": 200
+                    }
+                ]
+            },
+            {
+                "name": "Self Taught Heroes",
+                "access_rules": ["SelfTaughtHeroes-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Self Taught Heroes"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "heroktree",
+                        "x": 400,
+                        "y": 200
+                    }
+                ]
+            },
+            {
+                "name": "Ability Mastery",
+                "access_rules": ["AbilityMastery-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Ability Mastery"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "heroktree",
+                        "x": 536,
+                        "y": 200
+                    }
+                ]
+            },
+            {
+                "name": "Hero Favors",
+                "access_rules": ["HeroFavors-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Hero Favors"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "heroktree",
+                        "x": 400,
+                        "y": 275
+                    }
+                ]
+            },
+            {
+                "name": "Empowered Heroes",
+                "access_rules": ["EmpoweredHeroes-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Empowered Heroes"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "heroktree",
+                        "x": 400,
+                        "y": 348
+                    }
+                ]
+            },
+            {
+                "name": "Big Bloon Blueprints",
+                "access_rules": ["BigBloonBlueprints-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Big Bloon Blueprints"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "heroktree",
+                        "x": 536,
+                        "y": 348
+                    }
+                ]
+            },
+            {
+                "name": "Monkeys Together Strong",
+                "access_rules": ["MonkeysTogetherStrong-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Monkeys Together Strong"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "heroktree",
+                        "x": 400,
+                        "y": 422
+                    }
+                ]
+            },
+            {
+                "name": "Weak Point",
+                "access_rules": ["WeakPoint-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Weak Point"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "heroktree",
+                        "x": 536,
+                        "y": 422
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Powers Knowledge Tree",
+        "chest_unopened_img": "images/knowledgepointsgray.png",
+        "chest_opened_img": "images/knowledgepoints.png",
+        "children": [
+            {
+                "name": "Bigger Camo Trap",
+                "access_rules": ["BiggerCamoTrap-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Bigger Camo Trap"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "powerktree",
+                        "x": 264,
+                        "y": 53
+                    }
+                ]
+            },
+            {
+                "name": "Just One More",
+                "access_rules": ["JustOneMore-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Just One More"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "powerktree",
+                        "x": 400,
+                        "y": 53
+                    }
+                ]
+            },
+            {
+                "name": "Cheaper Lakes",
+                "access_rules": ["CheaperLakes-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Cheaper Lakes"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "powerktree",
+                        "x": 536,
+                        "y": 53
+                    }
+                ]
+            },
+            {
+                "name": "Mauling MOAB Mines",
+                "access_rules": ["MaulingMoabMines-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Mauling MOAB Mines"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "powerktree",
+                        "x": 264,
+                        "y": 128
+                    }
+                ]
+            },
+            {
+                "name": "Longer Time Stop",
+                "access_rules": ["LongerDartTime-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Longer Time Stop"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "powerktree",
+                        "x": 400,
+                        "y": 128
+                    }
+                ]
+            },
+            {
+                "name": "Budget Pontoons",
+                "access_rules": ["BudgetPontoons-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Budget Pontoons"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "powerktree",
+                        "x": 536,
+                        "y": 128
+                    }
+                ]
+            },
+            {
+                "name": "Supersize Glue Trap",
+                "access_rules": ["SupersizeGlueTrap-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Supersize Glue Trap"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "powerktree",
+                        "x": 264,
+                        "y": 200
+                    }
+                ]
+            },
+            {
+                "name": "Longer Boosts",
+                "access_rules": ["LongerBoosts-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Longer Boosts"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "powerktree",
+                        "x": 400,
+                        "y": 200
+                    }
+                ]
+            },
+            {
+                "name": "Pre-Game Prep",
+                "access_rules": ["PreGamePrep-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Pre-Game Prep"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "powerktree",
+                        "x": 400,
+                        "y": 274
+                    }
+                ]
+            },
+            {
+                "name": "Fit Farmers",
+                "access_rules": ["FitFarmers-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Fit Farmers"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "powerktree",
+                        "x": 536,
+                        "y": 274
+                    }
+                ]
+            },
+            {
+                "name": "Ambush Tech",
+                "access_rules": ["AmbushTech-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Ambush Tech"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "powerktree",
+                        "x": 264,
+                        "y": 274
+                    }
+                ]
+            },
+            {
+                "name": "Budget Cash Drops",
+                "access_rules": ["BudgetCashDrops-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Budget Cash Drops"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "powerktree",
+                        "x": 468,
+                        "y": 346
+                    }
+                ]
+            },
+            {
+                "name": "Supa-Thrive",
+                "access_rules": ["SupaThrive-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Supa-Thrive"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "powerktree",
+                        "x": 605,
+                        "y": 346
+                    }
+                ]
+            },
+            {
+                "name": "Powerful Monkey Storm",
+                "access_rules": ["PowerfulMonkeyStorm-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Powerful Monkey Storm"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "powerktree",
+                        "x": 536,
+                        "y": 200
+                    }
+                ]
+            },
+            {
+                "name": "Grand Prix Spree",
+                "access_rules": ["GrandPrixSpree-KUnlock"],
+                "sections": [
+                    {
+                        "name": "Grand Prix Spree"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "powerktree",
+                        "x": 468,
+                        "y": 420
+                    }
+                ]
+            }
+        ]
     }
 ]
