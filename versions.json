@@ -2,10 +2,12 @@
     "versions": [
         {
             "package_version": "0.1",
-            "download_url": "",
-            "sha256": "",
+            "download_url": "https://github.com/Fairweather-Furry/btd6_fair/releases/download/v0.1/btd6_fair.zip",
+            "sha256": "78a3ccd547a0fdcf45710519edb3e4f7c3685432fc458a8181566f7ece7004e0",
             "changelog": [
-                "Initial Version"
+                "Initial Release!",
+                "Multiple maps, layouts, logic, all that added. Tracking received tower unlocks, hero unlocks, map unlocks, medals, filler monkey money, and knowledge unlocks. Also tracking medal locations and knowledge tree locations. Tracking overall difficulty in order to show medals you can get.",
+                "To-do list: Difficulty unique graphics, Experience level locations tracking, hero locations tracking, goal map tracking. Work on knowledge trees logic. Probably other stuff too."
             ]
         }
     ]
