@@ -41,6 +41,13 @@
         "codes": "money"
     },
     {
+        "name": "Medals Required",
+        "type": "consumable",
+        "initial_quantity": 36,
+        "img": "images/medals/medal_none.png",
+        "codes": "medalreq"
+    },
+    {
         "name": "DartMonkey-TUnlock-Item",
         "type": "toggle",
         "img": "images/monkeys/dartmonkey.png",
@@ -1533,5 +1540,38 @@
         "type": "toggle",
         "img": "images/maps/ouch.png",
         "codes": "Ouch-MUnlock"
+    },
+    {
+        "name": "Victory Map",
+        "type": "progressive",
+        "codes": "winmap",
+        "allow_disabled": false,
+        "loop": true,
+        "stages": [
+            {
+                "name": "Monkey Meadow",
+                "img": "images/maps/monkeymeadow.png",
+                "codes": "winmap_0",
+                "inheret_codes": false
+            },
+            {
+                "name": "In The Loop",
+                "img": "images/maps/intheloop.png",
+                "codes": "winmap_1",
+                "inheret_codes": false
+            },
+            {
+                "name": "Middle Of The Road",
+                "img": "images/maps/middleoftheroad.png",
+                "codes": "winmap_2",
+                "inheret_codes": false
+            },
+            {
+                "name": "Tinkerton",
+                "img": "images/maps/tinkerton.png",
+                "codes": "winmap_3",
+                "inheret_codes": false
+            }
+        ]
     }
 ]
