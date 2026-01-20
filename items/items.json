@@ -1571,6 +1571,432 @@
                 "img": "images/maps/tinkerton.png",
                 "codes": "winmap_3",
                 "inheret_codes": false
+            },
+            {
+                "name": "Tree Stump",
+                "img": "images/maps/treestump.png",
+                "codes": "winmap_4",
+                "inheret_codes": false
+            },
+            {
+                "name": "Town Center",
+                "img": "images/maps/towncenter.png",
+                "codes": "winmap_5",
+                "inheret_codes": false
+            },
+            {
+                "name": "One Two Tree",
+                "img": "images/maps/onetwotree.png",
+                "codes": "winmap_6",
+                "inheret_codes": false
+            },
+            {
+                "name": "Scrapyard",
+                "img": "images/maps/scrapyard.png",
+                "codes": "winmap_7",
+                "inheret_codes": false
+            },
+            {
+                "name": "The Cabin",
+                "img": "images/maps/thecabin.png",
+                "codes": "winmap_8",
+                "inheret_codes": false
+            },
+            {
+                "name": "Resort",
+                "img": "images/maps/resort.png",
+                "codes": "winmap_9",
+                "inheret_codes": false
+            },
+            {
+                "name": "Skates",
+                "img": "images/maps/skates.png",
+                "codes": "winmap_10",
+                "inheret_codes": false
+            },
+            {
+                "name": "Lotus Island",
+                "img": "images/maps/lotusisland.png",
+                "codes": "winmap_11",
+                "inheret_codes": false
+            },
+            {
+                "name": "Candy Falls",
+                "img": "images/maps/candyfalls.png",
+                "codes": "winmap_12",
+                "inheret_codes": false
+            },
+            {
+                "name": "Winter Park",
+                "img": "images/maps/winterpark.png",
+                "codes": "winmap_13",
+                "inheret_codes": false
+            },
+            {
+                "name": "Carved",
+                "img": "images/maps/carved.png",
+                "codes": "winmap_14",
+                "inheret_codes": false
+            },
+            {
+                "name": "Park Path",
+                "img": "images/maps/parkpath.png",
+                "codes": "winmap_15",
+                "inheret_codes": false
+            },
+            {
+                "name": "Alpine Run",
+                "img": "images/maps/alpinerun.png",
+                "codes": "winmap_16",
+                "inheret_codes": false
+            },
+            {
+                "name": "Frozen Over",
+                "img": "images/maps/frozenover.png",
+                "codes": "winmap_17",
+                "inheret_codes": false
+            },
+            {
+                "name": "Cubism",
+                "img": "images/maps/cubism.png",
+                "codes": "winmap_18",
+                "inheret_codes": false
+            },
+            {
+                "name": "Four Circles",
+                "img": "images/maps/fourcircles.png",
+                "codes": "winmap_19",
+                "inheret_codes": false
+            },
+            {
+                "name": "Hedge",
+                "img": "images/maps/hedge.png",
+                "codes": "winmap_20",
+                "inheret_codes": false
+            },
+            {
+                "name": "End Of The Road",
+                "img": "images/maps/endoftheroad.png",
+                "codes": "winmap_21",
+                "inheret_codes": false
+            },
+            {
+                "name": "Logs",
+                "img": "images/maps/logs.png",
+                "codes": "winmap_22",
+                "inheret_codes": false
+            },
+            {
+                "name": "Luminous Cove",
+                "img": "images/maps/luminouscove.png",
+                "codes": "winmap_23",
+                "inheret_codes": false
+            },
+            {
+                "name": "Sulfur Springs",
+                "img": "images/maps/sulfursprings.png",
+                "codes": "winmap_24",
+                "inheret_codes": false
+            },
+            {
+                "name": "Water Park",
+                "img": "images/maps/waterpark.png",
+                "codes": "winmap_25",
+                "inheret_codes": false
+            },
+            {
+                "name": "Polyphemus",
+                "img": "images/maps/polyphemus.png",
+                "codes": "winmap_26",
+                "inheret_codes": false
+            },
+            {
+                "name": "Covered Garden",
+                "img": "images/maps/coveredgarden.png",
+                "codes": "winmap_27",
+                "inheret_codes": false
+            },
+            {
+                "name": "Quarry",
+                "img": "images/maps/quarry.png",
+                "codes": "winmap_28",
+                "inheret_codes": false
+            },
+            {
+                "name": "Quiet Street",
+                "img": "images/maps/quietstreet.png",
+                "codes": "winmap_29",
+                "inheret_codes": false
+            },
+            {
+                "name": "Bloonarius Prime",
+                "img": "images/maps/bloonariusprime.png",
+                "codes": "winmap_30",
+                "inheret_codes": false
+            },
+            {
+                "name": "Balance",
+                "img": "images/maps/balance.png",
+                "codes": "winmap_31",
+                "inheret_codes": false
+            },
+            {
+                "name": "Encrypted",
+                "img": "images/maps/encrypted.png",
+                "codes": "winmap_32",
+                "inheret_codes": false
+            },
+            {
+                "name": "Bazaar",
+                "img": "images/maps/bazaar.png",
+                "codes": "winmap_33",
+                "inheret_codes": false
+            },
+            {
+                "name": "Adora's Temple",
+                "img": "images/maps/adorastemple.png",
+                "codes": "winmap_34",
+                "inheret_codes": false
+            },
+            {
+                "name": "Spring Spring",
+                "img": "images/maps/springspring.png",
+                "codes": "winmap_35",
+                "inheret_codes": false
+            },
+            {
+                "name": "Karts N Darts",
+                "img": "images/maps/kartsndarts.png",
+                "codes": "winmap_36",
+                "inheret_codes": false
+            },
+            {
+                "name": "Moon Landing",
+                "img": "images/maps/moonlanding.png",
+                "codes": "winmap_37",
+                "inheret_codes": false
+            },
+            {
+                "name": "Haunted",
+                "img": "images/maps/haunted.png",
+                "codes": "winmap_38",
+                "inheret_codes": false
+            },
+            {
+                "name": "Downstream",
+                "img": "images/maps/downstream.png",
+                "codes": "winmap_39",
+                "inheret_codes": false
+            },
+            {
+                "name": "Firing Range",
+                "img": "images/maps/firingrange.png",
+                "codes": "winmap_40",
+                "inheret_codes": false
+            },
+            {
+                "name": "Cracked",
+                "img": "images/maps/cracked.png",
+                "codes": "winmap_41",
+                "inheret_codes": false
+            },
+            {
+                "name": "Streambed",
+                "img": "images/maps/streambed.png",
+                "codes": "winmap_42",
+                "inheret_codes": false
+            },
+            {
+                "name": "Chutes",
+                "img": "images/maps/chutes.png",
+                "codes": "winmap_43",
+                "inheret_codes": false
+            },
+            {
+                "name": "Rake",
+                "img": "images/maps/rake.png",
+                "codes": "winmap_44",
+                "inheret_codes": false
+            },
+            {
+                "name": "Spice Islands",
+                "img": "images/maps/spiceislands.png",
+                "codes": "winmap_45",
+                "inheret_codes": false
+            },
+            {
+                "name": "Castle Revenge",
+                "img": "images/maps/castlerevenge.png",
+                "codes": "winmap_46",
+                "inheret_codes": false
+            },
+            {
+                "name": "Dark Path",
+                "img": "images/maps/darkpath.png",
+                "codes": "winmap_47",
+                "inheret_codes": false
+            },
+            {
+                "name": "Erosion",
+                "img": "images/maps/erosion.png",
+                "codes": "winmap_48",
+                "inheret_codes": false
+            },
+            {
+                "name": "Midnight Mansion",
+                "img": "images/maps/midnightmansion.png",
+                "codes": "winmap_49",
+                "inheret_codes": false
+            },
+            {
+                "name": "Sunken Columns",
+                "img": "images/maps/sunkencolumns.png",
+                "codes": "winmap_50",
+                "inheret_codes": false
+            },
+            {
+                "name": "XFactor",
+                "img": "images/maps/xfactor.png",
+                "codes": "winmap_51",
+                "inheret_codes": false
+            },
+            {
+                "name": "Mesa",
+                "img": "images/maps/mesa.png",
+                "codes": "winmap_52",
+                "inheret_codes": false
+            },
+            {
+                "name": "Geared",
+                "img": "images/maps/geared.png",
+                "codes": "winmap_53",
+                "inheret_codes": false
+            },
+            {
+                "name": "Spillway",
+                "img": "images/maps/spillway.png",
+                "codes": "winmap_54",
+                "inheret_codes": false
+            },
+            {
+                "name": "Cargo",
+                "img": "images/maps/cargo.png",
+                "codes": "winmap_55",
+                "inheret_codes": false
+            },
+            {
+                "name": "Pat's Pond",
+                "img": "images/maps/patspond.png",
+                "codes": "winmap_56",
+                "inheret_codes": false
+            },
+            {
+                "name": "Peninsula",
+                "img": "images/maps/peninsula.png",
+                "codes": "winmap_57",
+                "inheret_codes": false
+            },
+            {
+                "name": "High Finance",
+                "img": "images/maps/highfinance.png",
+                "codes": "winmap_58",
+                "inheret_codes": false
+            },
+            {
+                "name": "Another Brick",
+                "img": "images/maps/anotherbrick.png",
+                "codes": "winmap_59",
+                "inheret_codes": false
+            },
+            {
+                "name": "Off The Coast",
+                "img": "images/maps/offthecoast.png",
+                "codes": "winmap_60",
+                "inheret_codes": false
+            },
+            {
+                "name": "Cornfield",
+                "img": "images/maps/cornfield.png",
+                "codes": "winmap_61",
+                "inheret_codes": false
+            },
+            {
+                "name": "Underground",
+                "img": "images/maps/underground.png",
+                "codes": "winmap_62",
+                "inheret_codes": false
+            },
+            {
+                "name": "Glacial Trail",
+                "img": "images/maps/glacialtrail.png",
+                "codes": "winmap_63",
+                "inheret_codes": false
+            },
+            {
+                "name": "Dark Dungeons",
+                "img": "images/maps/darkdungeons.png",
+                "codes": "winmap_64",
+                "inheret_codes": false
+            },
+            {
+                "name": "Sanctuary",
+                "img": "images/maps/sanctuary.png",
+                "codes": "winmap_65",
+                "inheret_codes": false
+            },
+            {
+                "name": "Ravine",
+                "img": "images/maps/ravine.png",
+                "codes": "winmap_66",
+                "inheret_codes": false
+            },
+            {
+                "name": "Flooded Valley",
+                "img": "images/maps/floodedvalley.png",
+                "codes": "winmap_67",
+                "inheret_codes": false
+            },
+            {
+                "name": "Infernal",
+                "img": "images/maps/infernal.png",
+                "codes": "winmap_68",
+                "inheret_codes": false
+            },
+            {
+                "name": "Bloody Puddles",
+                "img": "images/maps/bloodypuddles.png",
+                "codes": "winmap_69",
+                "inheret_codes": false
+            },
+            {
+                "name": "Workshop",
+                "img": "images/maps/workshop.png",
+                "codes": "winmap_70",
+                "inheret_codes": false
+            },
+            {
+                "name": "Quad",
+                "img": "images/maps/quad.png",
+                "codes": "winmap_71",
+                "inheret_codes": false
+            },
+            {
+                "name": "Dark Castle",
+                "img": "images/maps/darkcastle.png",
+                "codes": "winmap_72",
+                "inheret_codes": false
+            },
+            {
+                "name": "Muddy Puddles",
+                "img": "images/maps/muddypuddles.png",
+                "codes": "winmap_73",
+                "inheret_codes": false
+            },
+            {
+                "name": "#Ouch",
+                "img": "images/maps/ouch.png",
+                "codes": "winmap_74",
+                "inheret_codes": false
             }
         ]
     }
