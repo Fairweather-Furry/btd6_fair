@@ -1,6 +1,16 @@
 {
     "versions": [
         {
+            "package_version": "0.1.1",
+            "download_url": "https://github.com/Fairweather-Furry/btd6_fair/releases/download/v0.1.1/btd6_fair.zip",
+            "sha256": "4bdb746ce63aa887b7dd6b0d48c452821e22d6fdd22ce0f5ba9a0a03335d7282",
+            "changelog": [
+                "ID fixes for newer APWorld repository",
+                "Big overhaul to item and location IDs, so that the pack works with the newer apworld. This update should work with APWorld version 0.4.2.",
+                "TODO: Add new maps and monkeys, continue victory map work, monkey knowledge logic, maybe monkey tiers?"
+            ]
+        },
+        {
             "package_version": "0.1",
             "download_url": "https://github.com/Fairweather-Furry/btd6_fair/releases/download/v0.1/btd6_fair.zip",
             "sha256": "78a3ccd547a0fdcf45710519edb3e4f7c3685432fc458a8181566f7ece7004e0",
