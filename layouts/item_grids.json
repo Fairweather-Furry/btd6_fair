@@ -42,16 +42,19 @@
 					["Tutorial-MUnlock","InTheLoop-MUnlock","MiddleOfTheRoad-MUnlock","Tinkerton-MUnlock","TreeStump-MUnlock","TownCenter-MUnlock"],
 					["OneTwoTree-MUnlock","Scrapyard-MUnlock","TheCabin-MUnlock","Resort-MUnlock","Skates-MUnlock","LotusIsland-MUnlock"],
 					["CandyFalls-MUnlock","WinterPark-MUnlock","Carved-MUnlock","ParkPath-MUnlock","AlpineRun-MUnlock","FrozenOver-MUnlock"],
-					["Cubism-MUnlock","FourCircles-MUnlock","Hedge-MUnlock","EndOfTheRoad-MUnlock","Logs-MUnlock"],
+					["Cubism-MUnlock","FourCircles-MUnlock","Hedge-MUnlock","EndOfTheRoad-MUnlock","Logs-MUnlock","SpaPits-MUnlock"],
+					["ThreeMinesAround-MUnlock"],
 					["LuminousCove-MUnlock","SulfurSprings-MUnlock","WaterPark-MUnlock","Polyphemus-MUnlock","CoveredGarden-MUnlock","Quarry-MUnlock"],
 					["QuietStreet-MUnlock","BloonariusPrime-MUnlock","Balance-MUnlock","Encrypted-MUnlock","Bazaar-MUnlock","AdorasTemple-MUnlock"],
 					["SpringSpring-MUnlock","KartsNDarts-MUnlock","MoonLanding-MUnlock","Haunted-MUnlock","Downstream-MUnlock","FiringRange-MUnlock"],
-					["Cracked-MUnlock","Streambed-MUnlock","Chutes-MUnlock","Rake-MUnlock","SpiceIslands-MUnlock"],
+					["Cracked-MUnlock","Streambed-MUnlock","Chutes-MUnlock","Rake-MUnlock","SpiceIslands-MUnlock","LostCrevasse-MUnlock"],
 					["CastleRevenge-MUnlock","DarkPath-MUnlock","Erosion-MUnlock","MidnightMansion-MUnlock","SunkenColumns-MUnlock","XFactor-MUnlock"],
 					["Mesa-MUnlock","Geared-MUnlock","Spillway-MUnlock","Cargo-MUnlock","PatsPond-MUnlock","Peninsula-MUnlock"],
-					["HighFinance-MUnlock","AnotherBrick-MUnlock","OffTheCoast-MUnlock","Cornfield-MUnlock","Underground-MUnlock"],
+					["HighFinance-MUnlock","AnotherBrick-MUnlock","OffTheCoast-MUnlock","Cornfield-MUnlock","Underground-MUnlock","AncientPortal-MUnlock"],
+					["EnchantedGlade-MUnlock","LastResort-MUnlock","PartyParade-MUnlock","SunsetGulch-MUnlock"],
 					["GlacialTrail-MUnlock","DarkDungeons-MUnlock","Sanctuary-MUnlock","Ravine-MUnlock","FloodedValley-MUnlock","Infernal-MUnlock"],
-					["BloodyPuddles-MUnlock","Workshop-MUnlock","Quad-MUnlock","DarkCastle-MUnlock","MuddyPuddles-MUnlock","Ouch-MUnlock"]
+					["BloodyPuddles-MUnlock","Workshop-MUnlock","Quad-MUnlock","DarkCastle-MUnlock","MuddyPuddles-MUnlock","Ouch-MUnlock"],
+					["TrickyTracks-MUnlock"]
 				]
 			}
 		]
@@ -69,7 +72,8 @@
 					["Tutorial-MUnlock","InTheLoop-MUnlock","MiddleOfTheRoad-MUnlock","Tinkerton-MUnlock","TreeStump-MUnlock","TownCenter-MUnlock"],
 					["OneTwoTree-MUnlock","Scrapyard-MUnlock","TheCabin-MUnlock","Resort-MUnlock","Skates-MUnlock","LotusIsland-MUnlock"],
 					["CandyFalls-MUnlock","WinterPark-MUnlock","Carved-MUnlock","ParkPath-MUnlock","AlpineRun-MUnlock","FrozenOver-MUnlock"],
-					["Cubism-MUnlock","FourCircles-MUnlock","Hedge-MUnlock","EndOfTheRoad-MUnlock","Logs-MUnlock"]
+					["Cubism-MUnlock","FourCircles-MUnlock","Hedge-MUnlock","EndOfTheRoad-MUnlock","Logs-MUnlock","SpaPits-MUnlock"],
+					["ThreeMinesAround-MUnlock"]
 				]
 			}
 		]
@@ -87,7 +91,7 @@
 					["LuminousCove-MUnlock","SulfurSprings-MUnlock","WaterPark-MUnlock","Polyphemus-MUnlock","CoveredGarden-MUnlock","Quarry-MUnlock"],
 					["QuietStreet-MUnlock","BloonariusPrime-MUnlock","Balance-MUnlock","Encrypted-MUnlock","Bazaar-MUnlock","AdorasTemple-MUnlock"],
 					["SpringSpring-MUnlock","KartsNDarts-MUnlock","MoonLanding-MUnlock","Haunted-MUnlock","Downstream-MUnlock","FiringRange-MUnlock"],
-					["Cracked-MUnlock","Streambed-MUnlock","Chutes-MUnlock","Rake-MUnlock","SpiceIslands-MUnlock"]
+					["Cracked-MUnlock","Streambed-MUnlock","Chutes-MUnlock","Rake-MUnlock","SpiceIslands-MUnlock","LostCrevasse-MUnlock"]
 				]
 			}
 		]
@@ -104,7 +108,8 @@
 				"rows": [
 					["CastleRevenge-MUnlock","DarkPath-MUnlock","Erosion-MUnlock","MidnightMansion-MUnlock","SunkenColumns-MUnlock","XFactor-MUnlock"],
 					["Mesa-MUnlock","Geared-MUnlock","Spillway-MUnlock","Cargo-MUnlock","PatsPond-MUnlock","Peninsula-MUnlock"],
-					["HighFinance-MUnlock","AnotherBrick-MUnlock","OffTheCoast-MUnlock","Cornfield-MUnlock","Underground-MUnlock"]
+					["HighFinance-MUnlock","AnotherBrick-MUnlock","OffTheCoast-MUnlock","Cornfield-MUnlock","Underground-MUnlock","AncientPortal-MUnlock"],
+					["EnchantedGlade-MUnlock","LastResort-MUnlock","PartyParade-MUnlock","SunsetGulch-MUnlock"]
 				]
 			}
 		]
@@ -120,7 +125,8 @@
 				"item_size": "3,3",
 				"rows": [
 					["GlacialTrail-MUnlock","DarkDungeons-MUnlock","Sanctuary-MUnlock","Ravine-MUnlock","FloodedValley-MUnlock","Infernal-MUnlock"],
-					["BloodyPuddles-MUnlock","Workshop-MUnlock","Quad-MUnlock","DarkCastle-MUnlock","MuddyPuddles-MUnlock","Ouch-MUnlock"]
+					["BloodyPuddles-MUnlock","Workshop-MUnlock","Quad-MUnlock","DarkCastle-MUnlock","MuddyPuddles-MUnlock","Ouch-MUnlock"],
+					["TrickyTracks-MUnlock"]
 				]
 			}
 		]
@@ -140,7 +146,8 @@
 					["MonkeyBuccaneer-TUnlock","MonkeyAce-TUnlock","HeliPilot-TUnlock","DartlingGunner-TUnlock"],
 					["MortarMonkey-TUnlock","WizardMonkey-TUnlock","SuperMonkey-TUnlock","NinjaMonkey-TUnlock"],
 					["Alchemist-TUnlock","Druid-TUnlock","Mermonkey-TUnlock","BananaFarm-TUnlock"],
-					["SpikeFactory-TUnlock","MonkeyVillage-TUnlock","EngineerMonkey-TUnlock","BeastHandler-TUnlock"]
+					["SpikeFactory-TUnlock","MonkeyVillage-TUnlock","EngineerMonkey-TUnlock","BeastHandler-TUnlock"],
+					["Desperado-TUnlock"]
 				]
 			}
 		]
@@ -158,7 +165,8 @@
 					["Quincy-HUnlock","Gwendolin-HUnlock","StrikerJones-HUnlock","ObynGreenfoot-HUnlock"],
 					["Rosalia-HUnlock","CaptainChurchill-HUnlock","Benjamin-HUnlock","PatFusty-HUnlock"],
 					["Ezili-HUnlock","Adora-HUnlock","Etienne-HUnlock","Sauda-HUnlock"],
-					["AdmiralBrickell-HUnlock","Psi-HUnlock","Geraldo-HUnlock","Corvus-HUnlock"]
+					["AdmiralBrickell-HUnlock","Psi-HUnlock","Geraldo-HUnlock","Corvus-HUnlock"],
+					["Silas-HUnlock"]
 				]
 			}
 		]

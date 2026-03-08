@@ -84,6 +84,12 @@
         "codes": "GlueGunner-TUnlock"
     },
     {
+        "name": "Desperado-TUnlock-Item",
+        "type": "toggle",
+        "img": "images/monkeys/desperado.png",
+        "codes": "Desperado-TUnlock"
+    },
+    {
         "name": "SniperMonkey-TUnlock-Item",
         "type": "toggle",
         "img": "images/monkeys/snipermonkey.png",
@@ -286,6 +292,12 @@
         "type": "toggle",
         "img": "images/monkeys/corvus.png",
         "codes": "Corvus-HUnlock"
+    },
+    {
+        "name": "Silas-HUnlock-Item",
+        "type": "toggle",
+        "img": "images/monkeys/silas.png",
+        "codes": "Silas-HUnlock"
     },
     {
         "name": "FastTackAttacks-KUnlock-Item",
@@ -1230,6 +1242,18 @@
         "codes": "Logs-MUnlock"
     },
     {
+        "name": "SpaPits-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/spapits.png",
+        "codes": "SpaPits-MUnlock"
+    },
+    {
+        "name": "ThreeMinesAround-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/threeminesaround.png",
+        "codes": "ThreeMinesAround-MUnlock"
+    },
+    {
         "name": "LuminousCove-MUnlock-Item",
         "type": "toggle",
         "img": "images/maps/luminouscove.png",
@@ -1368,6 +1392,12 @@
         "codes": "SpiceIslands-MUnlock"
     },
     {
+        "name": "LostCrevasse-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/lostcrevasse.png",
+        "codes": "LostCrevasse-MUnlock"
+    },
+    {
         "name": "CastleRevenge-MUnlock-Item",
         "type": "toggle",
         "img": "images/maps/castlerevenge.png",
@@ -1470,6 +1500,36 @@
         "codes": "Underground-MUnlock"
     },
     {
+        "name": "AncientPortal-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/ancientportal.png",
+        "codes": "AncientPortal-MUnlock"
+    },
+    {
+        "name": "EnchantedGlade-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/enchantedglade.png",
+        "codes": "EnchantedGlade-MUnlock"
+    },
+    {
+        "name": "LastResort-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/lastresort.png",
+        "codes": "LastResort-MUnlock"
+    },
+    {
+        "name": "PartyParade-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/partyparade.png",
+        "codes": "PartyParade-MUnlock"
+    },
+    {
+        "name": "SunsetGulch-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/sunsetgulch.png",
+        "codes": "SunsetGulch-MUnlock"
+    },
+    {
         "name": "GlacialTrail-MUnlock-Item",
         "type": "toggle",
         "img": "images/maps/glacialtrail.png",
@@ -1540,6 +1600,12 @@
         "type": "toggle",
         "img": "images/maps/ouch.png",
         "codes": "Ouch-MUnlock"
+    },
+    {
+        "name": "TrickyTracks-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/trickytracks.png",
+        "codes": "TrickyTracks-MUnlock"
     },
     {
         "name": "Victory Map",

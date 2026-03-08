@@ -32,6 +32,10 @@
         "img": "images/maps/advancedpg2.png"
     },
     {
+        "name": "advancedpg3",
+        "img": "images/maps/advancedpg3.png"
+    },
+    {
         "name": "expertpg1",
         "img": "images/maps/expertpg1.png"
     },

@@ -133,6 +133,16 @@
 																"maps": ["advancedpg2"]
 															}
 														]
+													},
+													{
+														"title": "Page 3",
+														"content":
+														[
+															{
+																"type": "map",
+																"maps": ["advancedpg3"]
+															}
+														]
 													}
 												]
 											}
