@@ -8489,7 +8489,7 @@
             },
             {
                 "name": "Poppy Blades",
-                "access_rules": ["PoppyBlades-KUnlock"],
+                "access_rules": ["PoppyBlades-KUnlock,HardTacks-KUnlock,FastTackAttacks-KUnlock"],
                 "sections": [
                     {
                         "name": "Poppy Blades"
@@ -8506,7 +8506,7 @@
             },
             {
                 "name": "Hard Tacks",
-                "access_rules": ["HardTacks-KUnlock"],
+                "access_rules": ["HardTacks-KUnlock,FastTackAttacks-KUnlock"],
                 "sections": [
                     {
                         "name": "Hard Tacks"
@@ -8523,7 +8523,7 @@
             },
             {
                 "name": "Fast Glue",
-                "access_rules": ["FastGlue-KUnlock"],
+                "access_rules": ["FastGlue-KUnlock,FastTackAttacks-KUnlock"],
                 "sections": [
                     {
                         "name": "Fast Glue"
@@ -8540,7 +8540,7 @@
             },
             {
                 "name": "Fraggy Frags",
-                "access_rules": ["FraggyFrags-KUnlock"],
+                "access_rules": ["FraggyFrags-KUnlock,IncreasedLifespan-KUnlock"],
                 "sections": [
                     {
                         "name": "Fraggy Frags"
@@ -8557,7 +8557,7 @@
             },
             {
                 "name": "Cheap Rangs",
-                "access_rules": ["CheapRangs-KUnlock"],
+                "access_rules": ["CheapRangs-KUnlock,IncreasedLifespan-KUnlock"],
                 "sections": [
                     {
                         "name": "Cheap Rangs"
@@ -8574,7 +8574,7 @@
             },
             {
                 "name": "Crossbow Reach",
-                "access_rules": ["CrossbowReach-KUnlock"],
+                "access_rules": ["CrossbowReach-KUnlock,ExtraDartPops-KUnlock"],
                 "sections": [
                     {
                         "name": "Crossbow Reach"
@@ -8591,7 +8591,7 @@
             },
             {
                 "name": "Big Inferno",
-                "access_rules": ["BigInferno-KUnlock"],
+                "access_rules": ["BigInferno-KUnlock,HardTacks-KUnlock,PoppyBlades-KUnlock,FastTackAttacks-KUnlock"],
                 "sections": [
                     {
                         "name": "Big Inferno"
@@ -8608,7 +8608,7 @@
             },
             {
                 "name": "Icy Chill",
-                "access_rules": ["IcyChill-KUnlock"],
+                "access_rules": ["IcyChill-KUnlock,HardTacks-KUnlock,FastTackAttacks-KUnlock"],
                 "sections": [
                     {
                         "name": "Icy Chill"
@@ -8625,7 +8625,7 @@
             },
             {
                 "name": "More Splatty Glue",
-                "access_rules": ["MoreSplattyGlue-KUnlock"],
+                "access_rules": ["MoreSplattyGlue-KUnlock,FastGlue-KUnlock,FastTackAttacks-KUnlock"],
                 "sections": [
                     {
                         "name": "More Splatty Glue"
@@ -8642,7 +8642,7 @@
             },
             {
                 "name": "Budget Clusters",
-                "access_rules": ["BudgetClusters-KUnlock"],
+                "access_rules": ["BudgetClusters-KUnlock,FraggyFrags-KUnlock,IncreasedLifespan-KUnlock"],
                 "sections": [
                     {
                         "name": "Budget Clusters"
@@ -8659,7 +8659,7 @@
             },
             {
                 "name": "Recurring Rangs",
-                "access_rules": ["RecurringRangs-KUnlock"],
+                "access_rules": ["RecurringRangs-KUnlock,ExtraBounce-KUnlock,CheapRangs-KUnlock,IncreasedLifespan-KUnlock"],
                 "sections": [
                     {
                         "name": "Recurring Rangs"
@@ -8676,7 +8676,7 @@
             },
             {
                 "name": "Extra Bounce",
-                "access_rules": ["ExtraBounce-KUnlock"],
+                "access_rules": ["ExtraBounce-KUnlock,CheapRangs-KUnlock,IncreasedLifespan-KUnlock"],
                 "sections": [
                     {
                         "name": "Extra Bounce"
@@ -8693,7 +8693,7 @@
             },
             {
                 "name": "4 And 4",
-                "access_rules": ["4And4-KUnlock"],
+                "access_rules": ["4And4-KUnlock,CrossbowReach-KUnlock,ExtraDartPops-KUnlock"],
                 "sections": [
                     {
                         "name": "4 And 4"
@@ -8710,7 +8710,7 @@
             },
             {
                 "name": "Force Vs Force",
-                "access_rules": ["ForceVsForce-KUnlock"],
+                "access_rules": ["ForceVsForce-KUnlock,CrossbowReach-KUnlock,ExtraDartPops-KUnlock"],
                 "sections": [
                     {
                         "name": "Force Vs Force"
@@ -8727,7 +8727,7 @@
             },
             {
                 "name": "So Cold",
-                "access_rules": ["SoCold-KUnlock"],
+                "access_rules": ["SoCold-KUnlock,IcyChill-KUnlock,HardTacks-KUnlock,FastTackAttacks-KUnlock"],
                 "sections": [
                     {
                         "name": "So Cold"
@@ -8744,7 +8744,7 @@
             },
             {
                 "name": "Aviation Grade Glue",
-                "access_rules": ["AviationGradeGlue-KUnlock"],
+                "access_rules": ["AviationGradeGlue-KUnlock,MoreSplattyGlue-KUnlock,FastGlue-KUnlock,FastTackAttacks-KUnlock"],
                 "sections": [
                     {
                         "name": "Aviation Grade Glue"
@@ -8761,7 +8761,7 @@
             },
             {
                 "name": "Mega Mauler",
-                "access_rules": ["MegaMauler-KUnlock"],
+                "access_rules": ["MegaMauler-KUnlock,HardPress-KUnlock,AviationGradeGlue-KUnlock,ExtraBounce-KUnlock,MoreSplattyGlue-KUnlock,CheapRangs-KUnlock,FastGlue-KUnlock,FastTackAttacks-KUnlock,IncreasedLifespan-KUnlock"],
                 "sections": [
                     {
                         "name": "Mega Mauler"
@@ -8778,7 +8778,7 @@
             },
             {
                 "name": "Hard Press",
-                "access_rules": ["HardPress-KUnlock"],
+                "access_rules": ["HardPress-KUnlock,ExtraBounce-KUnlock,CheapRangs-KUnlock,IncreasedLifespan-KUnlock"],
                 "sections": [
                     {
                         "name": "Hard Press"
@@ -8795,7 +8795,7 @@
             },
             {
                 "name": "Master Double Cross",
-                "access_rules": ["MasterDoubleCross-KUnlock"],
+                "access_rules": ["MasterDoubleCross-KUnlock,4And4-KUnlock,CrossbowReach-KUnlock,ExtraDartPops-KUnlock"],
                 "sections": [
                     {
                         "name": "Master Double Cross"
@@ -8812,7 +8812,7 @@
             },
             {
                 "name": "Big Cryo Blast",
-                "access_rules": ["BigCryoBlast-KUnlock"],
+                "access_rules": ["BigCryoBlast-KUnlock,Hypothermia-KUnlock,SoCold-KUnlock,IcyChill-KUnlock,HardTacks-KUnlock,FastTackAttacks-KUnlock"],
                 "sections": [
                     {
                         "name": "Big Cryo Blast"
@@ -8829,7 +8829,7 @@
             },
             {
                 "name": "Hypothermia",
-                "access_rules": ["Hypothermia-KUnlock"],
+                "access_rules": ["Hypothermia-KUnlock,SoCold-KUnlock,IcyChill-KUnlock,HardTacks-KUnlock,FastTackAttacks-KUnlock"],
                 "sections": [
                     {
                         "name": "Hypothermia"
@@ -8846,7 +8846,7 @@
             },
             {
                 "name": "Cheaper Solution",
-                "access_rules": ["CheaperSolution-KUnlock"],
+                "access_rules": ["CheaperSolution-KUnlock,AviationGradeGlue-KUnlock,MoreSplattyGlue-KUnlock,FastGlue-KUnlock,FastTackAttacks-KUnlock"],
                 "sections": [
                     {
                         "name": "Cheaper Solution"
@@ -8863,7 +8863,7 @@
             },
             {
                 "name": "Violent Impact",
-                "access_rules": ["ViolentImpact-KUnlock"],
+                "access_rules": ["ViolentImpact-KUnlock,BudgetClusters-KUnlock,FraggyFrags-KUnlock,IncreasedLifespan-KUnlock"],
                 "sections": [
                     {
                         "name": "Violent Impact"
@@ -8880,7 +8880,7 @@
             },
             {
                 "name": "Bionic Augmentation",
-                "access_rules": ["BionicAugmentation-KUnlock"],
+                "access_rules": ["BionicAugmentation-KUnlock,LongTurbo-KUnlock,HardPress-KUnlock,ExtraBounce-KUnlock,CheapRangs-KUnlock,IncreasedLifespan-KUnlock"],
                 "sections": [
                     {
                         "name": "Bionic Augmentation"
@@ -8897,7 +8897,7 @@
             },
             {
                 "name": "Long Turbo",
-                "access_rules": ["LongTurbo-KUnlock"],
+                "access_rules": ["LongTurbo-KUnlock,HardPress-KUnlock,ExtraBounce-KUnlock,CheapRangs-KUnlock,IncreasedLifespan-KUnlock"],
                 "sections": [
                     {
                         "name": "Long Turbo"
@@ -8914,7 +8914,7 @@
             },
             {
                 "name": "Come On Everybody",
-                "access_rules": ["ComeOnEverybody-KUnlock"],
+                "access_rules": ["ComeOnEverybody-KUnlock,MasterDoubleCross-KUnlock,4And4-KUnlock,CrossbowReach-KUnlock,ExtraDartPops-KUnlock"],
                 "sections": [
                     {
                         "name": "Come On Everybody"
@@ -8931,7 +8931,7 @@
             },
             {
                 "name": "Bonus Glue Gunner",
-                "access_rules": ["BonusGlueGunner-KUnlock"],
+                "access_rules": ["BonusGlueGunner-KUnlock,AviationGradeGlue-KUnlock,MoreSplattyGlue-KUnlock,FastGlue-KUnlock,FastTackAttacks-KUnlock"],
                 "sections": [
                     {
                         "name": "Bonus Glue Gunner"
@@ -8948,7 +8948,7 @@
             },
             {
                 "name": "More Cash",
-                "access_rules": ["MoreCash-KUnlock"],
+                "access_rules": ["MoreCash-KUnlock,BonusMonkey-KUnlock,BonusGlueGunner-KUnlock,ComeOnEverybody-KUnlock,MasterDoubleCross-KUnlock,AviationGradeGlue-KUnlock,4And4-KUnlock,MoreSplattyGlue-KUnlock,CrossbowReach-KUnlock,FastGlue-KUnlock,FastTackAttacks-KUnlock,ExtraDartPops-KUnlock"],
                 "sections": [
                     {
                         "name": "More Cash"
@@ -8965,7 +8965,7 @@
             },
             {
                 "name": "Bonus Monkey",
-                "access_rules": ["BonusMonkey-KUnlock"],
+                "access_rules": ["BonusMonkey-KUnlock,ComeOnEverybody-KUnlock,MasterDoubleCross-KUnlock,4And4-KUnlock,CrossbowReach-KUnlock,ExtraDartPops-KUnlock"],
                 "sections": [
                     {
                         "name": "Bonus Monkey"
