@@ -21,6 +21,7 @@ function resetLocations()
 end
 
 diffmap={[4]=0,[5]=1,[14]=2}
+normalmap={[0]=0,[1]=1}
 
 SLOT_CODES = {
     difficulty={

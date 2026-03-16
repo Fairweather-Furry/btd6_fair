@@ -261,7 +261,7 @@ ITEM_MAPPING = {
     [260] = {"SupaThrive-KUnlock","toggle"},
     [261] = {"PowerfulMonkeyStorm-KUnlock","toggle"},
     [262] = {"GrandPrixSpree-KUnlock","toggle"},
-    [999] = {"ProgressiveKnowledge","progressive"},
+    [999] = {"ProgressiveKnowledge","consumable"},
 }
 
 GOAL_MAPPING = {

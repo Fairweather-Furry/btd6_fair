@@ -72,6 +72,12 @@ function onClear(slot_data)
 		end
 	end
     Tracker:FindObjectForCode("medalreq").AcquiredCount = tonumber(slot_data["medalsNeeded"])
+    if slot_data["progressiveKnowledge"] == true then
+        Tracker:FindObjectForCode("op_knowledge").CurrentStage = 1
+    else
+        Tracker:FindObjectForCode("op_knowledge").CurrentStage = 0
+    end
+
 
 --  This took me longer to figure out than it should have. ~Plushie
     for a,b in pairs(GOAL_MAPPING) do

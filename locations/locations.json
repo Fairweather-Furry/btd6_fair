@@ -8448,7 +8448,8 @@
                     {
                         "map": "primaryktree",
                         "x": 230,
-                        "y": 55
+                        "y": 55,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -8464,7 +8465,8 @@
                     {
                         "map": "primaryktree",
                         "x": 434,
-                        "y": 55
+                        "y": 55,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -8480,7 +8482,8 @@
                     {
                         "map": "primaryktree",
                         "x": 570,
-                        "y": 55
+                        "y": 55,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -8496,7 +8499,8 @@
                     {
                         "map": "primaryktree",
                         "x": 163,
-                        "y": 130
+                        "y": 130,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -8512,7 +8516,8 @@
                     {
                         "map": "primaryktree",
                         "x": 230,
-                        "y": 130
+                        "y": 130,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -8528,7 +8533,8 @@
                     {
                         "map": "primaryktree",
                         "x": 298,
-                        "y": 130
+                        "y": 130,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -8544,7 +8550,8 @@
                     {
                         "map": "primaryktree",
                         "x": 366,
-                        "y": 130
+                        "y": 130,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -8560,7 +8567,8 @@
                     {
                         "map": "primaryktree",
                         "x": 503,
-                        "y": 130
+                        "y": 130,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -8576,7 +8584,8 @@
                     {
                         "map": "primaryktree",
                         "x": 570,
-                        "y": 130
+                        "y": 130,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -8592,7 +8601,8 @@
                     {
                         "map": "primaryktree",
                         "x": 163,
-                        "y": 200
+                        "y": 200,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -8608,7 +8618,8 @@
                     {
                         "map": "primaryktree",
                         "x": 230,
-                        "y": 200
+                        "y": 200,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -8624,7 +8635,8 @@
                     {
                         "map": "primaryktree",
                         "x": 298,
-                        "y": 200
+                        "y": 200,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -8640,7 +8652,8 @@
                     {
                         "map": "primaryktree",
                         "x": 366,
-                        "y": 200
+                        "y": 200,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -8656,7 +8669,8 @@
                     {
                         "map": "primaryktree",
                         "x": 434,
-                        "y": 200
+                        "y": 200,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -8672,7 +8686,8 @@
                     {
                         "map": "primaryktree",
                         "x": 503,
-                        "y": 200
+                        "y": 200,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -8688,7 +8703,8 @@
                     {
                         "map": "primaryktree",
                         "x": 570,
-                        "y": 200
+                        "y": 200,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -8704,7 +8720,8 @@
                     {
                         "map": "primaryktree",
                         "x": 640,
-                        "y": 200
+                        "y": 200,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -8720,7 +8737,8 @@
                     {
                         "map": "primaryktree",
                         "x": 230,
-                        "y": 274
+                        "y": 274,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -8736,7 +8754,8 @@
                     {
                         "map": "primaryktree",
                         "x": 298,
-                        "y": 274
+                        "y": 274,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -8752,7 +8771,8 @@
                     {
                         "map": "primaryktree",
                         "x": 434,
-                        "y": 274
+                        "y": 274,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -8768,7 +8788,8 @@
                     {
                         "map": "primaryktree",
                         "x": 503,
-                        "y": 274
+                        "y": 274,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -8784,7 +8805,8 @@
                     {
                         "map": "primaryktree",
                         "x": 570,
-                        "y": 274
+                        "y": 274,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -8800,7 +8822,8 @@
                     {
                         "map": "primaryktree",
                         "x": 163,
-                        "y": 345
+                        "y": 345,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -8816,7 +8839,8 @@
                     {
                         "map": "primaryktree",
                         "x": 230,
-                        "y": 345
+                        "y": 345,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -8832,7 +8856,8 @@
                     {
                         "map": "primaryktree",
                         "x": 298,
-                        "y": 345
+                        "y": 345,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -8848,7 +8873,8 @@
                     {
                         "map": "primaryktree",
                         "x": 366,
-                        "y": 345
+                        "y": 345,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -8864,7 +8890,8 @@
                     {
                         "map": "primaryktree",
                         "x": 434,
-                        "y": 345
+                        "y": 345,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -8880,7 +8907,8 @@
                     {
                         "map": "primaryktree",
                         "x": 503,
-                        "y": 345
+                        "y": 345,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -8896,7 +8924,8 @@
                     {
                         "map": "primaryktree",
                         "x": 570,
-                        "y": 345
+                        "y": 345,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -8912,7 +8941,8 @@
                     {
                         "map": "primaryktree",
                         "x": 298,
-                        "y": 420
+                        "y": 420,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -8928,7 +8958,8 @@
                     {
                         "map": "primaryktree",
                         "x": 434,
-                        "y": 420
+                        "y": 420,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -8944,7 +8975,8 @@
                     {
                         "map": "primaryktree",
                         "x": 570,
-                        "y": 420
+                        "y": 420,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             }
@@ -8967,7 +8999,8 @@
                     {
                         "map": "militaryktree",
                         "x": 196,
-                        "y": 55
+                        "y": 55,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -8983,7 +9016,8 @@
                     {
                         "map": "militaryktree",
                         "x": 400,
-                        "y": 55
+                        "y": 55,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -8999,7 +9033,8 @@
                     {
                         "map": "militaryktree",
                         "x": 502,
-                        "y": 55
+                        "y": 55,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9015,7 +9050,8 @@
                     {
                         "map": "militaryktree",
                         "x": 638,
-                        "y": 55
+                        "y": 55,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9031,7 +9067,8 @@
                     {
                         "map": "militaryktree",
                         "x": 230,
-                        "y": 128
+                        "y": 128,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9047,7 +9084,8 @@
                     {
                         "map": "militaryktree",
                         "x": 366,
-                        "y": 128
+                        "y": 128,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9063,7 +9101,8 @@
                     {
                         "map": "militaryktree",
                         "x": 570,
-                        "y": 128
+                        "y": 128,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9079,7 +9118,8 @@
                     {
                         "map": "militaryktree",
                         "x": 162,
-                        "y": 200
+                        "y": 200,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9095,7 +9135,8 @@
                     {
                         "map": "militaryktree",
                         "x": 230,
-                        "y": 200
+                        "y": 200,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9111,7 +9152,8 @@
                     {
                         "map": "militaryktree",
                         "x": 366,
-                        "y": 200
+                        "y": 200,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9127,7 +9169,8 @@
                     {
                         "map": "militaryktree",
                         "x": 434,
-                        "y": 200
+                        "y": 200,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9143,7 +9186,8 @@
                     {
                         "map": "militaryktree",
                         "x": 502,
-                        "y": 200
+                        "y": 200,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9159,7 +9203,8 @@
                     {
                         "map": "militaryktree",
                         "x": 570,
-                        "y": 200
+                        "y": 200,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9175,7 +9220,8 @@
                     {
                         "map": "militaryktree",
                         "x": 638,
-                        "y": 200
+                        "y": 200,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9191,7 +9237,8 @@
                     {
                         "map": "militaryktree",
                         "x": 162,
-                        "y": 274
+                        "y": 274,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9207,7 +9254,8 @@
                     {
                         "map": "militaryktree",
                         "x": 230,
-                        "y": 274
+                        "y": 274,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9223,7 +9271,8 @@
                     {
                         "map": "militaryktree",
                         "x": 366,
-                        "y": 274
+                        "y": 274,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9239,7 +9288,8 @@
                     {
                         "map": "militaryktree",
                         "x": 502,
-                        "y": 274
+                        "y": 274,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9255,7 +9305,8 @@
                     {
                         "map": "militaryktree",
                         "x": 638,
-                        "y": 274
+                        "y": 274,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9271,7 +9322,8 @@
                     {
                         "map": "militaryktree",
                         "x": 162,
-                        "y": 346
+                        "y": 346,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9287,7 +9339,8 @@
                     {
                         "map": "militaryktree",
                         "x": 298,
-                        "y": 346
+                        "y": 346,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9303,7 +9356,8 @@
                     {
                         "map": "militaryktree",
                         "x": 366,
-                        "y": 346
+                        "y": 346,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9319,7 +9373,8 @@
                     {
                         "map": "militaryktree",
                         "x": 434,
-                        "y": 346
+                        "y": 346,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9335,7 +9390,8 @@
                     {
                         "map": "militaryktree",
                         "x": 502,
-                        "y": 346
+                        "y": 346,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9351,7 +9407,8 @@
                     {
                         "map": "militaryktree",
                         "x": 570,
-                        "y": 346
+                        "y": 346,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9367,7 +9424,8 @@
                     {
                         "map": "militaryktree",
                         "x": 163,
-                        "y": 420
+                        "y": 420,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9383,7 +9441,8 @@
                     {
                         "map": "militaryktree",
                         "x": 230,
-                        "y": 420
+                        "y": 420,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9399,7 +9458,8 @@
                     {
                         "map": "militaryktree",
                         "x": 366,
-                        "y": 420
+                        "y": 420,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9415,7 +9475,8 @@
                     {
                         "map": "militaryktree",
                         "x": 434,
-                        "y": 420
+                        "y": 420,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9431,7 +9492,8 @@
                     {
                         "map": "militaryktree",
                         "x": 400,
-                        "y": 488
+                        "y": 488,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             }
@@ -9454,7 +9516,8 @@
                     {
                         "map": "magicktree",
                         "x": 230,
-                        "y": 55
+                        "y": 55,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9470,7 +9533,8 @@
                     {
                         "map": "magicktree",
                         "x": 434,
-                        "y": 55
+                        "y": 55,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9486,7 +9550,8 @@
                     {
                         "map": "magicktree",
                         "x": 570,
-                        "y": 55
+                        "y": 55,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9502,7 +9567,8 @@
                     {
                         "map": "magicktree",
                         "x": 162,
-                        "y": 128
+                        "y": 128,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9518,7 +9584,8 @@
                     {
                         "map": "magicktree",
                         "x": 230,
-                        "y": 128
+                        "y": 128,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9534,7 +9601,8 @@
                     {
                         "map": "magicktree",
                         "x": 434,
-                        "y": 128
+                        "y": 128,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9550,7 +9618,8 @@
                     {
                         "map": "magicktree",
                         "x": 570,
-                        "y": 128
+                        "y": 128,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9566,7 +9635,8 @@
                     {
                         "map": "magicktree",
                         "x": 636,
-                        "y": 128
+                        "y": 128,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9582,7 +9652,8 @@
                     {
                         "map": "magicktree",
                         "x": 162,
-                        "y": 202
+                        "y": 202,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9598,7 +9669,8 @@
                     {
                         "map": "magicktree",
                         "x": 230,
-                        "y": 202
+                        "y": 202,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9614,7 +9686,8 @@
                     {
                         "map": "magicktree",
                         "x": 366,
-                        "y": 202
+                        "y": 202,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9630,7 +9703,8 @@
                     {
                         "map": "magicktree",
                         "x": 502,
-                        "y": 202
+                        "y": 202,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9646,7 +9720,8 @@
                     {
                         "map": "magicktree",
                         "x": 570,
-                        "y": 202
+                        "y": 202,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9662,7 +9737,8 @@
                     {
                         "map": "magicktree",
                         "x": 230,
-                        "y": 275
+                        "y": 275,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9678,7 +9754,8 @@
                     {
                         "map": "magicktree",
                         "x": 366,
-                        "y": 275
+                        "y": 275,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9694,7 +9771,8 @@
                     {
                         "map": "magicktree",
                         "x": 502,
-                        "y": 275
+                        "y": 275,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9710,7 +9788,8 @@
                     {
                         "map": "magicktree",
                         "x": 570,
-                        "y": 275
+                        "y": 275,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9726,7 +9805,8 @@
                     {
                         "map": "magicktree",
                         "x": 162,
-                        "y": 346
+                        "y": 346,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9742,7 +9822,8 @@
                     {
                         "map": "magicktree",
                         "x": 230,
-                        "y": 346
+                        "y": 346,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9758,7 +9839,8 @@
                     {
                         "map": "magicktree",
                         "x": 366,
-                        "y": 346
+                        "y": 346,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9774,7 +9856,8 @@
                     {
                         "map": "magicktree",
                         "x": 366,
-                        "y": 420
+                        "y": 420,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9790,7 +9873,8 @@
                     {
                         "map": "magicktree",
                         "x": 502,
-                        "y": 420
+                        "y": 420,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             }
@@ -9813,7 +9897,8 @@
                     {
                         "map": "supportktree",
                         "x": 252,
-                        "y": 56
+                        "y": 56,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9829,7 +9914,8 @@
                     {
                         "map": "supportktree",
                         "x": 388,
-                        "y": 56
+                        "y": 56,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9845,7 +9931,8 @@
                     {
                         "map": "supportktree",
                         "x": 218,
-                        "y": 126
+                        "y": 126,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9861,7 +9948,8 @@
                     {
                         "map": "supportktree",
                         "x": 286,
-                        "y": 126
+                        "y": 126,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9877,7 +9965,8 @@
                     {
                         "map": "supportktree",
                         "x": 422,
-                        "y": 126
+                        "y": 126,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9893,7 +9982,8 @@
                     {
                         "map": "supportktree",
                         "x": 218,
-                        "y": 200
+                        "y": 200,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9909,7 +9999,8 @@
                     {
                         "map": "supportktree",
                         "x": 286,
-                        "y": 200
+                        "y": 200,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9925,7 +10016,8 @@
                     {
                         "map": "supportktree",
                         "x": 354,
-                        "y": 200
+                        "y": 200,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9941,7 +10033,8 @@
                     {
                         "map": "supportktree",
                         "x": 553,
-                        "y": 200
+                        "y": 200,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9957,7 +10050,8 @@
                     {
                         "map": "supportktree",
                         "x": 218,
-                        "y": 274
+                        "y": 274,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9973,7 +10067,8 @@
                     {
                         "map": "supportktree",
                         "x": 286,
-                        "y": 274
+                        "y": 274,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -9989,7 +10084,8 @@
                     {
                         "map": "supportktree",
                         "x": 354,
-                        "y": 274
+                        "y": 274,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -10005,7 +10101,8 @@
                     {
                         "map": "supportktree",
                         "x": 422,
-                        "y": 274
+                        "y": 274,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -10021,7 +10118,8 @@
                     {
                         "map": "supportktree",
                         "x": 553,
-                        "y": 274
+                        "y": 274,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -10037,7 +10135,8 @@
                     {
                         "map": "supportktree",
                         "x": 218,
-                        "y": 346
+                        "y": 346,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -10053,7 +10152,8 @@
                     {
                         "map": "supportktree",
                         "x": 286,
-                        "y": 346
+                        "y": 346,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -10069,7 +10169,8 @@
                     {
                         "map": "supportktree",
                         "x": 354,
-                        "y": 346
+                        "y": 346,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -10085,7 +10186,8 @@
                     {
                         "map": "supportktree",
                         "x": 422,
-                        "y": 346
+                        "y": 346,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -10101,7 +10203,8 @@
                     {
                         "map": "supportktree",
                         "x": 485,
-                        "y": 346
+                        "y": 346,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -10117,7 +10220,8 @@
                     {
                         "map": "supportktree",
                         "x": 620,
-                        "y": 346
+                        "y": 346,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -10133,7 +10237,8 @@
                     {
                         "map": "supportktree",
                         "x": 218,
-                        "y": 420
+                        "y": 420,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -10149,7 +10254,8 @@
                     {
                         "map": "supportktree",
                         "x": 485,
-                        "y": 420
+                        "y": 420,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             }
@@ -10172,7 +10278,8 @@
                     {
                         "map": "heroktree",
                         "x": 264,
-                        "y": 52
+                        "y": 52,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -10188,7 +10295,8 @@
                     {
                         "map": "heroktree",
                         "x": 400,
-                        "y": 52
+                        "y": 52,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -10204,7 +10312,8 @@
                     {
                         "map": "heroktree",
                         "x": 536,
-                        "y": 52
+                        "y": 52,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -10220,7 +10329,8 @@
                     {
                         "map": "heroktree",
                         "x": 264,
-                        "y": 128
+                        "y": 128,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -10236,7 +10346,8 @@
                     {
                         "map": "heroktree",
                         "x": 400,
-                        "y": 128
+                        "y": 128,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -10252,7 +10363,8 @@
                     {
                         "map": "heroktree",
                         "x": 264,
-                        "y": 200
+                        "y": 200,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -10268,7 +10380,8 @@
                     {
                         "map": "heroktree",
                         "x": 400,
-                        "y": 200
+                        "y": 200,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -10284,7 +10397,8 @@
                     {
                         "map": "heroktree",
                         "x": 536,
-                        "y": 200
+                        "y": 200,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -10300,7 +10414,8 @@
                     {
                         "map": "heroktree",
                         "x": 400,
-                        "y": 275
+                        "y": 275,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -10316,7 +10431,8 @@
                     {
                         "map": "heroktree",
                         "x": 400,
-                        "y": 348
+                        "y": 348,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -10332,7 +10448,8 @@
                     {
                         "map": "heroktree",
                         "x": 536,
-                        "y": 348
+                        "y": 348,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -10348,7 +10465,8 @@
                     {
                         "map": "heroktree",
                         "x": 400,
-                        "y": 422
+                        "y": 422,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -10364,7 +10482,8 @@
                     {
                         "map": "heroktree",
                         "x": 536,
-                        "y": 422
+                        "y": 422,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             }
@@ -10387,7 +10506,8 @@
                     {
                         "map": "powerktree",
                         "x": 264,
-                        "y": 53
+                        "y": 53,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -10403,7 +10523,8 @@
                     {
                         "map": "powerktree",
                         "x": 400,
-                        "y": 53
+                        "y": 53,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -10419,7 +10540,8 @@
                     {
                         "map": "powerktree",
                         "x": 536,
-                        "y": 53
+                        "y": 53,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -10435,7 +10557,8 @@
                     {
                         "map": "powerktree",
                         "x": 264,
-                        "y": 128
+                        "y": 128,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -10451,7 +10574,8 @@
                     {
                         "map": "powerktree",
                         "x": 400,
-                        "y": 128
+                        "y": 128,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -10467,7 +10591,8 @@
                     {
                         "map": "powerktree",
                         "x": 536,
-                        "y": 128
+                        "y": 128,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -10483,7 +10608,8 @@
                     {
                         "map": "powerktree",
                         "x": 264,
-                        "y": 200
+                        "y": 200,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -10499,7 +10625,8 @@
                     {
                         "map": "powerktree",
                         "x": 400,
-                        "y": 200
+                        "y": 200,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -10515,7 +10642,8 @@
                     {
                         "map": "powerktree",
                         "x": 400,
-                        "y": 274
+                        "y": 274,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -10531,7 +10659,8 @@
                     {
                         "map": "powerktree",
                         "x": 536,
-                        "y": 274
+                        "y": 274,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -10547,7 +10676,8 @@
                     {
                         "map": "powerktree",
                         "x": 264,
-                        "y": 274
+                        "y": 274,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -10563,7 +10693,8 @@
                     {
                         "map": "powerktree",
                         "x": 468,
-                        "y": 346
+                        "y": 346,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -10579,7 +10710,8 @@
                     {
                         "map": "powerktree",
                         "x": 605,
-                        "y": 346
+                        "y": 346,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -10595,7 +10727,8 @@
                     {
                         "map": "powerktree",
                         "x": 536,
-                        "y": 200
+                        "y": 200,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             },
@@ -10611,7 +10744,8 @@
                     {
                         "map": "powerktree",
                         "x": 468,
-                        "y": 420
+                        "y": 420,
+                        "force_invisibility_rules": ["op_knowledge_1"]
                     }
                 ]
             }

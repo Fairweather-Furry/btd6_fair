@@ -48,6 +48,35 @@
         "codes": "medalreq"
     },
     {
+        "name": "Progressive Knowledge",
+        "type": "consumable",
+        "initial_quantity": 0,
+        "max_quantity": 7,
+        "img": "images/knowledgepoints.png",
+        "codes": "ProgressiveKnowledge"
+    },
+    {
+        "name": "Monkey Knowledge Option",
+        "type": "progressive",
+        "codes": "op_knowledge",
+        "allow_disabled": false,
+        "loop": true,
+        "stages": [
+            {
+                "name": "Original Mode",
+                "img": "images/knowledgepointsgray.png",
+                "codes": "op_knowledge_0",
+                "inheret_codes": false
+            },
+            {
+                "name": "Progressive Mode",
+                "img": "images/knowledgepoints.png",
+                "codes": "op_knowledge_1",
+                "inheret_codes": false
+            }
+        ]
+    },
+    {
         "name": "DartMonkey-TUnlock-Item",
         "type": "toggle",
         "img": "images/monkeys/dartmonkey.png",

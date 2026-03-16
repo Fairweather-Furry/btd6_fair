@@ -9,7 +9,7 @@
                 "item_margin": "1,1",
 	    		"item_size": "4,4",
 	    		"rows": [
-	    			["op_difficulty"]
+	    			["op_difficulty","op_knowledge"]
 	    		]
 	    	}
         ]
@@ -24,7 +24,7 @@
                 "item_margin": "1,1",
 	    		"item_size": "4,4",
 	    		"rows": [
-	    			["medal","money","medalreq"]
+	    			["medal","ProgressiveKnowledge","medalreq"]
 	    		]
 	    	}
         ]
