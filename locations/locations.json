@@ -81,7 +81,8 @@
                     {
                         "map": "beginnerpg1",
                         "x": 0,
-                        "y": 0
+                        "y": 0,
+                        "force_invisibility_rules": ["Tutorial-Goal"]
                     }
                 ]
             },
@@ -163,7 +164,8 @@
                     {
                         "map": "beginnerpg1",
                         "x": 850,
-                        "y": 0
+                        "y": 0,
+                        "force_invisibility_rules": ["InTheLoop-Goal"]
                     }
                 ]
             },
@@ -245,7 +247,8 @@
                     {
                         "map": "beginnerpg1",
                         "x": 1675,
-                        "y": 0
+                        "y": 0,
+                        "force_invisibility_rules": ["MiddleOfTheRoad-Goal"]
                     }
                 ]
             },
@@ -327,7 +330,8 @@
                     {
                         "map": "beginnerpg1",
                         "x": 0,
-                        "y": 555
+                        "y": 555,
+                        "force_invisibility_rules": ["Tinkerton-Goal"]
                     }
                 ]
             },
@@ -409,7 +413,8 @@
                     {
                         "map": "beginnerpg1",
                         "x": 850,
-                        "y": 555
+                        "y": 555,
+                        "force_invisibility_rules": ["TreeStump-Goal"]
                     }
                 ]
             },
@@ -491,7 +496,8 @@
                     {
                         "map": "beginnerpg1",
                         "x": 1675,
-                        "y": 555
+                        "y": 555,
+                        "force_invisibility_rules": ["TownCenter-Goal"]
                     }
                 ]
             },
@@ -573,7 +579,8 @@
                     {
                         "map": "beginnerpg1",
                         "x": 0,
-                        "y": 1090
+                        "y": 1090,
+                        "force_invisibility_rules": ["OneTwoTree-Goal"]
                     }
                 ]
             },
@@ -655,7 +662,8 @@
                     {
                         "map": "beginnerpg1",
                         "x": 850,
-                        "y": 1090
+                        "y": 1090,
+                        "force_invisibility_rules": ["Scrapyard-Goal"]
                     }
                 ]
             },
@@ -737,7 +745,8 @@
                     {
                         "map": "beginnerpg1",
                         "x": 1675,
-                        "y": 1090
+                        "y": 1090,
+                        "force_invisibility_rules": ["TheCabin-Goal"]
                     }
                 ]
             },
@@ -819,7 +828,8 @@
                     {
                         "map": "beginnerpg2",
                         "x": 0,
-                        "y": 0
+                        "y": 0,
+                        "force_invisibility_rules": ["Resort-Goal"]
                     }
                 ]
             },
@@ -901,7 +911,8 @@
                     {
                         "map": "beginnerpg2",
                         "x": 850,
-                        "y": 0
+                        "y": 0,
+                        "force_invisibility_rules": ["Skates-Goal"]
                     }
                 ]
             },
@@ -983,7 +994,8 @@
                     {
                         "map": "beginnerpg2",
                         "x": 1675,
-                        "y": 0
+                        "y": 0,
+                        "force_invisibility_rules": ["LotusIsland-Goal"]
                     }
                 ]
             },
@@ -1065,7 +1077,8 @@
                     {
                         "map": "beginnerpg2",
                         "x": 0,
-                        "y": 555
+                        "y": 555,
+                        "force_invisibility_rules": ["CandyFalls-Goal"]
                     }
                 ]
             },
@@ -1147,7 +1160,8 @@
                     {
                         "map": "beginnerpg2",
                         "x": 850,
-                        "y": 555
+                        "y": 555,
+                        "force_invisibility_rules": ["WinterPark-Goal"]
                     }
                 ]
             },
@@ -1229,7 +1243,8 @@
                     {
                         "map": "beginnerpg2",
                         "x": 1675,
-                        "y": 555
+                        "y": 555,
+                        "force_invisibility_rules": ["Carved-Goal"]
                     }
                 ]
             },
@@ -1311,7 +1326,8 @@
                     {
                         "map": "beginnerpg2",
                         "x": 0,
-                        "y": 1090
+                        "y": 1090,
+                        "force_invisibility_rules": ["ParkPath-Goal"]
                     }
                 ]
             },
@@ -1393,7 +1409,8 @@
                     {
                         "map": "beginnerpg2",
                         "x": 850,
-                        "y": 1090
+                        "y": 1090,
+                        "force_invisibility_rules": ["AlpineRun-Goal"]
                     }
                 ]
             },
@@ -1475,7 +1492,8 @@
                     {
                         "map": "beginnerpg2",
                         "x": 1675,
-                        "y": 1090
+                        "y": 1090,
+                        "force_invisibility_rules": ["FrozenOver-Goal"]
                     }
                 ]
             },
@@ -1557,7 +1575,8 @@
                     {
                         "map": "beginnerpg3",
                         "x": 0,
-                        "y": 0
+                        "y": 0,
+                        "force_invisibility_rules": ["Cubism-Goal"]
                     }
                 ]
             },
@@ -1639,7 +1658,8 @@
                     {
                         "map": "beginnerpg3",
                         "x": 850,
-                        "y": 0
+                        "y": 0,
+                        "force_invisibility_rules": ["FourCircles-Goal"]
                     }
                 ]
             },
@@ -1721,7 +1741,8 @@
                     {
                         "map": "beginnerpg3",
                         "x": 1675,
-                        "y": 0
+                        "y": 0,
+                        "force_invisibility_rules": ["Hedge-Goal"]
                     }
                 ]
             },
@@ -1803,7 +1824,8 @@
                     {
                         "map": "beginnerpg3",
                         "x": 0,
-                        "y": 555
+                        "y": 555,
+                        "force_invisibility_rules": ["EndOfTheRoad-Goal"]
                     }
                 ]
             },
@@ -1885,7 +1907,8 @@
                     {
                         "map": "beginnerpg3",
                         "x": 850,
-                        "y": 555
+                        "y": 555,
+                        "force_invisibility_rules": ["Logs-Goal"]
                     }
                 ]
             },
@@ -1967,7 +1990,8 @@
                     {
                         "map": "beginnerpg3",
                         "x": 1675,
-                        "y": 555
+                        "y": 555,
+                        "force_invisibility_rules": ["SpaPits-Goal"]
                     }
                 ]
             },
@@ -2049,7 +2073,8 @@
                     {
                         "map": "beginnerpg3",
                         "x": 0,
-                        "y": 1090
+                        "y": 1090,
+                        "force_invisibility_rules": ["ThreeMinesAround-Goal"]
                     }
                 ]
             }
@@ -2137,7 +2162,8 @@
                     {
                         "map": "intermediatepg1",
                         "x": 0,
-                        "y": 0
+                        "y": 0,
+                        "force_invisibility_rules": ["LuminousCove-Goal"]
                     }
                 ]
             },
@@ -2219,7 +2245,8 @@
                     {
                         "map": "intermediatepg1",
                         "x": 850,
-                        "y": 0
+                        "y": 0,
+                        "force_invisibility_rules": ["SulfurSprings-Goal"]
                     }
                 ]
             },
@@ -2301,7 +2328,8 @@
                     {
                         "map": "intermediatepg1",
                         "x": 1675,
-                        "y": 0
+                        "y": 0,
+                        "force_invisibility_rules": ["WaterPark-Goal"]
                     }
                 ]
             },
@@ -2383,7 +2411,8 @@
                     {
                         "map": "intermediatepg1",
                         "x": 0,
-                        "y": 555
+                        "y": 555,
+                        "force_invisibility_rules": ["Polyphemus-Goal"]
                     }
                 ]
             },
@@ -2465,7 +2494,8 @@
                     {
                         "map": "intermediatepg1",
                         "x": 850,
-                        "y": 555
+                        "y": 555,
+                        "force_invisibility_rules": ["CoveredGarden-Goal"]
                     }
                 ]
             },
@@ -2547,7 +2577,8 @@
                     {
                         "map": "intermediatepg1",
                         "x": 1675,
-                        "y": 555
+                        "y": 555,
+                        "force_invisibility_rules": ["Quarry-Goal"]
                     }
                 ]
             },
@@ -2629,7 +2660,8 @@
                     {
                         "map": "intermediatepg1",
                         "x": 0,
-                        "y": 1090
+                        "y": 1090,
+                        "force_invisibility_rules": ["QuietStreet-Goal"]
                     }
                 ]
             },
@@ -2711,7 +2743,8 @@
                     {
                         "map": "intermediatepg1",
                         "x": 850,
-                        "y": 1090
+                        "y": 1090,
+                        "force_invisibility_rules": ["BloonariusPrime-Goal"]
                     }
                 ]
             },
@@ -2793,7 +2826,8 @@
                     {
                         "map": "intermediatepg1",
                         "x": 1675,
-                        "y": 1090
+                        "y": 1090,
+                        "force_invisibility_rules": ["Balance-Goal"]
                     }
                 ]
             },
@@ -2875,7 +2909,8 @@
                     {
                         "map": "intermediatepg2",
                         "x": 0,
-                        "y": 0
+                        "y": 0,
+                        "force_invisibility_rules": ["Encrypted-Goal"]
                     }
                 ]
             },
@@ -2957,7 +2992,8 @@
                     {
                         "map": "intermediatepg2",
                         "x": 850,
-                        "y": 0
+                        "y": 0,
+                        "force_invisibility_rules": ["Bazaar-Goal"]
                     }
                 ]
             },
@@ -3039,7 +3075,8 @@
                     {
                         "map": "intermediatepg2",
                         "x": 1675,
-                        "y": 0
+                        "y": 0,
+                        "force_invisibility_rules": ["AdorasTemple-Goal"]
                     }
                 ]
             },
@@ -3121,7 +3158,8 @@
                     {
                         "map": "intermediatepg2",
                         "x": 0,
-                        "y": 555
+                        "y": 555,
+                        "force_invisibility_rules": ["SpringSpring-Goal"]
                     }
                 ]
             },
@@ -3203,7 +3241,8 @@
                     {
                         "map": "intermediatepg2",
                         "x": 850,
-                        "y": 555
+                        "y": 555,
+                        "force_invisibility_rules": ["KartsNDarts-Goal"]
                     }
                 ]
             },
@@ -3285,7 +3324,8 @@
                     {
                         "map": "intermediatepg2",
                         "x": 1675,
-                        "y": 555
+                        "y": 555,
+                        "force_invisibility_rules": ["MoonLanding-Goal"]
                     }
                 ]
             },
@@ -3367,7 +3407,8 @@
                     {
                         "map": "intermediatepg2",
                         "x": 0,
-                        "y": 1090
+                        "y": 1090,
+                        "force_invisibility_rules": ["Haunted-Goal"]
                     }
                 ]
             },
@@ -3449,7 +3490,8 @@
                     {
                         "map": "intermediatepg2",
                         "x": 850,
-                        "y": 1090
+                        "y": 1090,
+                        "force_invisibility_rules": ["Downstream-Goal"]
                     }
                 ]
             },
@@ -3531,7 +3573,8 @@
                     {
                         "map": "intermediatepg2",
                         "x": 1675,
-                        "y": 1090
+                        "y": 1090,
+                        "force_invisibility_rules": ["FiringRange-Goal"]
                     }
                 ]
             },
@@ -3613,7 +3656,8 @@
                     {
                         "map": "intermediatepg3",
                         "x": 0,
-                        "y": 0
+                        "y": 0,
+                        "force_invisibility_rules": ["Cracked-Goal"]
                     }
                 ]
             },
@@ -3695,7 +3739,8 @@
                     {
                         "map": "intermediatepg3",
                         "x": 850,
-                        "y": 0
+                        "y": 0,
+                        "force_invisibility_rules": ["Streambed-Goal"]
                     }
                 ]
             },
@@ -3777,7 +3822,8 @@
                     {
                         "map": "intermediatepg3",
                         "x": 1675,
-                        "y": 0
+                        "y": 0,
+                        "force_invisibility_rules": ["Chutes-Goal"]
                     }
                 ]
             },
@@ -3859,7 +3905,8 @@
                     {
                         "map": "intermediatepg3",
                         "x": 0,
-                        "y": 555
+                        "y": 555,
+                        "force_invisibility_rules": ["Rake-Goal"]
                     }
                 ]
             },
@@ -3941,7 +3988,8 @@
                     {
                         "map": "intermediatepg3",
                         "x": 850,
-                        "y": 555
+                        "y": 555,
+                        "force_invisibility_rules": ["SpiceIslands-Goal"]
                     }
                 ]
             },
@@ -4023,7 +4071,8 @@
                     {
                         "map": "intermediatepg3",
                         "x": 1675,
-                        "y": 555
+                        "y": 555,
+                        "force_invisibility_rules": ["LostCrevasse-Goal"]
                     }
                 ]
             }
@@ -4111,7 +4160,8 @@
                     {
                         "map": "advancedpg1",
                         "x": 0,
-                        "y": 0
+                        "y": 0,
+                        "force_invisibility_rules": ["CastleRevenge-Goal"]
                     }
                 ]
             },
@@ -4193,7 +4243,8 @@
                     {
                         "map": "advancedpg1",
                         "x": 850,
-                        "y": 0
+                        "y": 0,
+                        "force_invisibility_rules": ["DarkPath-Goal"]
                     }
                 ]
             },
@@ -4275,7 +4326,8 @@
                     {
                         "map": "advancedpg1",
                         "x": 1675,
-                        "y": 0
+                        "y": 0,
+                        "force_invisibility_rules": ["Erosion-Goal"]
                     }
                 ]
             },
@@ -4357,7 +4409,8 @@
                     {
                         "map": "advancedpg1",
                         "x": 0,
-                        "y": 555
+                        "y": 555,
+                        "force_invisibility_rules": ["MidnightMansion-Goal"]
                     }
                 ]
             },
@@ -4439,7 +4492,8 @@
                     {
                         "map": "advancedpg1",
                         "x": 850,
-                        "y": 555
+                        "y": 555,
+                        "force_invisibility_rules": ["SunkenColumns-Goal"]
                     }
                 ]
             },
@@ -4521,7 +4575,8 @@
                     {
                         "map": "advancedpg1",
                         "x": 1675,
-                        "y": 555
+                        "y": 555,
+                        "force_invisibility_rules": ["XFactor-Goal"]
                     }
                 ]
             },
@@ -4603,7 +4658,8 @@
                     {
                         "map": "advancedpg1",
                         "x": 0,
-                        "y": 1090
+                        "y": 1090,
+                        "force_invisibility_rules": ["Mesa-Goal"]
                     }
                 ]
             },
@@ -4685,7 +4741,8 @@
                     {
                         "map": "advancedpg1",
                         "x": 850,
-                        "y": 1090
+                        "y": 1090,
+                        "force_invisibility_rules": ["Geared-Goal"]
                     }
                 ]
             },
@@ -4767,7 +4824,8 @@
                     {
                         "map": "advancedpg1",
                         "x": 1675,
-                        "y": 1090
+                        "y": 1090,
+                        "force_invisibility_rules": ["Spillway-Goal"]
                     }
                 ]
             },
@@ -4849,7 +4907,8 @@
                     {
                         "map": "advancedpg2",
                         "x": 0,
-                        "y": 0
+                        "y": 0,
+                        "force_invisibility_rules": ["Cargo-Goal"]
                     }
                 ]
             },
@@ -4931,7 +4990,8 @@
                     {
                         "map": "advancedpg2",
                         "x": 850,
-                        "y": 0
+                        "y": 0,
+                        "force_invisibility_rules": ["PatsPond-Goal"]
                     }
                 ]
             },
@@ -5013,7 +5073,8 @@
                     {
                         "map": "advancedpg2",
                         "x": 1675,
-                        "y": 0
+                        "y": 0,
+                        "force_invisibility_rules": ["Peninsula-Goal"]
                     }
                 ]
             },
@@ -5095,7 +5156,8 @@
                     {
                         "map": "advancedpg2",
                         "x": 0,
-                        "y": 555
+                        "y": 555,
+                        "force_invisibility_rules": ["HighFinance-Goal"]
                     }
                 ]
             },
@@ -5177,7 +5239,8 @@
                     {
                         "map": "advancedpg2",
                         "x": 850,
-                        "y": 555
+                        "y": 555,
+                        "force_invisibility_rules": ["AnotherBrick-Goal"]
                     }
                 ]
             },
@@ -5259,7 +5322,8 @@
                     {
                         "map": "advancedpg2",
                         "x": 1675,
-                        "y": 555
+                        "y": 555,
+                        "force_invisibility_rules": ["OffTheCoast-Goal"]
                     }
                 ]
             },
@@ -5341,7 +5405,8 @@
                     {
                         "map": "advancedpg2",
                         "x": 0,
-                        "y": 1090
+                        "y": 1090,
+                        "force_invisibility_rules": ["Cornfield-Goal"]
                     }
                 ]
             },
@@ -5423,7 +5488,8 @@
                     {
                         "map": "advancedpg2",
                         "x": 850,
-                        "y": 1090
+                        "y": 1090,
+                        "force_invisibility_rules": ["Underground-Goal"]
                     }
                 ]
             },
@@ -5505,7 +5571,8 @@
                     {
                         "map": "advancedpg2",
                         "x": 1675,
-                        "y": 1090
+                        "y": 1090,
+                        "force_invisibility_rules": ["AncientPortal-Goal"]
                     }
                 ]
             },
@@ -5587,7 +5654,8 @@
                     {
                         "map": "advancedpg3",
                         "x": 0,
-                        "y": 0
+                        "y": 0,
+                        "force_invisibility_rules": ["EnchantedGlade-Goal"]
                     }
                 ]
             },
@@ -5669,7 +5737,8 @@
                     {
                         "map": "advancedpg3",
                         "x": 850,
-                        "y": 0
+                        "y": 0,
+                        "force_invisibility_rules": ["LastResort-Goal"]
                     }
                 ]
             },
@@ -5751,7 +5820,8 @@
                     {
                         "map": "advancedpg3",
                         "x": 1675,
-                        "y": 0
+                        "y": 0,
+                        "force_invisibility_rules": ["PartyParade-Goal"]
                     }
                 ]
             },
@@ -5833,7 +5903,8 @@
                     {
                         "map": "advancedpg3",
                         "x": 0,
-                        "y": 555
+                        "y": 555,
+                        "force_invisibility_rules": ["SunsetGulch-Goal"]
                     }
                 ]
             }
@@ -5921,7 +5992,8 @@
                     {
                         "map": "expertpg1",
                         "x": 0,
-                        "y": 0
+                        "y": 0,
+                        "force_invisibility_rules": ["GlacialTrail-Goal"]
                     }
                 ]
             },
@@ -6003,7 +6075,8 @@
                     {
                         "map": "expertpg1",
                         "x": 850,
-                        "y": 0
+                        "y": 0,
+                        "force_invisibility_rules": ["DarkDungeons-Goal"]
                     }
                 ]
             },
@@ -6085,7 +6158,8 @@
                     {
                         "map": "expertpg1",
                         "x": 1675,
-                        "y": 0
+                        "y": 0,
+                        "force_invisibility_rules": ["Sanctuary-Goal"]
                     }
                 ]
             },
@@ -6167,7 +6241,8 @@
                     {
                         "map": "expertpg1",
                         "x": 0,
-                        "y": 555
+                        "y": 555,
+                        "force_invisibility_rules": ["Ravine-Goal"]
                     }
                 ]
             },
@@ -6249,7 +6324,8 @@
                     {
                         "map": "expertpg1",
                         "x": 850,
-                        "y": 555
+                        "y": 555,
+                        "force_invisibility_rules": ["FloodedValley-Goal"]
                     }
                 ]
             },
@@ -6331,7 +6407,8 @@
                     {
                         "map": "expertpg1",
                         "x": 1675,
-                        "y": 555
+                        "y": 555,
+                        "force_invisibility_rules": ["Infernal-Goal"]
                     }
                 ]
             },
@@ -6413,7 +6490,8 @@
                     {
                         "map": "expertpg1",
                         "x": 0,
-                        "y": 1090
+                        "y": 1090,
+                        "force_invisibility_rules": ["BloodyPuddles-Goal"]
                     }
                 ]
             },
@@ -6495,7 +6573,8 @@
                     {
                         "map": "expertpg1",
                         "x": 850,
-                        "y": 1090
+                        "y": 1090,
+                        "force_invisibility_rules": ["Workshop-Goal"]
                     }
                 ]
             },
@@ -6577,7 +6656,8 @@
                     {
                         "map": "expertpg1",
                         "x": 1675,
-                        "y": 1090
+                        "y": 1090,
+                        "force_invisibility_rules": ["Quad-Goal"]
                     }
                 ]
             },
@@ -6659,7 +6739,8 @@
                     {
                         "map": "expertpg2",
                         "x": 0,
-                        "y": 0
+                        "y": 0,
+                        "force_invisibility_rules": ["DarkCastle-Goal"]
                     }
                 ]
             },
@@ -6741,7 +6822,8 @@
                     {
                         "map": "expertpg2",
                         "x": 850,
-                        "y": 0
+                        "y": 0,
+                        "force_invisibility_rules": ["MuddyPuddles-Goal"]
                     }
                 ]
             },
@@ -6823,7 +6905,8 @@
                     {
                         "map": "expertpg2",
                         "x": 1675,
-                        "y": 0
+                        "y": 0,
+                        "force_invisibility_rules": ["Ouch-Goal"]
                     }
                 ]
             },
@@ -6905,7 +6988,1444 @@
                     {
                         "map": "expertpg2",
                         "x": 0,
-                        "y": 555
+                        "y": 555,
+                        "force_invisibility_rules": ["TrickyTracks-Goal"]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Goal Map",
+        "chest_unopened_img": "images/medals/medal_none.png",
+        "chest_opened_img": "images/medals/medal_chimps2.png",
+        "access_rules": ["$medalsGoal"],
+        "children":[
+            {
+                "name": "GOAL: Monkey Meadow (Tutorial)",
+                "visibility_rules": ["Tutorial-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "beginnerpg1",
+                        "x": 0,
+                        "y": 0,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: In The Loop",
+                "visibility_rules": ["InTheLoop-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "beginnerpg1",
+                        "x": 850,
+                        "y": 0,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Middle Of The Road",
+                "visibility_rules": ["MiddleOfTheRoad-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "beginnerpg1",
+                        "x": 1675,
+                        "y": 0,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Tinkerton",
+                "visibility_rules": ["Tinkerton-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "beginnerpg1",
+                        "x": 0,
+                        "y": 555,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Tree Stump",
+                "visibility_rules": ["TreeStump-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "beginnerpg1",
+                        "x": 850,
+                        "y": 555,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Town Center",
+                "visibility_rules": ["TownCenter-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "beginnerpg1",
+                        "x": 1675,
+                        "y": 555,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: One Two Tree",
+                "visibility_rules": ["OneTwoTree-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "beginnerpg1",
+                        "x": 0,
+                        "y": 1090,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Scrapyard",
+                "visibility_rules": ["Scrapyard-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "beginnerpg1",
+                        "x": 850,
+                        "y": 1090,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: The Cabin",
+                "visibility_rules": ["TheCabin-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "beginnerpg1",
+                        "x": 1675,
+                        "y": 1090,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Resort",
+                "visibility_rules": ["Resort-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "beginnerpg2",
+                        "x": 0,
+                        "y": 0,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Skates",
+                "visibility_rules": ["Skates-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "beginnerpg2",
+                        "x": 850,
+                        "y": 0,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Lotus Island",
+                "visibility_rules": ["LotusIsland-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "beginnerpg2",
+                        "x": 1675,
+                        "y": 0,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Candy Falls",
+                "visibility_rules": ["CandyFalls-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "beginnerpg2",
+                        "x": 0,
+                        "y": 555,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Winter Park",
+                "visibility_rules": ["WinterPark-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "beginnerpg2",
+                        "x": 850,
+                        "y": 555,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Carved",
+                "visibility_rules": ["Carved-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "beginnerpg2",
+                        "x": 1675,
+                        "y": 555,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Park Path",
+                "visibility_rules": ["ParkPath-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "beginnerpg2",
+                        "x": 0,
+                        "y": 1090,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Alpine Run",
+                "visibility_rules": ["AlpineRun-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "beginnerpg2",
+                        "x": 850,
+                        "y": 1090,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Frozen Over",
+                "visibility_rules": ["FrozenOver-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "beginnerpg2",
+                        "x": 1675,
+                        "y": 1090,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Cubism",
+                "visibility_rules": ["Cubism-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "beginnerpg3",
+                        "x": 0,
+                        "y": 0,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Four Circles",
+                "visibility_rules": ["FourCircles-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "beginnerpg3",
+                        "x": 850,
+                        "y": 0,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Hedge",
+                "visibility_rules": ["Hedge-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "beginnerpg3",
+                        "x": 1675,
+                        "y": 0,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: End Of The Road",
+                "visibility_rules": ["EndOfTheRoad-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "beginnerpg3",
+                        "x": 0,
+                        "y": 555,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Logs",
+                "visibility_rules": ["Logs-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "beginnerpg3",
+                        "x": 850,
+                        "y": 555,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Spa Pits",
+                "visibility_rules": ["SpaPits-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "beginnerpg3",
+                        "x": 1675,
+                        "y": 555,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Three Mines 'Round",
+                "visibility_rules": ["ThreeMinesAround-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "beginnerpg3",
+                        "x": 0,
+                        "y": 1090,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Luminous Cove",
+                "visibility_rules": ["LuminousCove-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "intermediatepg1",
+                        "x": 0,
+                        "y": 0,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Sulfur Springs",
+                "visibility_rules": ["SulfurSprings-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "intermediatepg1",
+                        "x": 850,
+                        "y": 0,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Water Park",
+                "visibility_rules": ["WaterPark-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "intermediatepg1",
+                        "x": 1675,
+                        "y": 0,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Polyphemus",
+                "visibility_rules": ["Polyphemus-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "intermediatepg1",
+                        "x": 0,
+                        "y": 555,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Covered Garden",
+                "visibility_rules": ["CoveredGarden-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "intermediatepg1",
+                        "x": 850,
+                        "y": 555,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Quarry",
+                "visibility_rules": ["Quarry-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "intermediatepg1",
+                        "x": 1675,
+                        "y": 555,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Quiet Street",
+                "visibility_rules": ["QuietStreet-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "intermediatepg1",
+                        "x": 0,
+                        "y": 1090,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Bloonarius Prime",
+                "visibility_rules": ["BloonariusPrime-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "intermediatepg1",
+                        "x": 850,
+                        "y": 1090,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Balance",
+                "visibility_rules": ["Balance-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "intermediatepg1",
+                        "x": 1675,
+                        "y": 1090,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Encrypted",
+                "visibility_rules": ["Encrypted-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "intermediatepg2",
+                        "x": 0,
+                        "y": 0,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Bazaar",
+                "visibility_rules": ["Bazaar-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "intermediatepg2",
+                        "x": 850,
+                        "y": 0,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Adora's Temple",
+                "visibility_rules": ["AdorasTemple-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "intermediatepg2",
+                        "x": 1675,
+                        "y": 0,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Spring Spring",
+                "visibility_rules": ["SpringSpring-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "intermediatepg2",
+                        "x": 0,
+                        "y": 555,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Karts N Darts",
+                "visibility_rules": ["KartsNDarts-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "intermediatepg2",
+                        "x": 850,
+                        "y": 555,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Moon Landing",
+                "visibility_rules": ["MoonLanding-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "intermediatepg2",
+                        "x": 1675,
+                        "y": 555,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Haunted",
+                "visibility_rules": ["Haunted-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "intermediatepg2",
+                        "x": 0,
+                        "y": 1090,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Downstream",
+                "visibility_rules": ["Downstream-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "intermediatepg2",
+                        "x": 850,
+                        "y": 1090,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Firing Range",
+                "visibility_rules": ["FiringRange-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "intermediatepg2",
+                        "x": 1675,
+                        "y": 1090,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Cracked",
+                "visibility_rules": ["Cracked-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "intermediatepg3",
+                        "x": 0,
+                        "y": 0,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Streambed",
+                "visibility_rules": ["Streambed-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "intermediatepg3",
+                        "x": 850,
+                        "y": 0,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Chutes",
+                "visibility_rules": ["Chutes-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "intermediatepg3",
+                        "x": 1675,
+                        "y": 0,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Rake",
+                "visibility_rules": ["Rake-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "intermediatepg3",
+                        "x": 0,
+                        "y": 555,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Spice Islands",
+                "visibility_rules": ["SpiceIslands-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "intermediatepg3",
+                        "x": 850,
+                        "y": 555,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Lost Crevasse",
+                "visibility_rules": ["LostCrevasse-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "intermediatepg3",
+                        "x": 1675,
+                        "y": 555,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Castle Revenge",
+                "visibility_rules": ["CastleRevenge-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "advancedpg1",
+                        "x": 0,
+                        "y": 0,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Dark Path",
+                "visibility_rules": ["DarkPath-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "advancedpg1",
+                        "x": 850,
+                        "y": 0,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Erosion",
+                "visibility_rules": ["Erosion-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "advancedpg1",
+                        "x": 1675,
+                        "y": 0,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Midnight Mansion",
+                "visibility_rules": ["MidnightMansion-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "advancedpg1",
+                        "x": 0,
+                        "y": 555,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Sunken Columns",
+                "visibility_rules": ["SunkenColumns-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "advancedpg1",
+                        "x": 850,
+                        "y": 555,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: XFactor",
+                "visibility_rules": ["XFactor-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "advancedpg1",
+                        "x": 1675,
+                        "y": 555,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Mesa",
+                "visibility_rules": ["Mesa-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "advancedpg1",
+                        "x": 0,
+                        "y": 1090,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Geared",
+                "visibility_rules": ["Geared-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "advancedpg1",
+                        "x": 850,
+                        "y": 1090,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Spillway",
+                "visibility_rules": ["Spillway-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "advancedpg1",
+                        "x": 1675,
+                        "y": 1090,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Cargo",
+                "visibility_rules": ["Cargo-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "advancedpg2",
+                        "x": 0,
+                        "y": 0,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Pat's Pond",
+                "visibility_rules": ["PatsPond-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "advancedpg2",
+                        "x": 850,
+                        "y": 0,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Peninsula",
+                "visibility_rules": ["Peninsula-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "advancedpg2",
+                        "x": 1675,
+                        "y": 0,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: High Finance",
+                "visibility_rules": ["High Finance-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "advancedpg2",
+                        "x": 0,
+                        "y": 555,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Another Brick",
+                "visibility_rules": ["AnotherBrick-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "advancedpg2",
+                        "x": 850,
+                        "y": 555,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Off The Coast",
+                "visibility_rules": ["OffTheCoast-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "advancedpg2",
+                        "x": 1675,
+                        "y": 555,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Cornfield",
+                "visibility_rules": ["Cornfield-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "advancedpg2",
+                        "x": 0,
+                        "y": 1090,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Underground",
+                "visibility_rules": ["Underground-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "advancedpg2",
+                        "x": 850,
+                        "y": 1090,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Ancient Portal",
+                "visibility_rules": ["AncientPortal-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "advancedpg2",
+                        "x": 1675,
+                        "y": 1090,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Enchanted Glade",
+                "visibility_rules": ["EnchantedGlade-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "advancedpg3",
+                        "x": 0,
+                        "y": 0,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Last Resort",
+                "visibility_rules": ["LastResort-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "advancedpg3",
+                        "x": 850,
+                        "y": 0,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Party Parade",
+                "visibility_rules": ["PartyParade-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "advancedpg3",
+                        "x": 1675,
+                        "y": 0,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Sunset Gulch",
+                "visibility_rules": ["SunsetGulch-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "advancedpg3",
+                        "x": 0,
+                        "y": 555,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Glacial Trail",
+                "visibility_rules": ["GlacialTrail-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "expertpg1",
+                        "x": 0,
+                        "y": 0,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Dark Dungeons",
+                "visibility_rules": ["DarkDungeons-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "expertpg1",
+                        "x": 850,
+                        "y": 0,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Sanctuary",
+                "visibility_rules": ["Sanctuary-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "expertpg1",
+                        "x": 1675,
+                        "y": 0,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Ravine",
+                "visibility_rules": ["Ravine-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "expertpg1",
+                        "x": 0,
+                        "y": 555,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Flooded Valley",
+                "visibility_rules": ["FloodedValley-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "expertpg1",
+                        "x": 850,
+                        "y": 555,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Infernal",
+                "visibility_rules": ["Infernal-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "expertpg1",
+                        "x": 1675,
+                        "y": 555,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Bloody Puddles",
+                "visibility_rules": ["BloodyPuddles-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "expertpg1",
+                        "x": 0,
+                        "y": 1090,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Workshop",
+                "visibility_rules": ["Workshop-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "expertpg1",
+                        "x": 850,
+                        "y": 1090,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Quad",
+                "visibility_rules": ["Quad-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "expertpg1",
+                        "x": 1675,
+                        "y": 1090,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Dark Castle",
+                "visibility_rules": ["DarkCastle-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "expertpg2",
+                        "x": 0,
+                        "y": 0,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Muddy Puddles",
+                "visibility_rules": ["MuddyPuddles-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "expertpg2",
+                        "x": 850,
+                        "y": 0,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: #Ouch",
+                "visibility_rules": ["Ouch-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "expertpg2",
+                        "x": 1675,
+                        "y": 0,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "GOAL: Tricky Tracks",
+                "visibility_rules": ["TrickyTracks-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "expertpg2",
+                        "x": 0,
+                        "y": 555,
+                        "shape": "diamond"
                     }
                 ]
             }

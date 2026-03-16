@@ -51,3 +51,11 @@ function magiconly()
     return 0
   end
 end
+
+function medalsGoal()
+  if Tracker:FindObjectForCode("medal").AcquiredCount >= Tracker:FindObjectForCode("medalreq").AcquiredCount then
+    return true
+  else
+    return false
+  end
+end

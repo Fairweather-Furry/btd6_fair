@@ -72,6 +72,13 @@ function onClear(slot_data)
 		end
 	end
     Tracker:FindObjectForCode("medalreq").AcquiredCount = tonumber(slot_data["medalsNeeded"])
+
+--  This took me longer to figure out than it should have. ~Plushie
+    for a,b in pairs(GOAL_MAPPING) do
+        if slot_data["victoryLocation"] == a then
+            Tracker:FindObjectForCode(b).Active = true
+        end
+    end
 end
 
 -- called when an item gets collected
