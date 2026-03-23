@@ -11045,5 +11045,34 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "Towers",
+        "chest_unopened_img": "images/medals/medal_none.png",
+        "chest_opened_img": "images/medals/medal_easy.png",
+        "children": [
+            {
+                "name": "Dart Monkey",
+                "access_rules": [ "DartMonkey-TUnlock" ],
+                "sections": [
+                    {
+                        "name": "Tier 3"
+                    },
+                    {
+                        "name": "Tier 4"
+                    },
+                    {
+                        "name": "Tier 5"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "monkeypg",
+                        "x": 146,
+                        "y": 30
+                    }
+                ]
+            }
+        ]
     }
 ]

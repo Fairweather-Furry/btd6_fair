@@ -267,6 +267,16 @@
 												"tabs":
 												[
 													{
+														"title": "Monkey Tiers",
+														"content":
+														[
+															{
+																"type": "map",
+																"maps": ["monkeypg"]
+															}
+														]
+													},
+													{
 														"title": "Heroes",
 														"content":
 														[

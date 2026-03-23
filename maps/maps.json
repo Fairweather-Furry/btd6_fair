@@ -84,5 +84,11 @@
         "img": "images/heropage.png",
         "location_size": 30,
         "location_border_thickness": 4
+    },
+    {
+        "name": "monkeypg",
+        "img": "images/monkeyspage.png",
+        "location_size": 30,
+        "location_border_thickness": 4
     }
 ]
