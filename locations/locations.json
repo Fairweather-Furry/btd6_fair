@@ -11072,6 +11072,512 @@
                         "y": 30
                     }
                 ]
+            },
+            {
+                "name": "Boomerang Monkey",
+                "access_rules": [ "BoomerangMonkey-TUnlock" ],
+                "sections": [
+                    {
+                        "name": "Tier 3"
+                    },
+                    {
+                        "name": "Tier 4"
+                    },
+                    {
+                        "name": "Tier 5"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "monkeypg",
+                        "x": 325,
+                        "y": 30
+                    }
+                ]
+            },
+            {
+                "name": "Bomb Shooter",
+                "access_rules": [ "BombShooter-TUnlock" ],
+                "sections": [
+                    {
+                        "name": "Tier 3"
+                    },
+                    {
+                        "name": "Tier 4"
+                    },
+                    {
+                        "name": "Tier 5"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "monkeypg",
+                        "x": 502,
+                        "y": 30
+                    }
+                ]
+            },
+            {
+                "name": "Tack Shooter",
+                "access_rules": [ "TackShooter-TUnlock" ],
+                "sections": [
+                    {
+                        "name": "Tier 3"
+                    },
+                    {
+                        "name": "Tier 4"
+                    },
+                    {
+                        "name": "Tier 5"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "monkeypg",
+                        "x": 681,
+                        "y": 30
+                    }
+                ]
+            },
+            {
+                "name": "Ice Monkey",
+                "access_rules": [ "IceMonkey-TUnlock" ],
+                "sections": [
+                    {
+                        "name": "Tier 3"
+                    },
+                    {
+                        "name": "Tier 4"
+                    },
+                    {
+                        "name": "Tier 5"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "monkeypg",
+                        "x": 858,
+                        "y": 30
+                    }
+                ]
+            },
+            {
+                "name": "Glue Gunner",
+                "access_rules": [ "GlueGunner-TUnlock" ],
+                "sections": [
+                    {
+                        "name": "Tier 3"
+                    },
+                    {
+                        "name": "Tier 4"
+                    },
+                    {
+                        "name": "Tier 5"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "monkeypg",
+                        "x": 146,
+                        "y": 209
+                    }
+                ]
+            },
+            {
+                "name": "Desperado",
+                "access_rules": [ "Desperado-TUnlock" ],
+                "sections": [
+                    {
+                        "name": "Tier 3"
+                    },
+                    {
+                        "name": "Tier 4"
+                    },
+                    {
+                        "name": "Tier 5"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "monkeypg",
+                        "x": 325,
+                        "y": 209
+                    }
+                ]
+            },
+            {
+                "name": "Sniper Monkey",
+                "access_rules": [ "SniperMonkey-TUnlock" ],
+                "sections": [
+                    {
+                        "name": "Tier 3"
+                    },
+                    {
+                        "name": "Tier 4"
+                    },
+                    {
+                        "name": "Tier 5"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "monkeypg",
+                        "x": 502,
+                        "y": 209
+                    }
+                ]
+            },
+            {
+                "name": "Monkey Sub",
+                "access_rules": [ "MonkeySub-TUnlock" ],
+                "sections": [
+                    {
+                        "name": "Tier 3"
+                    },
+                    {
+                        "name": "Tier 4"
+                    },
+                    {
+                        "name": "Tier 5"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "monkeypg",
+                        "x": 681,
+                        "y": 209
+                    }
+                ]
+            },
+            {
+                "name": "Monkey Buccaneer",
+                "access_rules": [ "MonkeyBuccaneer-TUnlock" ],
+                "sections": [
+                    {
+                        "name": "Tier 3"
+                    },
+                    {
+                        "name": "Tier 4"
+                    },
+                    {
+                        "name": "Tier 5"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "monkeypg",
+                        "x": 858,
+                        "y": 209
+                    }
+                ]
+            },
+            {
+                "name": "Monkey Ace",
+                "access_rules": [ "MonkeyAce-TUnlock" ],
+                "sections": [
+                    {
+                        "name": "Tier 3"
+                    },
+                    {
+                        "name": "Tier 4"
+                    },
+                    {
+                        "name": "Tier 5"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "monkeypg",
+                        "x": 146,
+                        "y": 386
+                    }
+                ]
+            },
+            {
+                "name": "Heli Pilot",
+                "access_rules": [ "HeliPilot-TUnlock" ],
+                "sections": [
+                    {
+                        "name": "Tier 3"
+                    },
+                    {
+                        "name": "Tier 4"
+                    },
+                    {
+                        "name": "Tier 5"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "monkeypg",
+                        "x": 325,
+                        "y": 386
+                    }
+                ]
+            },
+            {
+                "name": "Mortar Monkey",
+                "access_rules": [ "MortarMonkey-TUnlock" ],
+                "sections": [
+                    {
+                        "name": "Tier 3"
+                    },
+                    {
+                        "name": "Tier 4"
+                    },
+                    {
+                        "name": "Tier 5"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "monkeypg",
+                        "x": 502,
+                        "y": 386
+                    }
+                ]
+            },
+            {
+                "name": "Dartling Gunner",
+                "access_rules": [ "DartlingGunner-TUnlock" ],
+                "sections": [
+                    {
+                        "name": "Tier 3"
+                    },
+                    {
+                        "name": "Tier 4"
+                    },
+                    {
+                        "name": "Tier 5"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "monkeypg",
+                        "x": 681,
+                        "y": 386
+                    }
+                ]
+            },
+            {
+                "name": "Wizard Monkey",
+                "access_rules": [ "WizardMonkey-TUnlock" ],
+                "sections": [
+                    {
+                        "name": "Tier 3"
+                    },
+                    {
+                        "name": "Tier 4"
+                    },
+                    {
+                        "name": "Tier 5"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "monkeypg",
+                        "x": 858,
+                        "y": 386
+                    }
+                ]
+            },
+            {
+                "name": "Super Monkey",
+                "access_rules": [ "SuperMonkey-TUnlock" ],
+                "sections": [
+                    {
+                        "name": "Tier 3"
+                    },
+                    {
+                        "name": "Tier 4"
+                    },
+                    {
+                        "name": "Tier 5"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "monkeypg",
+                        "x": 146,
+                        "y": 563
+                    }
+                ]
+            },
+            {
+                "name": "Ninja Monkey",
+                "access_rules": [ "NinjaMonkey-TUnlock" ],
+                "sections": [
+                    {
+                        "name": "Tier 3"
+                    },
+                    {
+                        "name": "Tier 4"
+                    },
+                    {
+                        "name": "Tier 5"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "monkeypg",
+                        "x": 325,
+                        "y": 563
+                    }
+                ]
+            },
+            {
+                "name": "Alchemist",
+                "access_rules": [ "Alchemist-TUnlock" ],
+                "sections": [
+                    {
+                        "name": "Tier 3"
+                    },
+                    {
+                        "name": "Tier 4"
+                    },
+                    {
+                        "name": "Tier 5"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "monkeypg",
+                        "x": 502,
+                        "y": 563
+                    }
+                ]
+            },
+            {
+                "name": "Druid",
+                "access_rules": [ "Druid-TUnlock" ],
+                "sections": [
+                    {
+                        "name": "Tier 3"
+                    },
+                    {
+                        "name": "Tier 4"
+                    },
+                    {
+                        "name": "Tier 5"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "monkeypg",
+                        "x": 681,
+                        "y": 563
+                    }
+                ]
+            },
+            {
+                "name": "Mermonkey",
+                "access_rules": [ "Mermonkey-TUnlock" ],
+                "sections": [
+                    {
+                        "name": "Tier 3"
+                    },
+                    {
+                        "name": "Tier 4"
+                    },
+                    {
+                        "name": "Tier 5"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "monkeypg",
+                        "x": 858,
+                        "y": 563
+                    }
+                ]
+            },
+            {
+                "name": "Banana Farm",
+                "access_rules": [ "BananaFarm-TUnlock" ],
+                "sections": [
+                    {
+                        "name": "Tier 3"
+                    },
+                    {
+                        "name": "Tier 4"
+                    },
+                    {
+                        "name": "Tier 5"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "monkeypg",
+                        "x": 146,
+                        "y": 742
+                    }
+                ]
+            },
+            {
+                "name": "Spike Factory",
+                "access_rules": [ "SpikeFactory-TUnlock" ],
+                "sections": [
+                    {
+                        "name": "Tier 3"
+                    },
+                    {
+                        "name": "Tier 4"
+                    },
+                    {
+                        "name": "Tier 5"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "monkeypg",
+                        "x": 325,
+                        "y": 742
+                    }
+                ]
+            },
+            {
+                "name": "Engineer Monkey",
+                "access_rules": [ "EngineerMonkey-TUnlock" ],
+                "sections": [
+                    {
+                        "name": "Tier 3"
+                    },
+                    {
+                        "name": "Tier 4"
+                    },
+                    {
+                        "name": "Tier 5"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "monkeypg",
+                        "x": 681,
+                        "y": 742
+                    }
+                ]
+            },
+            {
+                "name": "Beast Handler",
+                "access_rules": [ "BeastHandler-TUnlock" ],
+                "sections": [
+                    {
+                        "name": "Tier 3"
+                    },
+                    {
+                        "name": "Tier 4"
+                    },
+                    {
+                        "name": "Tier 5"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "monkeypg",
+                        "x": 858,
+                        "y": 742
+                    }
+                ]
             }
         ]
     }
