@@ -81,6 +81,8 @@
     },
     {
         "name": "heropg",
-        "img": "images/heropage.png"
+        "img": "images/heropage.png",
+        "location_size": 30,
+        "location_border_thickness": 4
     }
 ]

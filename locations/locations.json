@@ -10750,5 +10750,300 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "Heroes",
+        "chest_unopened_img": "images/medals/medal_none.png",
+        "children": [
+            {
+                "name": "Quincy",
+                "access_rules": [ "Quincy-HUnlock" ],
+                "sections": [
+                    {
+                        "name": "Quincy",
+                        "chest_opened_img": "images/monkeys/quincy.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "heropg",
+                        "x": 15,
+                        "y": 15
+                    }
+                ]
+            },
+            {
+                "name": "Gwendolin",
+                "access_rules": [ "Gwendolin-HUnlock" ],
+                "sections": [
+                    {
+                        "name": "Gwendolin",
+                        "chest_opened_img": "images/monkeys/gwendolin.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "heropg",
+                        "x": 140,
+                        "y": 15
+                    }
+                ]
+            },
+            {
+                "name": "Striker Jones",
+                "access_rules": [ "StrikerJones-HUnlock" ],
+                "sections": [
+                    {
+                        "name": "Striker Jones",
+                        "chest_opened_img": "images/monkeys/strikerjones.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "heropg",
+                        "x": 265,
+                        "y": 15
+                    }
+                ]
+            },
+            {
+                "name": "Obyn Greenfoot",
+                "access_rules": [ "ObynGreenfoot-HUnlock" ],
+                "sections": [
+                    {
+                        "name": "Obyn Greenfoot",
+                        "chest_opened_img": "images/monkeys/obyngreenfoot.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "heropg",
+                        "x": 15,
+                        "y": 175
+                    }
+                ]
+            },
+            {
+                "name": "Rosalia",
+                "access_rules": [ "Rosalia-HUnlock" ],
+                "sections": [
+                    {
+                        "name": "Rosalia",
+                        "chest_opened_img": "images/monkeys/rosalia.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "heropg",
+                        "x": 390,
+                        "y": 15
+                    }
+                ]
+            },
+            {
+                "name": "Captain Churchill",
+                "access_rules": [ "CaptainChurchill-HUnlock" ],
+                "sections": [
+                    {
+                        "name": "Captain Churchill",
+                        "chest_opened_img": "images/monkeys/captainchurchill.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "heropg",
+                        "x": 140,
+                        "y": 335
+                    }
+                ]
+            },
+            {
+                "name": "Benjamin",
+                "access_rules": [ "Benjamin-HUnlock" ],
+                "sections": [
+                    {
+                        "name": "Benjamin",
+                        "chest_opened_img": "images/monkeys/benjamin.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "heropg",
+                        "x": 265,
+                        "y": 175
+                    }
+                ]
+            },
+            {
+                "name": "Pat Fusty",
+                "access_rules": [ "PatFusty-HUnlock" ],
+                "sections": [
+                    {
+                        "name": "Pat Fusty",
+                        "chest_opened_img": "images/monkeys/patfusty.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "heropg",
+                        "x": 15,
+                        "y": 335
+                    }
+                ]
+            },
+            {
+                "name": "Ezili",
+                "access_rules": [ "Ezili-HUnlock" ],
+                "sections": [
+                    {
+                        "name": "Ezili",
+                        "chest_opened_img": "images/monkeys/ezili.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "heropg",
+                        "x": 265,
+                        "y": 335
+                    }
+                ]
+            },
+            {
+                "name": "Adora",
+                "access_rules": [ "Adora-HUnlock" ],
+                "sections": [
+                    {
+                        "name": "Adora",
+                        "chest_opened_img": "images/monkeys/adora.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "heropg",
+                        "x": 390,
+                        "y": 175
+                    }
+                ]
+            },
+            {
+                "name": "Etienne",
+                "access_rules": [ "Etienne-HUnlock" ],
+                "sections": [
+                    {
+                        "name": "Etienne",
+                        "chest_opened_img": "images/monkeys/etienne.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "heropg",
+                        "x": 515,
+                        "y": 15
+                    }
+                ]
+            },
+            {
+                "name": "Sauda",
+                "access_rules": [ "Sauda-HUnlock" ],
+                "sections": [
+                    {
+                        "name": "Sauda",
+                        "chest_opened_img": "images/monkeys/sauda.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "heropg",
+                        "x": 645,
+                        "y": 15
+                    }
+                ]
+            },
+            {
+                "name": "Admiral Brickell",
+                "access_rules": [ "AdmiralBrickell-HUnlock" ],
+                "sections": [
+                    {
+                        "name": "Admiral Brickell",
+                        "chest_opened_img": "images/monkeys/admiralbrickell.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "heropg",
+                        "x": 515,
+                        "y": 175
+                    }
+                ]
+            },
+            {
+                "name": "Psi",
+                "access_rules": [ "Psi-HUnlock" ],
+                "sections": [
+                    {
+                        "name": "Psi",
+                        "chest_opened_img": "images/monkeys/psi.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "heropg",
+                        "x": 645,
+                        "y": 175
+                    }
+                ]
+            },
+            {
+                "name": "Geraldo",
+                "access_rules": [ "Geraldo-HUnlock" ],
+                "sections": [
+                    {
+                        "name": "Geraldo",
+                        "chest_opened_img": "images/monkeys/geraldo.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "heropg",
+                        "x": 390,
+                        "y": 335
+                    }
+                ]
+            },
+            {
+                "name": "Corvus",
+                "access_rules": [ "Corvus-HUnlock" ],
+                "sections": [
+                    {
+                        "name": "Corvus",
+                        "chest_opened_img": "images/monkeys/corvus.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "heropg",
+                        "x": 515,
+                        "y": 335
+                    }
+                ]
+            },
+            {
+                "name": "Silas",
+                "access_rules": [ "Silas-HUnlock" ],
+                "sections": [
+                    {
+                        "name": "Silas",
+                        "chest_opened_img": "images/monkeys/silas.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "heropg",
+                        "x": 140,
+                        "y": 175
+                    }
+                ]
+            }
+        ]
     }
 ]
