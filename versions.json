@@ -1,6 +1,20 @@
 {
     "versions": [
         {
+            "package_version": "0.2.0",
+            "download_url": "https://github.com/Fairweather-Furry/btd6_fair/releases/download/v0.2.0/btd6_fair.zip",
+            "sha256": "faa70ef556c85b4f4a9d1dda07bbc950542b48126d8ef0d4cf633505cc8f57fe",
+            "changelog": [
+                "Full Feature Update!",
+                "AKA, the 'Huge Workload Done Update'. Compatible with BTD6 APWorld version 0.4.2 And Mod version 0.6.2.",
+                "GOAL MAP: When you connect the poptracker to your AP, the map you need to beat your game will be a diamond rather than a square. The location will be 'in logic' once you have reached your required medals amount.",
+                "Heroes: The heroes page now is updated to have Silas, and the AP locations from all heroes.",
+                "Maps: Added all the maps that had not yet been added to the poptracker (Ancient Portal, Enchanted Glade, Lost Crevasse, Last Resort, Party Parade, Spa Pits, Sunset Gulch, Three Mines 'Round, and Tricky Tracks)",
+                "Monkeys: Added Desperado, added a monkeys page to keep track of monkey tier 3, tier 4, and tier 5 locations.",
+                "Other: Added Progressive Monkey Knowledge, along with a toggle between Original Knowledge and Progressive Knowledge."
+            ]
+        },
+        {
             "package_version": "0.1.1",
             "download_url": "https://github.com/Fairweather-Furry/btd6_fair/releases/download/v0.1.1/btd6_fair.zip",
             "sha256": "4bdb746ce63aa887b7dd6b0d48c452821e22d6fdd22ce0f5ba9a0a03335d7282",
