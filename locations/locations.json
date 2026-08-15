@@ -4075,6 +4075,89 @@
                         "force_invisibility_rules": ["LostCrevasse-Goal"]
                     }
                 ]
+            },
+            {
+                "name": "Ancient Portal",
+                "access_rules": [ "AncientPortal-MUnlock" ],
+                "sections": [
+                    {
+                        "name": "Easy",
+                        "chest_opened_img": "images/medals/medal_easy.png"
+                    },
+                    {
+                        "name": "Primary Only",
+                        "chest_opened_img": "images/medals/medal_primary.png",
+                        "access_rules": ["$primaryonly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Deflation",
+                        "chest_opened_img": "images/medals/medal_deflation.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Medium",
+                        "chest_opened_img": "images/medals/medal_medium.png"
+                    },
+                    {
+                        "name": "Reverse",
+                        "chest_opened_img": "images/medals/medal_reverse.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Military Only",
+                        "chest_opened_img": "images/medals/medal_military.png",
+                        "access_rules": ["$militaryonly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Apopalypse",
+                        "chest_opened_img": "images/medals/medal_apopalypse.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Hard",
+                        "chest_opened_img": "images/medals/medal_hard.png"
+                    },
+                    {
+                        "name": "Alternate Bloon Rounds",
+                        "chest_opened_img": "images/medals/medal_alternate.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Magic Only",
+                        "chest_opened_img": "images/medals/medal_magic.png",
+                        "access_rules": ["$magiconly"],
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Double HP MOABs",
+                        "chest_opened_img": "images/medals/medal_moabs.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Half Cash",
+                        "chest_opened_img": "images/medals/medal_cash.png",
+                        "visibility_rules": [ "op_difficulty_2" ]
+                    },
+                    {
+                        "name": "Impoppable",
+                        "chest_opened_img": "images/medals/medal_impoppable.png"
+                    },
+                    {
+                        "name": "Chimps",
+                        "chest_opened_img": "images/medals/medal_chimps1.png",
+                        "visibility_rules": [ "op_difficulty_1" ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "intermediatepg3",
+                        "x": 0,
+                        "y": 1090,
+                        "force_invisibility_rules": ["AncientPortal-Goal"]
+                    }
+                ]
             }
         ]
     },
@@ -5490,89 +5573,6 @@
                         "x": 850,
                         "y": 1090,
                         "force_invisibility_rules": ["Underground-Goal"]
-                    }
-                ]
-            },
-            {
-                "name": "Ancient Portal",
-                "access_rules": [ "AncientPortal-MUnlock" ],
-                "sections": [
-                    {
-                        "name": "Easy",
-                        "chest_opened_img": "images/medals/medal_easy.png"
-                    },
-                    {
-                        "name": "Primary Only",
-                        "chest_opened_img": "images/medals/medal_primary.png",
-                        "access_rules": ["$primaryonly"],
-                        "visibility_rules": [ "op_difficulty_2" ]
-                    },
-                    {
-                        "name": "Deflation",
-                        "chest_opened_img": "images/medals/medal_deflation.png",
-                        "visibility_rules": [ "op_difficulty_2" ]
-                    },
-                    {
-                        "name": "Medium",
-                        "chest_opened_img": "images/medals/medal_medium.png"
-                    },
-                    {
-                        "name": "Reverse",
-                        "chest_opened_img": "images/medals/medal_reverse.png",
-                        "visibility_rules": [ "op_difficulty_2" ]
-                    },
-                    {
-                        "name": "Military Only",
-                        "chest_opened_img": "images/medals/medal_military.png",
-                        "access_rules": ["$militaryonly"],
-                        "visibility_rules": [ "op_difficulty_2" ]
-                    },
-                    {
-                        "name": "Apopalypse",
-                        "chest_opened_img": "images/medals/medal_apopalypse.png",
-                        "visibility_rules": [ "op_difficulty_2" ]
-                    },
-                    {
-                        "name": "Hard",
-                        "chest_opened_img": "images/medals/medal_hard.png"
-                    },
-                    {
-                        "name": "Alternate Bloon Rounds",
-                        "chest_opened_img": "images/medals/medal_alternate.png",
-                        "visibility_rules": [ "op_difficulty_2" ]
-                    },
-                    {
-                        "name": "Magic Only",
-                        "chest_opened_img": "images/medals/medal_magic.png",
-                        "access_rules": ["$magiconly"],
-                        "visibility_rules": [ "op_difficulty_2" ]
-                    },
-                    {
-                        "name": "Double HP MOABs",
-                        "chest_opened_img": "images/medals/medal_moabs.png",
-                        "visibility_rules": [ "op_difficulty_2" ]
-                    },
-                    {
-                        "name": "Half Cash",
-                        "chest_opened_img": "images/medals/medal_cash.png",
-                        "visibility_rules": [ "op_difficulty_2" ]
-                    },
-                    {
-                        "name": "Impoppable",
-                        "chest_opened_img": "images/medals/medal_impoppable.png"
-                    },
-                    {
-                        "name": "Chimps",
-                        "chest_opened_img": "images/medals/medal_chimps1.png",
-                        "visibility_rules": [ "op_difficulty_1" ]
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "advancedpg2",
-                        "x": 1675,
-                        "y": 1090,
-                        "force_invisibility_rules": ["AncientPortal-Goal"]
                     }
                 ]
             },
@@ -7835,6 +7835,23 @@
                 ]
             },
             {
+                "name": "GOAL: Ancient Portal",
+                "visibility_rules": ["AncientPortal-Goal"],
+                "sections": [
+                    {
+                        "name": "GOAL"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "intermediatepg3",
+                        "x": 0,
+                        "y": 1090,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
                 "name": "GOAL: Castle Revenge",
                 "visibility_rules": ["CastleRevenge-Goal"],
                 "sections": [
@@ -8118,23 +8135,6 @@
                     {
                         "map": "advancedpg2",
                         "x": 850,
-                        "y": 1090,
-                        "shape": "diamond"
-                    }
-                ]
-            },
-            {
-                "name": "GOAL: Ancient Portal",
-                "visibility_rules": ["AncientPortal-Goal"],
-                "sections": [
-                    {
-                        "name": "GOAL"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "advancedpg2",
-                        "x": 1675,
                         "y": 1090,
                         "shape": "diamond"
                     }
