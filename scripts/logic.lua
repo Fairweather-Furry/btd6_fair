@@ -29,7 +29,7 @@ function dump_table(o, depth)
 end
 
 function primaryonly()
-  if (has("DartMonkey-TUnlock") or has("BoomerangMonkey-TUnlock") or has("BombShooter-TUnlock") or has("TackShooter-TUnlock") or has("IceMonkey-TUnlock") or has("GlueGunner-TUnlock")) then
+  if (has("DartMonkey-TUnlock") or has("BoomerangMonkey-TUnlock") or has("BombShooter-TUnlock") or has("TackShooter-TUnlock") or has("IceMonkey-TUnlock") or has("GlueGunner-TUnlock") or has("Desperado-TUnlock")) then
     return 1
   else
     return 0
@@ -45,7 +45,7 @@ function militaryonly()
 end
 
 function magiconly()
-  if (has("WizardMonkey-TUnlock") or has("SuperMonkey-TUnlock") or has("NinjaMonkey-TUnlock") or has("Alchemist-TUnlock") or has("Druid-TUnlock") or has("Mermonkey-TUnlock")) then
+  if (has("WizardMonkey-TUnlock") or has("SuperMonkey-TUnlock") or has("NinjaMonkey-TUnlock") or has("Alchemist-TUnlock") or has("Druid-TUnlock") or has("Mermonkey-TUnlock") or has("Skywarden-TUnlock")) then
     return 1
   else
     return 0

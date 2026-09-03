@@ -118,7 +118,7 @@ ITEM_MAPPING = {
     [112] = {"EngineerMonkey-TUnlock","toggle"},
     [113] = {"BeastHandler-TUnlock","toggle"},
     [114] = {"Desperado-TUnlock","toggle"},
---    [115] = {"Skywarden-TUnlock","toggle"},
+    [115] = {"Skywarden-TUnlock","toggle"},
 -- Heroes
     [116] = {"Quincy-HUnlock","toggle"},
     [117] = {"Gwendolin-HUnlock","toggle"},
@@ -137,7 +137,7 @@ ITEM_MAPPING = {
     [130] = {"Geraldo-HUnlock","toggle"},
     [131] = {"Corvus-HUnlock","toggle"},
     [132] = {"Silas-HUnlock","toggle"},
---    [133] = {"DanDMonke-HUnlock","toggle"},
+    [133] = {"DanDMonke-HUnlock","toggle"},
 -- Primary Knowledge
     [134] = {"FastTackAttacks-KUnlock","toggle"},
     [135] = {"IncreasedLifespan-KUnlock","toggle"},

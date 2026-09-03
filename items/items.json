@@ -197,6 +197,12 @@
         "codes": "Mermonkey-TUnlock"
     },
     {
+        "name": "Skywarden-TUnlock-Item",
+        "type": "toggle",
+        "img": "images/monkeys/skywarden.png",
+        "codes": "Skywarden-TUnlock"
+    },
+    {
         "name": "BananaFarm-TUnlock-Item",
         "type": "toggle",
         "img": "images/monkeys/bananafarm.png",
@@ -327,6 +333,12 @@
         "type": "toggle",
         "img": "images/monkeys/silas.png",
         "codes": "Silas-HUnlock"
+    },
+    {
+        "name": "DanD'Monkey-HUnlock-Item",
+        "type": "toggle",
+        "img": "images/monkeys/dandmonkey.png",
+        "codes": "DanDMonkey-HUnlock"
     },
     {
         "name": "FastTackAttacks-KUnlock-Item",
