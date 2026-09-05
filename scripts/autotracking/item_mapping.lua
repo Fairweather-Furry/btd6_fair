@@ -27,7 +27,7 @@ ITEM_MAPPING = {
     [25] = {"Logs-MUnlock","toggle"},
     [26] = {"SpaPits-MUnlock","toggle"},
     [27] = {"ThreeMinesAround-MUnlock","toggle"},
---    [28] = {"SkullTweak-MUnlock","toggle"},
+    [28] = {"SkullTweak-MUnlock","toggle"},
 -- Intermidiate
     [29] = {"LuminousCove-MUnlock","toggle"},
     [30] = {"SulfurSprings-MUnlock","toggle"},
@@ -76,8 +76,8 @@ ITEM_MAPPING = {
     [72] = {"LastResort-MUnlock","toggle"},
     [73] = {"PartyParade-MUnlock","toggle"},
     [74] = {"SunsetGulch-MUnlock","toggle"},
---    [75] = {"MushroomGrotto-MUnlock","toggle"},
---    [76] = {"Ascent-MUnlock","toggle"},
+    [75] = {"MushroomGrotto-MUnlock","toggle"},
+    [76] = {"Ascent-MUnlock","toggle"},
 -- Expert
     [77] = {"GlacialTrail-MUnlock","toggle"},
     [78] = {"DarkDungeons-MUnlock","toggle"},

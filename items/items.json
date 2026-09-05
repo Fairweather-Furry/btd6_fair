@@ -1295,6 +1295,12 @@
         "codes": "ThreeMinesAround-MUnlock"
     },
     {
+        "name": "SkullTweak-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/skulltweak.png",
+        "codes": "SkullTweak-MUnlock"
+    },
+    {
         "name": "LuminousCove-MUnlock-Item",
         "type": "toggle",
         "img": "images/maps/luminouscove.png",
@@ -1571,6 +1577,18 @@
         "codes": "SunsetGulch-MUnlock"
     },
     {
+        "name": "MushroomGrotto-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/mushroomgrotto.png",
+        "codes": "MushroomGrotto-MUnlock"
+    },
+    {
+        "name": "Ascent-MUnlock-Item",
+        "type": "toggle",
+        "img": "images/maps/ascent.png",
+        "codes": "Ascent-MUnlock"
+    },
+    {
         "name": "GlacialTrail-MUnlock-Item",
         "type": "toggle",
         "img": "images/maps/glacialtrail.png",
@@ -1797,6 +1815,12 @@
         "type": "toggle",
         "img": "images/maps/threeminesaround.png",
         "codes": "ThreeMinesAround-Goal"
+    },
+    {
+        "name": "SkullTweak-Goal",
+        "type": "toggle",
+        "img": "images/maps/skulltweak.png",
+        "codes": "SkullTweak-Goal"
     },
     {
         "name": "LuminousCove-Goal",
@@ -2073,6 +2097,18 @@
         "type": "toggle",
         "img": "images/maps/sunsetgulch.png",
         "codes": "SunsetGulch-Goal"
+    },
+    {
+        "name": "MushroomGrotto-Goal",
+        "type": "toggle",
+        "img": "images/maps/mushroomgrotto.png",
+        "codes": "MushroomGrotto-Goal"
+    },
+    {
+        "name": "Ascent-Goal",
+        "type": "toggle",
+        "img": "images/maps/ascent.png",
+        "codes": "Ascent-Goal"
     },
     {
         "name": "GlacialTrail-Goal",
