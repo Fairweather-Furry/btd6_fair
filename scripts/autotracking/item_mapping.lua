@@ -137,7 +137,7 @@ ITEM_MAPPING = {
     [130] = {"Geraldo-HUnlock","toggle"},
     [131] = {"Corvus-HUnlock","toggle"},
     [132] = {"Silas-HUnlock","toggle"},
-    [133] = {"DanDMonke-HUnlock","toggle"},
+    [133] = {"DanDMonkey-HUnlock","toggle"},
 -- Primary Knowledge
     [134] = {"FastTackAttacks-KUnlock","toggle"},
     [135] = {"IncreasedLifespan-KUnlock","toggle"},
@@ -279,7 +279,7 @@ ITEM_MAPPING = {
     [266] = {"PowerfulMonkeyStorm-KUnlock","toggle"},
     [267] = {"GrandPrixSpree-KUnlock","toggle"},
 -- Knowledge
-    [999] = {"ProgressiveKnowledge","consumable"},
+    [999] = {"ProgressiveKnowledge","consumable"}
 -- Monkeys 2
 --    [268] = {"DartMonkey-TopPath","toggle"},
 --    [269] = {"DartMonkey-MiddlePath","toggle"},
@@ -465,8 +465,8 @@ GOAL_MAPPING = {
     ["LastResort"] = "LastResort-Goal",
     ["PartyParade"] = "PartyParade-Goal",
     ["SunsetGulch"] = "SunsetGulch-Goal",
-    ["MushroomGrotto"] = "MushroomGrotto-Goal"
-    ["Ascent"] = "Ascent-Goal"
+    ["MushroomGrotto"] = "MushroomGrotto-Goal",
+    ["Ascent"] = "Ascent-Goal",
 --  Expert
     ["GlacialTrail"] = "GlacialTrail-Goal",
     ["DarkDungeons"] = "DarkDungeons-Goal",
